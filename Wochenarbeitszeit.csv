@@ -1,0 +1,780 @@
+Vorname (bürgerlich);Nachname (bürgerlich);Wirksamkeitsdatum;Personalnummer;wöchentliche Arbeitszeit;Wochenstunden;FTE;Status
+Adélaïde;Chopard;27.03.2025;2017623;;40,00;0,00;Inaktiv
+Adélaïde;Chopard;03.01.2025;2017623;;40,00;0,00;Auszeit
+Adélaïde;Chopard;03.04.2024;2017623;;40,00;0,00;Inaktiv
+Adélaïde;Chopard;01.02.2024;2017623;;40,00;0,00;Auszeit
+Adélaïde;Chopard;15.11.2023;;;;0,00;Onboarding
+Adélaïde;Chopard;12.02.2024;2016128;;40,00;1,00;Aktiv
+Adélaïde;Chopard;01.02.2024;;;40,00;1,00;Aktiv
+Alena;Bubeck;01.02.2025;2017597;;32,00;0,80;Aktiv
+Alena;Bubeck;01.04.2023;2017597;;40,00;0,00;Auszeit
+Alena;Bubeck;16.01.2023;2017597;;40,00;1,00;Aktiv
+Alena;Bubeck;24.11.2022;;;;0,00;Onboarding
+Alena;Bubeck;01.02.2025;2016111;;8,00;0,20;Aktiv
+Alena;Bubeck;01.04.2023;2016111;;40,00;1,00;Aktiv
+Alena;Bubeck;23.03.2023;;;;0,00;Onboarding
+Alexandra;Fezer;01.01.2023;2017015;20;24,00;0,60;Aktiv
+Alexandra;Bach;07.03.2023;2017084;;40,00;0,00;Inaktiv
+Alexandra;Bach;21.10.2022;2017084;;40,00;1,00;Aktiv
+Alice;Seim;09.09.2024;2017082;;40,00;0,00;Inaktiv
+Alice;Seim;21.10.2022;2017082;;40,00;1,00;Aktiv
+Alina;Klingel;24.01.2023;2016072;8.5;40,00;0,00;Inaktiv
+Alina;Klingel;14.09.2022;;8.5;40,00;0,00;Inaktiv
+Alparslan;Akkus;27.03.2025;2017614;;36,00;0,00;Inaktiv
+Alparslan;Akkus;02.10.2023;2017614;;36,00;0,00;Auszeit
+Alparslan;Akkus;01.10.2023;;;36,00;0,00;Auszeit
+Alparslan;Akkus;18.09.2023;;;;0,00;Onboarding
+Alparslan;Akkus;04.10.2023;2016123;;36,00;0,90;Aktiv
+Alparslan;Akkus;02.10.2023;2016123;;36,00;0,00;Onboarding
+Alparslan;Akkus;01.10.2023;;;36,00;0,00;Onboarding
+Alparslan;Akkus;20.09.2023;;;;0,00;Onboarding
+Andreas;Czech;02.01.2025;2017618;;40,00;0,00;Inaktiv
+Andreas;Czech;01.01.2025;2017618;;40,00;1,00;Aktiv
+Andreas;Czech;01.01.2024;2017618;;40,00;0,00;Auszeit
+Andreas;Czech;26.10.2023;;;;0,00;Onboarding
+Andreas;Czech;01.01.2025;2016126;;40,00;0,00;Inaktiv
+Andreas;Czech;15.01.2024;2016126;;40,00;1,00;Aktiv
+Andreas;Czech;01.01.2024;;;40,00;1,00;Aktiv
+Andreas;Aron Winkler;01.07.2025;2017651;;40,00;1,00;Aktiv
+Andreas;Aron Winkler;25.04.2025;;;;0,00;Onboarding
+Anette;Mack;21.10.2022;2016062;22;22,00;0,55;Aktiv
+Anette;Mack;04.07.2023;2017002;;22,00;0,00;Inaktiv
+Anette;Mack;11.01.2023;2017002;;40,00;1,00;Aktiv
+Anette;Mack;07.12.2022;;;40,00;1,00;Aktiv
+Angela;Heni;30.04.2024;2017013;40;25,00;0,00;Inaktiv
+Angela;Heni;01.01.2023;2017013;40;25,00;0,63;Aktiv
+Angelina-Erika;Buchter;01.04.2024;2017595;;32,00;0,80;Aktiv
+Angelina-Erika;Buchter;01.01.2024;2017595;;40,00;1,00;Aktiv
+Angelina-Erika;Buchter;01.06.2023;2017595;;8,00;0,00;Auszeit
+Angelina-Erika;Buchter;01.11.2022;2017595;;40,00;0,00;Auszeit
+Angelina-Erika;Buchter;10.09.2024;2016108;;32,00;0,00;Inaktiv
+Angelina-Erika;Buchter;01.01.2024;2016108;;32,00;0,00;Auszeit
+Angelina-Erika;Buchter;01.06.2023;2016108;;32,00;0,80;Aktiv
+Angelina-Erika;Buchter;12.11.2022;2016108;;40,00;1,00;Aktiv
+Anika;Hasenmaile;01.04.2023;2017592;;40,00;0,00;Inaktiv
+Anika;Hasenmaile;21.10.2022;2017592;;40,00;1,00;Aktiv
+Anke;Deckers;01.11.2024;2017641;;7,00;0,18;Aktiv
+Anke;Deckers;18.09.2024;;;;0,00;Onboarding
+Anke;Deckers;07.11.2024;2016139;;21,00;0,53;Aktiv
+Anke;Deckers;01.11.2024;;;21,00;0,53;Aktiv
+Anke;Deckers;30.10.2024;;;;0,00;Onboarding
+Anna Charlotte;Schlicke;04.01.2024;2017006;40;40,00;0,00;Inaktiv
+Anna Charlotte;Schlicke;07.12.2022;2017006;40;40,00;0,00;Auszeit
+Anna Charlotte;Schlicke;01.09.2022;2016013;;40,00;1,00;Aktiv
+Annalisa;Pierro;01.11.2024;2017639;;40,00;1,00;Aktiv
+Annalisa;Pierro;06.08.2024;;;;0,00;Onboarding
+Anneline;Sieffert;28.11.2022;2017591;40;40,00;0,00;Inaktiv
+Anthony;Salingre;01.01.2024;2017505;16;10,00;0,25;Aktiv
+Anthony;Salingre;29.06.2023;2017505;16;16,00;0,40;Aktiv
+Anthony;Salingre;01.01.2023;2017505;16;40,00;1,00;Aktiv
+Anthony;Salingre;12.01.2024;2016009;30;30,00;0,75;Aktiv
+Anthony;Salingre;01.01.2024;2016009;16;30,00;0,75;Aktiv
+Anthony;Salingre;21.10.2022;2016009;16;16,00;0,40;Aktiv
+Ariadne;Dimakou Bertels;01.01.2024;2017048;30;40,00;1,00;Aktiv
+Ariadne;Dimakou Bertels;01.08.2023;2017048;30;10,00;0,25;Aktiv
+Ariadne;Dimakou Bertels;21.10.2022;2017048;30;30,00;0,75;Aktiv
+Ariadne;Dimakou Bertels;03.04.2024;2016073;10;30,00;0,00;Inaktiv
+Ariadne;Dimakou Bertels;01.01.2024;2016073;10;30,00;0,00;Auszeit
+Ariadne;Dimakou Bertels;01.08.2023;2016073;10;30,00;0,75;Aktiv
+Ariadne;Dimakou Bertels;21.10.2022;2016073;10;10,00;0,25;Aktiv
+Astrid Alejandra;Campos Cuellar;01.07.2024;2016055;40;40,00;0,00;Inaktiv
+Astrid Alejandra;Campos Cuellar;21.10.2022;2016055;40;40,00;1,00;Aktiv
+Astrid Alejandra;Campos Cuellar;01.07.2024;2017052;;40,00;1,00;Aktiv
+Astrid Alejandra;Campos Cuellar;01.01.2024;2017052;;40,00;0,00;Auszeit
+Astrid Alejandra;Campos Cuellar;20.01.2023;2017052;;40,00;1,00;Aktiv
+Astrid Alejandra;Campos Cuellar;18.11.2022;2017052;;40,00;0,00;Auszeit
+Ati;Pein;08.07.2024;2016100;38;40,00;0,00;Inaktiv
+Ati;Pein;01.05.2024;2016100;38;40,00;1,00;Aktiv
+Ati;Pein;21.10.2022;2016100;40;40,00;1,00;Aktiv
+Ati;Pein;01.07.2024;2017078;;38,00;0,95;Aktiv
+Ati;Pein;16.07.2023;2017078;;40,00;0,00;Auszeit
+Ati;Pein;24.01.2023;2017078;;40,00;1,00;Aktiv
+Ati;Pein;16.07.2022;;;40,00;1,00;Aktiv
+Bettina;Remmele-Hertfelder;04.11.2024;2016042;40;24,00;0,00;Auszeit
+Bettina;Remmele-Hertfelder;01.01.2024;2016042;40;24,00;0,60;Aktiv
+Bettina;Remmele-Hertfelder;01.07.2023;2016042;40;20,00;0,50;Aktiv
+Bettina;Remmele-Hertfelder;30.06.2023;2016042;40;40,00;1,00;Aktiv
+Bettina;Remmele-Hertfelder;13.12.2022;2016042;40;40,00;0,00;Auszeit
+Bettina;Remmele-Hertfelder;04.01.2024;2017041;;24,00;0,00;Inaktiv
+Bettina;Remmele-Hertfelder;03.01.2024;2017041;;24,00;0,00;Auszeit
+Bettina;Remmele-Hertfelder;19.12.2023;2017041;;20,00;0,00;Auszeit
+Bettina;Remmele-Hertfelder;30.06.2023;2017041;;20,00;0,00;Inaktiv
+Bettina;Remmele-Hertfelder;01.05.2023;2017041;;20,00;0,50;Aktiv
+Bettina;Remmele-Hertfelder;01.01.2023;2017041;;40,00;1,00;Aktiv
+Birgit;Föll;21.10.2022;2016058;20;20,00;0,50;Aktiv
+Birgit;Föll;14.06.2023;2017004;;20,00;0,00;Inaktiv
+Birgit;Föll;23.03.2023;2017004;;20,00;0,00;Auszeit
+Birgit;Föll;11.01.2023;2017004;;40,00;0,00;Auszeit
+Canesia D'Andrea;Amarysti;06.11.2024;2016101;;40,00;1,00;Aktiv
+Canesia D'Andrea;Amarysti;25.10.2023;2016101;;40,00;0,00;Inaktiv
+Canesia D'Andrea;Amarysti;21.07.2023;2016101;;40,00;0,00;Auszeit
+Canesia D'Andrea;Amarysti;21.10.2022;2016101;;40,00;1,00;Aktiv
+Canesia D'Andrea;Amarysti;27.03.2025;2017080;;40,00;0,00;Inaktiv
+Canesia D'Andrea;Amarysti;01.11.2024;2017080;;40,00;0,00;Auszeit
+Canesia D'Andrea;Amarysti;12.09.2023;2017080;;40,00;1,00;Aktiv
+Canesia D'Andrea;Amarysti;01.08.2022;;;40,00;1,00;Aktiv
+Carina;Gliese;12.07.2023;2017077;;40,00;0,00;Inaktiv
+Carina;Gliese;01.02.2022;2017077;;40,00;0,00;Auszeit
+Carina;Gliese;16.08.2023;2016096;40;40,00;0,00;Inaktiv
+Carina;Gliese;21.10.2022;2016096;40;40,00;1,00;Aktiv
+Chanda;Mulenga;04.11.2022;2017588;7.5;40,00;0,00;Inaktiv
+Chiara;Adam;03.01.2025;2017634;;40,00;0,00;Inaktiv
+Chiara;Adam;01.10.2024;2017634;;40,00;0,00;Auszeit
+Chiara;Adam;24.06.2024;;;;0,00;Onboarding
+Chiara;Adam;03.01.2025;2016143;;40,00;0,00;Inaktiv
+Chiara;Adam;09.10.2024;2016143;;40,00;1,00;Aktiv
+Chiara;Adam;01.10.2024;;;40,00;1,00;Aktiv
+Chiara;Adam;16.09.2024;;;;0,00;Onboarding
+Chrispin Boniface;Sanga;19.07.2023;2017606;40;40,00;1,00;Aktiv
+Chrispin Boniface;Sanga;18.07.2023;2017606;40;40,00;0,00;Onboarding
+Chrispin Boniface;Sanga;31.05.2023;2017606;40;40,00;1,00;Aktiv
+Chrispin Boniface;Sanga;10.05.2023;;40;40,00;1,00;Aktiv
+Chrispin Boniface;Sanga;27.03.2023;;;40,00;1,00;Aktiv
+Chrispin Boniface;Sanga;21.03.2023;;;;0,00;Onboarding
+Chrispin Boniface;Sanga;12.06.2025;2016120;;40,00;0,00;Inaktiv
+Chrispin Boniface;Sanga;06.12.2023;;;40,00;0,00;Inaktiv
+Chrispin Boniface;Sanga;05.10.2023;;;40,00;1,00;Aktiv
+Chrispin Boniface;Sanga;01.10.2023;;;40,00;0,00;Onboarding
+Chrispin Boniface;Sanga;07.08.2023;;;;0,00;Onboarding
+Clara Maria;Duffner;01.06.2023;2017601;;30,00;0,00;Auszeit
+Clara Maria;Duffner;01.03.2023;2017601;;30,00;0,75;Aktiv
+Clara Maria;Duffner;20.01.2023;;;;0,00;Onboarding
+Clara Maria;Duffner;05.06.2023;2016114;;30,00;0,75;Aktiv
+Clara Maria;Duffner;01.06.2023;2016114;;30,00;0,00;Onboarding
+Clara Maria;Duffner;30.05.2023;;;;0,00;Onboarding
+Clementine;Roth;01.02.2025;2017546;40;32,00;0,80;Aktiv
+Clementine;Roth;01.11.2023;2017546;40;28,00;0,70;Aktiv
+Clementine;Roth;21.01.2023;2017546;40;40,00;0,00;Auszeit
+Clementine;Roth;20.01.2023;2017546;40;40,00;1,00;Aktiv
+Clementine;Roth;16.12.2022;2017546;40;40,00;0,00;Auszeit
+Cordula;Bönsch;27.03.2025;2017626;;40,00;0,00;Inaktiv
+Cordula;Bönsch;16.04.2024;2017626;;40,00;0,00;Auszeit
+Cordula;Bönsch;15.01.2024;;;;0,00;Onboarding
+Cordula;Bönsch;16.04.2024;2016134;;40,00;1,00;Aktiv
+Cordula;Bönsch;05.03.2024;;;;0,00;Onboarding
+Daniela;Chiran;01.01.2023;2017513;40;30,00;0,75;Aktiv
+Daniela;Keim;21.10.2022;2136004;32;32,00;0,80;Aktiv
+Daniela;Rios Rodriguez;01.04.2025;2017594;40,00;40,00;1,00;Aktiv
+Daniela;Rios Rodriguez;01.10.2024;2017594;40,00;40,00;0,00;Auszeit
+Daniela;Rios Rodriguez;04.11.2022;2017594;40,00;40,00;1,00;Aktiv
+Daniela;Keim;11.09.2023;2017056;;32,00;0,00;Inaktiv
+Daniela;Keim;13.07.2023;;;32,00;0,00;Inaktiv
+Daniela;Keim;10.07.2023;;;32,00;0,00;Auszeit
+Daniela;Rios Rodriguez;01.04.2025;2016138;;40,00;0,00;Inaktiv
+Daniela;Rios Rodriguez;10.10.2024;2016138;;40,00;1,00;Aktiv
+Daniela;Rios Rodriguez;01.10.2024;;;40,00;1,00;Aktiv
+Daniela;Rios Rodriguez;22.08.2024;;;;0,00;Onboarding
+Despoina;Ntagiakou;24.01.2023;2017067;40;40,00;0,00;Inaktiv
+Despoina;Ntagiakou;10.08.2022;;40;40,00;0,00;Inaktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;01.06.2025;2017613;;40,00;1,00;Aktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;27.03.2025;2017613;;40,00;0,00;Inaktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;01.10.2024;2017613;;40,00;0,00;Auszeit
+Dhanesh Chathuranga;Delpachithra Arachchige;04.10.2023;2017613;;40,00;1,00;Aktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;01.10.2023;2017613;;40,00;0,00;Onboarding
+Dhanesh Chathuranga;Delpachithra Arachchige;12.09.2023;;;;0,00;Onboarding
+Dhanesh Chathuranga;Delpachithra Arachchige;01.06.2025;2016137;;40,00;0,00;Inaktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;01.10.2024;2016137;;40,00;1,00;Aktiv
+Dhanesh Chathuranga;Delpachithra Arachchige;22.08.2024;;;;0,00;Onboarding
+Edina;Löhr;01.07.2025;2017557;24;20,00;0,50;Aktiv
+Edina;Löhr;01.07.2024;2017557;24;24,00;0,60;Aktiv
+Edina;Löhr;01.11.2022;2017557;24;40,00;0,00;Auszeit
+Edina;Löhr;12.07.2024;2016064;;24,00;0,00;Inaktiv
+Edina;Löhr;01.07.2024;2016064;;24,00;0,00;Auszeit
+Edina;Löhr;18.05.2024;2016064;;24,00;0,60;Aktiv
+Edina;Löhr;08.01.2024;2016064;;24,00;0,00;Inaktiv
+Edina;Löhr;04.01.2024;2016064;;26,00;0,00;Inaktiv
+Edina;Löhr;14.07.2023;2016064;;26,00;0,00;Auszeit
+Edina;Löhr;14.11.2022;2016064;;26,00;0,65;Aktiv
+Eduardo Manuel;Herrmann;11.12.2023;2017503;40;28,00;0,00;Inaktiv
+Eduardo Manuel;Herrmann;01.09.2023;2017503;40;28,00;0,70;Aktiv
+Eduardo Manuel;Herrmann;21.10.2022;2017503;40;40,00;1,00;Aktiv
+Ekaterina;Korobovich;01.05.2024;2017628;;40,00;0,00;Auszeit
+Ekaterina;Korobovich;26.02.2024;;;;0,00;Onboarding
+Ekaterina;Korobovich;01.05.2024;2016129;;40,00;1,00;Aktiv
+Ekaterina;Korobovich;28.02.2024;;;;0,00;Onboarding
+Elke;Weidenfelder;27.05.2025;2017066;40;40,00;0,00;Auszeit
+Elke;Weidenfelder;27.03.2025;2017066;40;40,00;0,00;Inaktiv
+Elke;Weidenfelder;01.06.2024;2017066;40;40,00;0,00;Auszeit
+Elke;Weidenfelder;21.10.2022;2017066;40;40,00;1,00;Aktiv
+Elke;Weidenfelder;01.06.2024;2016084;40;40,00;1,00;Aktiv
+Elke;Weidenfelder;24.01.2023;2016084;40;40,00;0,00;Auszeit
+Elke;Weidenfelder;04.11.2022;2016084;40;40,00;1,00;Aktiv
+Emilio;Fernandez Cortez;18.03.2025;2017633;;40,00;0,00;Inaktiv
+Emilio;Fernandez Cortez;12.02.2025;2017633;;40,00;1,00;Aktiv
+Emilio;Fernandez Cortez;01.04.2024;;;8,00;0,20;Aktiv
+Emilio;Fernandez Cortez;01.04.2025;2016146;;40,00;0,00;Inaktiv
+Emilio;Fernandez Cortez;12.02.2025;;;;0,00;Onboarding
+Emily Maja;Schäfer;01.10.2024;2016136;;0,00;0,00;Inaktiv
+Emily Maja;Schäfer;10.05.2024;2016136;;0,00;0,00;Aktiv
+Emily Maja;Schäfer;07.05.2024;;;0,00;0,00;Aktiv
+Emily Maja;Schäfer;01.05.2024;;;9,00;0,23;Aktiv
+Eva Juliane;Kopf;24.07.2024;2017552;8;40,00;1,00;Aktiv
+Eva Juliane;Kopf;13.07.2024;2017552;8;40,00;0,00;Auszeit
+Eva Juliane;Kopf;01.07.2024;2017552;8;40,00;1,00;Aktiv
+Eva Juliane;Kopf;04.01.2024;2017552;8;8,00;0,00;Inaktiv
+Eva Juliane;Kopf;01.01.2024;2017552;8;8,00;0,00;Auszeit
+Eva Juliane;Kopf;21.10.2022;2017552;8;8,00;0,20;Aktiv
+Eva Juliane;Kopf;12.07.2024;2016066;32;40,00;0,00;Inaktiv
+Eva Juliane;Kopf;01.01.2024;2016066;32;40,00;1,00;Aktiv
+Eva Juliane;Kopf;21.10.2022;2016066;32;32,00;0,80;Aktiv
+Faith Mary Louise;Blakemore;02.01.2024;2017541;40;40,00;0,00;Inaktiv
+Faith Mary Louise;Blakemore;01.01.2024;2017541;40;40,00;1,00;Aktiv
+Faith Mary Louise;Blakemore;01.08.2023;2017541;40;40,00;0,00;Auszeit
+Faith Mary Louise;Blakemore;21.10.2022;2017541;40;40,00;1,00;Aktiv
+Faith Mary Louise;Blakemore;02.01.2024;2016118;;40,00;0,00;Inaktiv
+Faith Mary Louise;Blakemore;02.08.2023;2016118;;40,00;1,00;Aktiv
+Faith Mary Louise;Blakemore;01.08.2023;;;40,00;1,00;Aktiv
+Ferit;Ekrek;01.02.2025;2017645;;40,00;0,00;Inaktiv
+Ferit;Ekrek;22.01.2025;;;;0,00;Onboarding
+Fernando Javier;Barrientos;17.09.2024;2016038;40;30,00;0,75;Aktiv
+Fernando Javier;Barrientos;01.01.2024;2016038;40;20,00;0,50;Aktiv
+Fernando Javier;Barrientos;01.06.2023;2016038;40;40,00;0,00;Auszeit
+Fernando Javier;Barrientos;17.12.2022;2016038;40;40,00;1,00;Aktiv
+Fernando Javier;Barrientos;27.03.2025;2017037;;20,00;0,00;Inaktiv
+Fernando Javier;Barrientos;01.01.2024;2017037;;20,00;0,00;Auszeit
+Fernando Javier;Barrientos;22.11.2023;2017037;;20,00;0,50;Aktiv
+Fernando Javier;Barrientos;15.06.2023;2017037;;40,00;1,00;Aktiv
+Fernando Javier;Barrientos;01.06.2023;2017037;;40,00;0,00;Onboarding
+Fernando Javier;Barrientos;31.05.2023;2017037;;40,00;0,00;Auszeit
+Fernando Javier;Barrientos;25.01.2023;2017037;;40,00;1,00;Aktiv
+Fernando Javier;Barrientos;13.12.2022;2017037;;40,00;0,00;Auszeit
+Francisco Javier;Casado Hebrard;07.10.2024;2016092;10;30,00;0,00;Inaktiv
+Francisco Javier;Casado Hebrard;01.03.2024;2016092;10;30,00;0,75;Aktiv
+Francisco Javier;Casado Hebrard;21.10.2022;2016092;10;10,00;0,25;Aktiv
+Francisco Javier;Casado Hebrard;07.10.2024;2017073;30;10,00;0,00;Inaktiv
+Francisco Javier;Casado Hebrard;01.03.2024;2017073;30;10,00;0,25;Aktiv
+Francisco Javier;Casado Hebrard;01.09.2023;2017073;30;30,00;0,75;Aktiv
+Francisco Javier;Casado Hebrard;21.10.2022;2017073;30;40,00;1,00;Aktiv
+Franziska;Bold;15.03.2023;2017598;;40,00;0,00;Inaktiv
+Franziska;Bold;15.01.2023;2017598;;40,00;1,00;Aktiv
+Franziska;Bold;01.01.2023;;;40,00;1,00;Aktiv
+Frederick;von Netzer;19.05.2025;2017609;;10,00;0,00;Auszeit
+Frederick;von Netzer;27.03.2025;2017609;;10,00;0,00;Inaktiv
+Frederick;von Netzer;01.09.2024;2017609;;10,00;0,00;Auszeit
+Frederick;von Netzer;01.07.2023;2017609;;10,00;0,25;Aktiv
+Frederick;von Netzer;15.05.2023;;;;0,00;Onboarding
+Frederick;von Netzer;01.09.2024;2016116;;40,00;1,00;Aktiv
+Frederick;von Netzer;13.07.2023;2016116;;30,00;0,75;Aktiv
+Frederick;von Netzer;01.07.2023;;;30,00;0,75;Aktiv
+Frederik;Bischler;21.10.2022;2017086;;40,00;1,00;Aktiv
+Fredy;Rios Silva;01.01.2024;2016071;;32,00;0,80;Aktiv
+Fredy;Rios Silva;01.01.2023;2016071;;8,00;0,20;Aktiv
+Fredy;Rios Silva;01.01.2024;2017570;8;8,00;0,20;Aktiv
+Fredy;Rios Silva;01.01.2023;2017570;8;32,00;0,80;Aktiv
+Gabriele;Kaiser;03.04.2024;2016040;40;40,00;0,00;Inaktiv
+Gabriele;Kaiser;01.03.2024;2016040;40;20,00;0,00;Auszeit
+Gabriele;Kaiser;22.01.2024;2016040;40;40,00;1,00;Aktiv
+Gabriele;Kaiser;19.01.2024;2016040;40;40,00;0,00;Auszeit
+Gabriele;Kaiser;21.10.2022;2016040;40;40,00;1,00;Aktiv
+Gabriele;Kaiser;11.04.2024;2017044;40;20,00;0,50;Aktiv
+Gabriele;Kaiser;04.04.2024;2017044;40;20,00;0,00;Auszeit
+Gabriele;Kaiser;03.04.2024;2017044;40;20,00;0,50;Aktiv
+Gabriele;Kaiser;12.03.2024;2017044;40;20,00;0,00;Auszeit
+Gabriele;Kaiser;11.03.2024;2017044;40;20,00;0,50;Aktiv
+Gabriele;Kaiser;09.03.2024;2017044;40;20,00;0,00;Auszeit
+Gabriele;Kaiser;01.03.2024;2017044;40;20,00;0,50;Aktiv
+Gabriele;Kaiser;10.01.2024;2017044;40;40,00;0,00;Auszeit
+Gabriele;Kaiser;08.01.2024;2017044;40;40,00;1,00;Aktiv
+Gabriele;Kaiser;14.06.2023;2017044;;40,00;0,00;Inaktiv
+Gabriele;Kaiser;21.12.2022;2017044;;40,00;0,00;Auszeit
+Giorgia;Tzar;30.06.2023;2017593;;40,00;0,00;Inaktiv
+Giorgia;Tzar;01.01.2023;2017593;;40,00;1,00;Aktiv
+Giorgia;Tzar;01.01.2024;2016115;;40,00;0,00;Inaktiv
+Giorgia;Tzar;03.07.2023;2016115;;40,00;1,00;Aktiv
+Giorgia;Tzar;01.07.2023;;;40,00;1,00;Aktiv
+Giorgia;Tzar;30.06.2023;;;;0,00;Onboarding
+Glykeria;Duelli;11.02.2025;2017636;;32,00;0,00;Inaktiv
+Glykeria;Duelli;01.10.2024;2017636;;32,00;0,80;Aktiv
+Glykeria;Duelli;01.07.2024;;;;0,00;Onboarding
+Goranka;Zett;27.03.2025;2017637;;40,00;0,00;Inaktiv
+Goranka;Zett;16.10.2024;2017637;;40,00;0,00;Auszeit
+Goranka;Zett;24.07.2024;;;;0,00;Onboarding
+Goranka;Zett;22.10.2024;2016144;;40,00;1,00;Aktiv
+Goranka;Zett;16.10.2024;;;40,00;1,00;Aktiv
+Goranka;Zett;15.10.2024;;;;0,00;Onboarding
+Hanna;Schäfer;21.10.2022;2017040;40;40,00;1,00;Aktiv
+Heike;Fischer;01.06.2025;2017005;20;20,00;0,50;Aktiv
+Heike;Fischer;01.05.2025;2017005;40;32,00;0,80;Aktiv
+Heike;Fischer;25.11.2022;2017005;32;32,00;0,80;Aktiv
+Heike;Iffland;24.01.2023;2016006;24;24,00;0,00;Inaktiv
+Heike;Iffland;14.09.2022;;24;24,00;0,00;Inaktiv
+Igor;Nunes Vidal;03.04.2024;2017600;;40,00;0,00;Inaktiv
+Igor;Nunes Vidal;07.08.2023;2017600;;40,00;1,00;Aktiv
+Igor;Nunes Vidal;31.03.2023;2017085;;40,00;1,00;Aktiv
+Igor;Nunes Vidal;20.01.2023;2017085;;40,00;0,00;Auszeit
+Igor;Nunes Vidal;21.10.2022;2017085;;40,00;1,00;Aktiv
+Ina;Qian;01.10.2024;2017635;;40,00;1,00;Aktiv
+Ina;Qian;01.07.2024;;;;0,00;Onboarding
+Irene;Robles Garcia;15.11.2023;2016091;30;30,00;0,00;Inaktiv
+Irene;Robles Garcia;21.10.2022;2016091;30;30,00;0,75;Aktiv
+Irene;Robles Garcia;15.11.2023;2017577;10;40,00;0,00;Inaktiv
+Irene;Robles Garcia;21.10.2022;2017577;10;40,00;1,00;Aktiv
+Irina;Coifescu;24.01.2023;2017573;40;40,00;0,00;Inaktiv
+Irina;Coifescu;26.07.2022;;40;40,00;0,00;Inaktiv
+Isabel;Kaiser;01.07.2024;2016089;40;40,00;0,00;Inaktiv
+Isabel;Kaiser;21.10.2022;2016089;40;40,00;1,00;Aktiv
+Isabel;Kaiser;01.07.2024;2017064;;40,00;1,00;Aktiv
+Isabel;Kaiser;08.08.2023;2017064;;40,00;0,00;Inaktiv
+Isabel;Kaiser;21.06.2023;2017064;;40,00;0,00;Auszeit
+Isabel;Kaiser;20.04.2023;;;40,00;0,00;Auszeit
+Isabell;Sachs;27.03.2025;2017025;32;15,00;0,00;Inaktiv
+Isabell;Sachs;18.02.2025;2017025;32;15,00;0,00;Auszeit
+Isabell;Sachs;20.01.2023;2017025;32;40,00;0,00;Auszeit
+Isabell;Sachs;01.01.2023;2017025;32;40,00;1,00;Aktiv
+Isabell;Sachs;01.03.2025;2016024;;15,00;0,38;Aktiv
+Isabell;Sachs;18.02.2025;;;;0,00;Onboarding
+Isabelle;Dubreuilh;01.06.2025;2016102;;36,00;0,00;Inaktiv
+Isabelle;Dubreuilh;01.09.2024;2016102;;36,00;0,90;Aktiv
+Isabelle;Dubreuilh;21.10.2022;2016102;;40,00;1,00;Aktiv
+Isabelle;Dubreuilh;07.08.2024;2017079;;36,00;0,00;Inaktiv
+Isabelle;Dubreuilh;30.07.2024;;;36,00;0,00;Inaktiv
+Isabelle;Dubreuilh;01.01.2024;;;36,00;0,90;Aktiv
+Isabelle;Dubreuilh;01.09.2022;;;40,00;1,00;Aktiv
+Iuliana;Nichersu;01.08.2023;2017576;10;40,00;0,00;Inaktiv
+Iuliana;Nichersu;01.12.2022;2017576;10;40,00;1,00;Aktiv
+Iuliana;Nichersu;14.06.2023;2016076;30;30,00;0,00;Inaktiv
+Iuliana;Nichersu;01.12.2022;2016076;30;30,00;0,00;Auszeit
+Ivo;Zeller;01.06.2024;2016068;32;32,00;0,80;Aktiv
+Ivo;Zeller;01.03.2024;2016068;32;8,00;0,00;Auszeit
+Ivo;Zeller;29.05.2023;2016068;32;8,00;0,20;Aktiv
+Ivo;Zeller;29.04.2023;2016068;32;8,00;0,00;Auszeit
+Ivo;Zeller;01.01.2023;2016068;32;8,00;0,20;Aktiv
+Ivo;Zeller;01.06.2024;2017556;8;8,00;0,20;Aktiv
+Ivo;Zeller;01.03.2024;2017556;8;40,00;1,00;Aktiv
+Ivo;Zeller;01.01.2024;2017556;8;32,00;0,00;Auszeit
+Ivo;Zeller;29.05.2023;2017556;8;32,00;0,80;Aktiv
+Ivo;Zeller;29.04.2023;2017556;8;32,00;0,00;Auszeit
+Ivo;Zeller;01.01.2023;2017556;8;32,00;0,80;Aktiv
+Jacqueline;Fritz;04.01.2024;2017561;;40,00;0,00;Inaktiv
+Jacqueline;Fritz;01.05.2023;2017561;;40,00;0,00;Auszeit
+Jacqueline;Fritz;04.11.2022;2017561;;40,00;1,00;Aktiv
+Jacqueline;Findling;27.03.2025;2017625;;40,00;0,00;Inaktiv
+Jacqueline;Findling;01.03.2024;2017625;;40,00;0,00;Auszeit
+Jacqueline;Findling;01.02.2024;2017625;;40,00;1,00;Aktiv
+Jacqueline;Findling;02.01.2024;;;;0,00;Onboarding
+Jacqueline;Findling;07.03.2024;2016130;;40,00;1,00;Aktiv
+Jacqueline;Findling;05.03.2024;;;40,00;1,00;Aktiv
+Jacqueline;Findling;04.03.2024;;;40,00;0,00;Onboarding
+Jacqueline;Findling;01.03.2024;;;40,00;1,00;Aktiv
+Jacqueline Irena;Fritz;01.05.2023;2016065;40;40,00;1,00;Aktiv
+Jacqueline Irena;Fritz;01.11.2022;2016065;40;40,00;0,00;Auszeit
+Jan;Ertmann;01.03.2025;2017604;;40,00;0,00;Inaktiv
+Jan;Ertmann;01.01.2024;2017604;;40,00;1,00;Aktiv
+Jan;Ertmann;01.08.2023;2017604;;40,00;0,00;Auszeit
+Jan;Ertmann;16.03.2023;2017604;;40,00;1,00;Aktiv
+Jan;Ertmann;08.03.2023;;;;0,00;Onboarding
+Jan;Ertmann;26.07.2024;2016117;;40,00;0,00;Inaktiv
+Jan;Ertmann;01.01.2024;2016117;;40,00;0,00;Auszeit
+Jan;Ertmann;13.09.2023;2016117;;40,00;1,00;Aktiv
+Jan;Ertmann;01.08.2023;;;40,00;1,00;Aktiv
+Jan;Bahr;01.07.2025;2017652;;40,00;0,00;Auszeit
+Jan;Bahr;06.06.2025;;;;0,00;Onboarding
+Jan;Bahr;01.07.2025;2016147;;40,00;1,00;Aktiv
+Jan;Bahr;06.06.2025;;;;0,00;Onboarding
+Jasmin Elisabeth;Winkler;08.07.2024;201287;;40,00;1,00;Aktiv
+Jasmin Elisabeth;Winkler;20.07.2022;;;40,00;1,00;Aktiv
+Jennifer;Bilbao;01.07.2024;2016027;32;36,00;0,00;Inaktiv
+Jennifer;Bilbao;01.01.2023;2016027;32;36,00;0,90;Aktiv
+Jennifer;Bilbao;01.07.2024;2017038;;36,00;0,90;Aktiv
+Jennifer;Bilbao;24.01.2023;2017038;;36,00;0,00;Auszeit
+Jennifer;Bilbao;01.01.2023;2017038;;36,00;0,90;Aktiv
+Jonathan;Loeffler;21.10.2022;2017501;40;40,00;1,00;Aktiv
+Julia;Klingel;01.10.2023;2016109;;30,00;0,00;Inaktiv
+Julia;Klingel;01.03.2023;2016109;;30,00;0,75;Aktiv
+Julia;Klingel;19.01.2023;2016109;;40,00;1,00;Aktiv
+Julia;Klingel;01.01.2023;;;40,00;1,00;Aktiv
+Julia;Klingel;01.10.2023;2017585;40;10,00;0,00;Inaktiv
+Julia;Klingel;31.07.2023;2017585;40;10,00;0,25;Aktiv
+Julia;Klingel;26.07.2023;2017585;40;10,00;0,00;Auszeit
+Julia;Klingel;01.03.2023;2017585;40;10,00;0,25;Aktiv
+Julia;Klingel;01.01.2023;2017585;40;40,00;0,00;Auszeit
+Julia Jolanda Jasmin;Wetzel;01.03.2025;2017644;;40,00;1,00;Aktiv
+Julia Jolanda Jasmin;Wetzel;21.01.2025;;;;0,00;Onboarding
+Karoline Johanna;Haack;01.01.2024;2017586;;30,00;0,75;Aktiv
+Karoline Johanna;Haack;07.07.2023;2017586;;10,00;0,25;Aktiv
+Karoline Johanna;Haack;01.07.2023;;;10,00;0,25;Aktiv
+Karoline Johanna;Haack;16.10.2021;;;40,00;0,00;Auszeit
+Karoline Johanna;Haack;01.01.2024;2016094;40;10,00;0,25;Aktiv
+Karoline Johanna;Haack;01.07.2023;2016094;40;30,00;0,75;Aktiv
+Karoline Johanna;Haack;21.10.2022;2016094;40;40,00;1,00;Aktiv
+Katharina;Böhm;01.04.2024;2017605;;32,00;0,80;Aktiv
+Katharina;Böhm;01.04.2023;2017605;;32,00;0,00;Auszeit
+Katharina;Böhm;16.03.2023;;;;0,00;Onboarding
+Katharina;Böhm;01.04.2024;2016112;;32,00;0,00;Inaktiv
+Katharina;Böhm;01.04.2023;2016112;;32,00;0,80;Aktiv
+Katharina;Böhm;30.03.2023;;;;0,00;Onboarding
+Kathrin;Eckerlin;01.12.2022;2016002;15;15,00;0,00;Inaktiv
+Katrin;Heckmann;27.06.2023;2017001;24;24,00;0,60;Aktiv
+Katrin;Heckmann;01.01.2023;2017001;24;40,00;1,00;Aktiv
+Katrin;Hochberg;22.05.2024;2017569;40;32,00;0,00;Inaktiv
+Katrin;Hochberg;01.10.2023;2017569;40;32,00;0,80;Aktiv
+Katrin;Hochberg;21.10.2022;2017569;40;40,00;1,00;Aktiv
+Katrin;Stökle;02.05.2025;2017643;;40,00;0,00;Inaktiv
+Katrin;Stökle;10.01.2025;2017643;;40,00;1,00;Aktiv
+Katrin;Stökle;01.01.2025;;;40,00;1,00;Aktiv
+Katrin;Stökle;07.10.2024;;;;0,00;Onboarding
+Katrin;Stökle;10.01.2025;2016145;;40,00;1,00;Aktiv
+Katrin;Stökle;01.01.2025;;;40,00;1,00;Aktiv
+Khadijeh;Yasaminshirazi;01.06.2025;2017650;;40,00;1,00;Aktiv
+Khadijeh;Yasaminshirazi;14.04.2025;;;;0,00;Onboarding
+Kristin;Dallinger;01.02.2023;2017022;20;40,00;0,00;Inaktiv
+Kristin;Dallinger;28.10.2022;2017022;20;40,00;0,00;Auszeit
+Kristin;Dallinger;01.02.2023;2016087;;20,00;0,00;Inaktiv
+Kristin;Dallinger;01.01.2023;2016087;;20,00;0,50;Aktiv
+Kristina;Bitter;01.02.2024;2017622;;30,00;0,75;Aktiv
+Kristina;Bitter;09.11.2023;;;;0,00;Onboarding
+Ksenia;Polonski;27.03.2025;2017014;20;20,00;0,00;Inaktiv
+Ksenia;Polonski;01.08.2024;2017014;20;20,00;0,00;Auszeit
+Ksenia;Polonski;21.10.2022;2017014;20;20,00;0,50;Aktiv
+Ksenia;Polonski;01.08.2024;2016008;;20,00;0,50;Aktiv
+Ksenia;Polonski;18.06.2024;;;;0,00;Onboarding
+Laura;Merker;07.05.2024;2017630;;0,00;0,00;Inaktiv
+Laura;Merker;01.05.2024;2017630;;40,00;1,00;Aktiv
+Laura;Merker;04.03.2024;;;;0,00;Onboarding
+Laura;Merker;01.05.2024;2016132;;40,00;1,00;Aktiv
+Laura;Merker;04.03.2024;;;;0,00;Onboarding
+Laura;Schmaltz;03.04.2024;2017632;;32,00;0,00;Inaktiv
+Laura;Schmaltz;01.04.2024;2017632;;32,00;0,00;Onboarding
+Laura;Schmaltz;04.03.2024;;;;0,00;Onboarding
+Laura;Schmaltz;03.04.2024;2016133;;32,00;0,80;Aktiv
+Laura;Schmaltz;01.04.2024;2016133;;32,00;0,00;Onboarding
+Laura;Schmaltz;05.03.2024;;;;0,00;Onboarding
+Lena;Schleicher;01.12.2022;2017596;;40,00;1,00;Aktiv
+Lena;Ohlig;01.05.2025;2017012;;24,00;0,60;Aktiv
+Lena;Ohlig;27.03.2025;;;;0,00;Onboarding
+Lena-Sophie;Loew;01.04.2025;2016106;;40,00;1,00;Aktiv
+Lena-Sophie;Loew;24.03.2025;;;;0,00;Onboarding
+Lena-Sophie;Loew;02.04.2025;2017648;;40,00;0,00;Auszeit
+Lena-Sophie;Loew;01.04.2025;2017648;;40,00;1,00;Aktiv
+Lena-Sophie;Loew;24.03.2025;;;;0,00;Onboarding
+Leonie;Fath;14.06.2023;2017608;;40,00;1,00;Aktiv
+Leonie;Fath;13.06.2023;;;40,00;0,00;Inaktiv
+Leonie;Fath;01.06.2023;;;40,00;0,00;Onboarding
+Leonie;Fath;12.04.2023;;;;0,00;Onboarding
+Liesa;Harzer;01.07.2025;2017640;;32,00;0,80;Aktiv
+Liesa;Harzer;01.10.2024;2017640;;30,00;0,75;Aktiv
+Liesa;Harzer;09.09.2024;;;;0,00;Onboarding
+Lisa Marie;Hanß;27.03.2025;2017611;;40,00;0,00;Inaktiv
+Lisa Marie;Hanß;01.10.2023;2017611;;40,00;0,00;Auszeit
+Lisa Marie;Hanß;11.07.2023;;;;0,00;Onboarding
+Lisa Marie;Hanß;04.10.2023;2016122;;40,00;1,00;Aktiv
+Lisa Marie;Hanß;02.10.2023;2016122;;40,00;0,00;Onboarding
+Lisa Marie;Hanß;01.10.2023;;;40,00;0,00;Onboarding
+Lisa Marie;Hanß;20.09.2023;;;;0,00;Onboarding
+Lucia;Hörner;01.05.2025;2017088;40;36,00;0,00;Auszeit
+Lucia;Hörner;01.10.2024;2017088;40;36,00;0,90;Aktiv
+Lucia;Hörner;18.09.2024;2017088;40;36,00;0,00;Auszeit
+Lucia;Hörner;17.09.2024;2017088;40;36,00;0,90;Aktiv
+Lucia;Hörner;01.03.2024;2017088;40;36,00;0,00;Inaktiv
+Lucia;Hörner;30.06.2023;2017088;40;40,00;0,00;Inaktiv
+Lucia;Hörner;21.10.2022;2017088;40;40,00;1,00;Aktiv
+Lucia;Hörner;01.05.2025;2016097;40;36,00;0,90;Aktiv
+Lucia;Hörner;01.10.2024;2016097;40;36,00;0,00;Auszeit
+Lucia;Hörner;01.03.2024;2016097;40;36,00;0,90;Aktiv
+Lucia;Hörner;30.06.2023;2016097;40;40,00;1,00;Aktiv
+Lucia;Hörner;24.01.2023;2016097;40;40,00;0,00;Auszeit
+Lucia;Hörner;04.11.2022;2016097;40;40,00;1,00;Aktiv
+Lucy;Spenthof;01.05.2025;2017649;;40,00;1,00;Aktiv
+Lucy;Spenthof;24.03.2025;;;;0,00;Onboarding
+Luisa;Schmalen;21.10.2022;2017069;40;40,00;1,00;Aktiv
+Luise;Sanders;03.04.2024;2017629;;40,00;0,00;Inaktiv
+Luise;Sanders;01.04.2024;2017629;;40,00;0,00;Auszeit
+Luise;Sanders;04.03.2024;;;;0,00;Onboarding
+Luise Anne;Sanders;03.04.2024;2016131;;40,00;1,00;Aktiv
+Luise Anne;Sanders;01.04.2024;2016131;;40,00;0,00;Onboarding
+Luise Anne;Sanders;04.03.2024;;;;0,00;Onboarding
+Lukas;Weindl;27.03.2025;2017620;;40,00;0,00;Inaktiv
+Lukas;Weindl;16.01.2024;2017620;;40,00;0,00;Auszeit
+Lukas;Weindl;09.11.2023;;;;0,00;Onboarding
+Lukas;Weindl;31.01.2024;2016125;;40,00;1,00;Aktiv
+Lukas;Weindl;16.01.2024;;;40,00;1,00;Aktiv
+Lukas;Weindl;02.01.2024;;;;0,00;Onboarding
+Madina;Rasulzoda;24.01.2023;2017578;8;40,00;0,00;Inaktiv
+Madina;Rasulzoda;10.08.2022;;8;40,00;0,00;Inaktiv
+Madina;Rasulzoda;24.01.2023;2016077;32;32,00;0,00;Inaktiv
+Madina;Rasulzoda;10.08.2022;;32;32,00;0,00;Inaktiv
+Maeva;Pratlong;01.05.2025;2017523;40;40,00;0,00;Auszeit
+Maeva;Pratlong;14.10.2024;2017523;40;40,00;1,00;Aktiv
+Maeva;Pratlong;01.10.2024;2017523;8;40,00;1,00;Aktiv
+Maeva;Pratlong;18.09.2024;2017523;8;8,00;0,00;Auszeit
+Maeva;Pratlong;17.09.2024;2017523;8;8,00;0,20;Aktiv
+Maeva;Pratlong;04.01.2024;2017523;8;8,00;0,00;Inaktiv
+Maeva;Pratlong;01.01.2023;2017523;8;8,00;0,00;Auszeit
+Manuel;Selinsek;01.10.2023;2016086;40;40,00;0,00;Inaktiv
+Manuel;Selinsek;21.10.2022;2016086;40;40,00;1,00;Aktiv
+Manuel;Selinsek;04.10.2023;2017579;;40,00;0,00;Inaktiv
+Manuel;Selinsek;24.01.2023;2017579;;40,00;0,00;Auszeit
+Manuel;Selinsek;01.03.2022;;;40,00;0,00;Auszeit
+Maren;Hafner;03.04.2024;2017619;;40,00;0,00;Inaktiv
+Maren;Hafner;01.01.2024;2017619;;40,00;0,00;Auszeit
+Maren;Hafner;26.10.2023;;;;0,00;Onboarding
+Maren;Hafner;01.03.2025;2016127;;40,00;0,00;Inaktiv
+Maren;Hafner;01.02.2025;2016127;;40,00;1,00;Aktiv
+Maren;Hafner;02.01.2025;2016127;;40,00;0,00;Auszeit
+Maren;Hafner;17.01.2024;2016127;;40,00;1,00;Aktiv
+Maren;Hafner;16.01.2024;2016127;;40,00;0,00;Onboarding
+Maren;Hafner;04.01.2024;;;40,00;1,00;Aktiv
+Maren;Hafner;02.01.2024;;;40,00;0,00;Onboarding
+Maren;Hafner;01.01.2024;;;40,00;1,00;Aktiv
+Marie-Eve;Reinert;21.10.2022;2016085;30;30,00;0,75;Aktiv
+Marie-Eve;Reinert;21.10.2022;2017529;10;10,00;0,25;Aktiv
+Marta;Escoto de Tejada;09.04.2025;2017590;;26,00;0,65;Aktiv
+Marta;Escoto de Tejada;27.03.2025;2017590;;26,00;0,00;Inaktiv
+Marta;Escoto de Tejada;01.08.2024;2017590;;26,00;0,65;Aktiv
+Marta;Escoto de Tejada;01.12.2023;2017590;;26,00;0,00;Auszeit
+Marta;Escoto de Tejada;20.01.2023;2017590;;24,00;0,00;Auszeit
+Marta;Escoto de Tejada;17.06.2022;;;24,00;0,00;Auszeit
+Marta;Escoto de Tejada;09.04.2025;2016099;24;26,00;0,00;Inaktiv
+Marta;Escoto de Tejada;01.12.2023;2016099;24;26,00;0,65;Aktiv
+Marta;Escoto de Tejada;21.10.2022;2016099;24;24,00;0,60;Aktiv
+Marta;Rubio Martinez;16.07.2024;2017599;;20,00;0,00;Inaktiv
+Marta;Rubio Martinez;01.01.2024;2017599;;20,00;0,00;Auszeit
+Marta;Rubio Martinez;16.01.2023;2017599;;24,00;0,00;Auszeit
+Marta;Rubio Martinez;19.12.2022;;;;0,00;Onboarding
+Marta;Rubio Martinez;16.07.2024;2016110;;20,00;0,00;Inaktiv
+Marta;Rubio Martinez;01.01.2024;2016110;;20,00;0,50;Aktiv
+Marta;Rubio Martinez;19.01.2023;2016110;;24,00;0,60;Aktiv
+Marta;Rubio Martinez;16.01.2023;;;24,00;0,60;Aktiv
+Marta;Rubio Martinez;02.01.2023;;;;0,00;Onboarding
+Martina;Deufel;10.04.2024;2017603;;40,00;0,00;Inaktiv
+Martina;Deufel;01.01.2024;2017603;;40,00;0,00;Auszeit
+Martina;Deufel;20.07.2023;2017603;;40,00;0,00;Inaktiv
+Martina;Deufel;01.05.2023;2017603;;40,00;0,00;Auszeit
+Martina;Deufel;07.03.2023;;;;0,00;Onboarding
+Martina;Deufel;11.05.2023;2016113;;40,00;1,00;Aktiv
+Martina;Deufel;01.05.2023;;;40,00;1,00;Aktiv
+Martina;Deufel;13.04.2023;;;;0,00;Onboarding
+Max;Mustermann;18.08.2023;;;40,00;1,00;Aktiv
+Max;Mustermann;17.08.2023;;;40,00;0,00;Onboarding
+Max;Mustermann;07.12.2023;;;40,00;1,00;Aktiv
+Max;Mustermann;01.11.2023;;;40,00;0,00;Onboarding
+Max;Mustermann;26.10.2023;;;;0,00;Onboarding
+Maëva;Pratlong;15.05.2025;2016053;40;40,00;1,00;Aktiv
+Maëva;Pratlong;01.05.2025;2016053;32;40,00;1,00;Aktiv
+Maëva;Pratlong;01.10.2024;2016053;32;40,00;0,00;Auszeit
+Maëva;Pratlong;30.09.2024;2016053;32;40,00;0,00;Inaktiv
+Maëva;Pratlong;01.01.2023;2016053;32;40,00;1,00;Aktiv
+Meike;Reimann-Zawadzki;01.01.2024;2017508;8;8,00;0,20;Aktiv
+Meike;Reimann-Zawadzki;21.10.2022;2017508;8;40,00;1,00;Aktiv
+Meike;Reimann-Zawadzki;21.10.2022;2016054;32;32,00;0,80;Aktiv
+Melanie;Gralow;01.03.2024;2017580;;34,00;0,85;Aktiv
+Melanie;Gralow;02.01.2023;2017580;;34,00;0,00;Auszeit
+Melanie;Gralow;01.01.2023;2017580;;34,00;0,85;Aktiv
+Melanie;Gralow;26.07.2024;2016081;34;34,00;0,00;Inaktiv
+Melanie;Gralow;01.03.2024;2016081;34;34,00;0,00;Auszeit
+Melanie;Gralow;01.01.2023;2016081;34;34,00;0,85;Aktiv
+Mercedes;Berlin;21.10.2022;2017517;30;30,00;0,75;Aktiv
+Miljana;Cosic;01.01.2023;2017534;40;40,00;1,00;Aktiv
+Miriam;Mohr;24.01.2023;2017559;10;10,00;0,00;Inaktiv
+Miriam;Mohr;20.01.2023;2017559;10;10,00;0,00;Auszeit
+Miriam;Mohr;01.12.2022;2017559;10;10,00;0,00;Inaktiv
+Miriam;Mohr;24.01.2023;2016067;30;30,00;0,00;Inaktiv
+Miriam;Mohr;20.01.2023;2016067;30;30,00;0,00;Auszeit
+Miriam;Mohr;01.12.2022;2016067;30;30,00;0,00;Inaktiv
+Miriam;Reifmesser;28.02.2023;;;28,00;0,70;Aktiv
+Miriam;Reifmesser;06.02.2023;;;24,00;0,60;Aktiv
+Miriam;Reifmesser;22.07.2022;;;40,00;1,00;Aktiv
+Mirjam;Zillober;01.10.2024;2017607;;10,00;0,25;Aktiv
+Mirjam;Zillober;14.06.2023;2017607;;40,00;1,00;Aktiv
+Mirjam;Zillober;01.05.2023;;;40,00;1,00;Aktiv
+Mirjam;Zillober;12.04.2023;;;;0,00;Onboarding
+Mirjam;Zillober;24.10.2024;2016142;;30,00;0,75;Aktiv
+Mirjam;Zillober;01.10.2024;;;40,00;1,00;Aktiv
+Nadja;Schlichenmaier;01.04.2025;2017602;;40,00;0,00;Inaktiv
+Nadja;Schlichenmaier;01.04.2023;2017602;;40,00;1,00;Aktiv
+Nadja;Schlichenmaier;26.01.2023;;;;0,00;Onboarding
+Natalia;Radanovic;27.03.2025;2017616;;40,00;0,00;Inaktiv
+Natalia;Radanovic;02.01.2024;2017616;;40,00;0,00;Auszeit
+Natalia;Radanovic;15.11.2023;2017616;;40,00;1,00;Aktiv
+Natalia;Radanovic;16.10.2023;2017616;;40,00;0,00;Auszeit
+Natalia;Radanovic;27.09.2023;;;;0,00;Onboarding
+Natalia;Radanovic;14.05.2025;2016124;;40,00;0,00;Inaktiv
+Natalia;Radanovic;01.12.2023;2016124;;40,00;1,00;Aktiv
+Natalia;Radanovic;16.10.2023;;;40,00;1,00;Aktiv
+Olga;Marschalek;21.10.2022;2017007;30;30,00;0,75;Aktiv
+Patrik;Schumacher;12.07.2024;2016082;32;32,00;0,00;Inaktiv
+Patrik;Schumacher;21.10.2022;2016082;32;32,00;0,80;Aktiv
+Patrik;Schumacher;02.05.2025;2017584;8;40,00;0,00;Inaktiv
+Patrik;Schumacher;01.07.2024;2017584;8;40,00;1,00;Aktiv
+Patrik;Schumacher;01.02.2023;2017584;8;8,00;0,20;Aktiv
+Patrik;Schumacher;21.10.2022;2017584;8;40,00;1,00;Aktiv
+Paul;Haering;01.09.2024;2017560;10;30,00;0,75;Aktiv
+Paul;Haering;11.03.2024;2017560;10;10,00;0,25;Aktiv
+Paul;Haering;01.03.2024;2017560;10;40,00;1,00;Aktiv
+Paul;Haering;01.01.2024;2017560;10;40,00;0,00;Auszeit
+Paul;Haering;01.01.2023;2017560;10;40,00;1,00;Aktiv
+Paul;Haering;01.09.2024;2016074;30;10,00;0,25;Aktiv
+Paul;Haering;01.03.2024;2016074;30;30,00;0,75;Aktiv
+Paul;Haering;01.01.2024;2016074;30;40,00;1,00;Aktiv
+Paul;Haering;01.01.2023;2016074;30;30,00;0,75;Aktiv
+Petra;Püchner;21.10.2022;2136001;40;40,00;1,00;Aktiv
+Pia;Burkhardt;01.07.2025;2017068;40;40,00;0,00;Auszeit
+Pia;Burkhardt;01.05.2024;2017068;40;40,00;1,00;Aktiv
+Pia;Burkhardt;01.09.2023;2017068;40;40,00;0,00;Auszeit
+Pia;Burkhardt;21.10.2022;2017068;40;40,00;1,00;Aktiv
+Pia;Burkhardt;27.06.2025;2016121;;40,00;1,00;Aktiv
+Pia;Burkhardt;26.06.2025;2016121;;40,00;0,00;Onboarding
+Pia;Burkhardt;01.05.2024;2016121;;40,00;0,00;Inaktiv
+Pia;Burkhardt;12.09.2023;2016121;;40,00;1,00;Aktiv
+Pia;Burkhardt;01.09.2023;;;40,00;1,00;Aktiv
+Pia;Burkhardt;18.08.2023;;;;0,00;Onboarding
+Rebecca;Sinai;27.03.2025;2017621;;40,00;0,00;Inaktiv
+Rebecca;Sinai;01.11.2024;2017621;;40,00;0,00;Auszeit
+Rebecca;Sinai;01.03.2024;2017621;;40,00;1,00;Aktiv
+Rebecca;Sinai;15.11.2023;;;;0,00;Onboarding
+Rebecca;Sinai;11.11.2024;2016141;;40,00;1,00;Aktiv
+Rebecca;Sinai;01.11.2024;;;40,00;1,00;Aktiv
+Rebecca;Sinai;27.09.2024;;;;0,00;Onboarding
+Regina;Hüttner;04.01.2024;2016088;40;40,00;0,00;Inaktiv
+Regina;Hüttner;21.10.2022;2016088;40;40,00;1,00;Aktiv
+Regina;Hüttner;06.11.2024;2017026;;40,00;0,00;Inaktiv
+Regina;Hüttner;04.01.2024;2017026;;40,00;0,00;Auszeit
+Regina;Hüttner;01.01.2024;2017026;;40,00;1,00;Aktiv
+Regina;Hüttner;16.11.2022;2017026;;40,00;0,00;Auszeit
+Regine;Wehner;04.01.2024;2017074;40;40,00;0,00;Inaktiv
+Regine;Wehner;01.04.2023;2017074;40;40,00;0,00;Auszeit
+Regine;Wehner;21.10.2022;2017074;40;40,00;1,00;Aktiv
+Regine;Wehner;01.04.2023;2016095;40;40,00;1,00;Aktiv
+Regine;Wehner;24.11.2022;2016095;40;40,00;0,00;Auszeit
+Robert;Gohla;21.10.2022;2017502;40;40,00;1,00;Aktiv
+Robin;Schenk;01.01.2025;2017627;;40,00;1,00;Aktiv
+Robin;Schenk;01.09.2024;2017627;;30,00;0,75;Aktiv
+Robin;Schenk;23.08.2024;2017627;;30,00;0,00;Auszeit
+Robin;Schenk;03.04.2024;2017627;;40,00;0,00;Inaktiv
+Robin;Schenk;01.04.2024;2017627;;40,00;0,00;Auszeit
+Robin;Schenk;09.02.2024;;;;0,00;Onboarding
+Robin;Schenk;14.01.2025;2136005;;10,00;0,00;Inaktiv
+Robin;Schenk;01.09.2024;2136005;;10,00;0,25;Aktiv
+Robin;Schenk;03.04.2024;2136005;;40,00;1,00;Aktiv
+Robin;Schenk;01.04.2024;2136005;;40,00;0,00;Onboarding
+Robin;Schenk;09.02.2024;;;;0,00;Onboarding
+Roger;Fonwe;24.01.2023;2016080;32;32,00;0,00;Inaktiv
+Roger;Fonwe;20.01.2023;2016080;32;32,00;0,00;Auszeit
+Roger;Fonwe;02.01.2023;2016080;32;32,00;0,00;Inaktiv
+Roger;Fonwe;21.10.2022;2016080;32;32,00;0,80;Aktiv
+Roger;Fonwe;24.01.2023;2017583;8;8,00;0,00;Inaktiv
+Roger;Fonwe;20.01.2023;2017583;8;8,00;0,00;Auszeit
+Roger;Fonwe;02.01.2023;2017583;8;8,00;0,00;Inaktiv
+Roger;Fonwe;21.10.2022;2017583;8;8,00;0,20;Aktiv
+Sabine;Hafner-Zimmermann;01.02.2025;2017520;19.2;28,00;0,70;Aktiv
+Sabine;Hafner-Zimmermann;01.01.2024;2017520;19.2;22,40;0,56;Aktiv
+Sabine;Hafner-Zimmermann;01.08.2023;2017520;19.2;5,60;0,14;Aktiv
+Sabine;Hafner-Zimmermann;01.01.2023;2017520;19.2;40,00;1,00;Aktiv
+Sabine;Hafner-Zimmermann;01.02.2025;2016030;4.8;5,60;0,00;Inaktiv
+Sabine;Hafner-Zimmermann;01.01.2024;2016030;4.8;5,60;0,14;Aktiv
+Sabine;Hafner-Zimmermann;01.08.2023;2016030;4.8;22,40;0,56;Aktiv
+Sabine;Hafner-Zimmermann;21.10.2022;2016030;4.8;5,60;0,14;Aktiv
+Sabine;Haeßler;08.01.2024;2017060;40;40,00;1,00;Aktiv
+Sabine;Haeßler;01.01.2024;2017060;;40,00;1,00;Aktiv
+Sabine;Haeßler;11.01.2023;2017060;;40,00;0,00;Auszeit
+Sabine;Haeßler;01.01.2022;;;40,00;0,00;Auszeit
+Sabine;Haeßler;03.04.2024;2016093;40;40,00;0,00;Inaktiv
+Sabine;Haeßler;01.01.2024;2016093;40;40,00;0,00;Auszeit
+Sabine;Haeßler;21.10.2022;2016093;40;40,00;1,00;Aktiv
+Sandra;Stein;22.07.2022;;;40,00;1,00;Aktiv
+Sandrine;Doretto;01.08.2024;2017506;20;20,00;0,50;Aktiv
+Sandrine;Doretto;01.04.2024;2017506;20;17,00;0,43;Aktiv
+Sandrine;Doretto;01.01.2023;2017506;20;16,00;0,40;Aktiv
+Sandrine;Doretto;01.08.2024;2016050;20;20,00;0,50;Aktiv
+Sandrine;Doretto;01.04.2024;2016050;20;17,00;0,43;Aktiv
+Sandrine;Doretto;01.01.2023;2016050;20;16,00;0,40;Aktiv
+Sarah;Mortimer;01.06.2025;2016016;20;20,00;0,50;Aktiv
+Sarah;Mortimer;01.12.2024;2016016;20;18,00;0,45;Aktiv
+Sarah;Mortimer;07.09.2024;2016016;20;20,00;0,50;Aktiv
+Sarah;Mortimer;28.08.2024;2016016;20;20,00;0,00;Auszeit
+Sarah;Mortimer;27.08.2024;2016016;20;20,00;0,50;Aktiv
+Sarah;Mortimer;04.01.2024;2016016;20;20,00;0,00;Inaktiv
+Sarah;Mortimer;21.10.2022;2016016;20;20,00;0,00;Auszeit
+Sarah;Mortimer;01.06.2025;2017516;;20,00;0,00;Auszeit
+Sarah;Mortimer;27.03.2025;2017516;;18,00;0,00;Auszeit
+Sarah;Mortimer;01.12.2024;2017516;;18,00;0,00;Inaktiv
+Sarah;Mortimer;09.09.2024;2017516;;20,00;0,00;Inaktiv
+Sarah;Mortimer;01.01.2018;2017516;;40,00;0,00;Auszeit
+Sebastian;Große-Puppendahl;01.10.2024;2136003;30;32,00;0,80;Aktiv
+Sebastian;Große-Puppendahl;01.05.2024;2136003;30;32,00;0,00;Auszeit
+Sebastian;Große-Puppendahl;21.10.2022;2136003;30;32,00;0,80;Aktiv
+Silvija;Spiljak Braim;01.03.2025;2017646;;40,00;1,00;Aktiv
+Silvija;Spiljak Braim;11.02.2025;;;;0,00;Onboarding
+Siora;Keller;01.03.2024;2017065;40;40,00;1,00;Aktiv
+Siora;Keller;28.10.2022;2017065;40;40,00;0,00;Auszeit
+Siora;Keller;03.04.2024;2016105;;40,00;0,00;Inaktiv
+Siora;Keller;31.12.2023;2016105;;40,00;0,00;Auszeit
+Siora;Keller;21.10.2022;2016105;;40,00;1,00;Aktiv
+Sofija;Kovacic;01.07.2024;2016104;;40,00;1,00;Aktiv
+Sofija;Kovacic;28.06.2024;2016104;;40,00;0,00;Auszeit
+Sofija;Kovacic;27.06.2024;2016104;;40,00;0,00;Onboarding
+Sofija;Kovacic;30.06.2023;2016104;;40,00;0,00;Inaktiv
+Sofija;Kovacic;21.10.2022;2016104;;40,00;1,00;Aktiv
+Sofija;Kovacic;27.03.2025;2017083;;40,00;0,00;Inaktiv
+Sofija;Kovacic;01.07.2024;2017083;;40,00;0,00;Auszeit
+Sofija;Kovacic;12.09.2023;2017083;;40,00;1,00;Aktiv
+Sofija;Kovacic;01.07.2023;;;40,00;1,00;Aktiv
+Sofija;Kovacic;01.10.2022;;;40,00;0,00;Auszeit
+Sophie;von Stralendorff;01.03.2024;2016098;40;10,00;0,25;Aktiv
+Sophie;von Stralendorff;01.03.2023;2016098;40;30,00;0,75;Aktiv
+Sophie;von Stralendorff;01.12.2022;2016098;40;40,00;0,00;Auszeit
+Sophie;von Stralendorff;01.03.2024;2017574;;30,00;0,75;Aktiv
+Sophie;von Stralendorff;01.03.2023;2017574;;10,00;0,25;Aktiv
+Sophie;von Stralendorff;01.12.2022;2017574;;40,00;1,00;Aktiv
+Stefano;Sbarbati;01.03.2024;2017053;40;32,00;0,80;Aktiv
+Stefano;Sbarbati;12.01.2024;2017053;40;40,00;1,00;Aktiv
+Stefano;Sbarbati;10.01.2024;2017053;40;40,00;0,00;Auszeit
+Stefano;Sbarbati;01.01.2024;2017053;40;40,00;1,00;Aktiv
+Stefano;Sbarbati;01.01.2023;2017053;40;40,00;0,00;Auszeit
+Stefano;Sbarbati;03.04.2024;2016056;;40,00;0,00;Inaktiv
+Stefano;Sbarbati;01.01.2024;2016056;;40,00;0,00;Auszeit
+Stefano;Sbarbati;19.01.2023;2016056;;40,00;1,00;Aktiv
+Stefano;Sbarbati;01.01.2023;;;40,00;1,00;Aktiv
+Stela;Butorajac Djurovic;01.01.2024;2016090;30;30,00;0,75;Aktiv
+Stela;Butorajac Djurovic;01.10.2023;2016090;30;40,00;1,00;Aktiv
+Stela;Butorajac Djurovic;21.10.2022;2016090;30;30,00;0,75;Aktiv
+Stela;Djurovic;07.04.2025;2017072;;30,00;0,00;Auszeit
+Stela;Djurovic;04.01.2024;2017072;;30,00;0,00;Inaktiv
+Stela;Djurovic;29.08.2023;2017072;;30,00;0,00;Auszeit
+Stela;Djurovic;14.06.2023;2017072;;30,00;0,00;Inaktiv
+Stela;Djurovic;13.01.2023;2017072;;30,00;0,00;Auszeit
+Stela;Djurovic;01.07.2021;;;30,00;0,00;Auszeit
+Steve;Bageritz;01.01.2024;2017522;18;28,80;0,72;Aktiv
+Steve;Bageritz;01.01.2023;2017522;18;40,00;1,00;Aktiv
+Steve;Bageritz;01.01.2024;2016014;18;7,20;0,18;Aktiv
+Steve;Bageritz;01.01.2023;2016014;18;7,00;0,18;Aktiv
+Tania;Cimesa;01.10.2024;2017638;;40,00;1,00;Aktiv
+Tania;Cimesa;29.07.2024;;;;0,00;Onboarding
+Tea;Sarenkapa;27.03.2025;2017617;;30,00;0,00;Inaktiv
+Tea;Sarenkapa;01.10.2024;2017617;;30,00;0,00;Auszeit
+Tea;Sarenkapa;16.10.2023;2017617;;30,00;0,75;Aktiv
+Tea;Sarenkapa;27.09.2023;;;;0,00;Onboarding
+Tea;Sarenkapa;29.10.2024;2016140;;30,00;0,75;Aktiv
+Tea;Sarenkapa;01.10.2024;;;30,00;0,75;Aktiv
+Timo;Doll;21.10.2022;2017547;40;40,00;1,00;Aktiv
+Timo;Strohäker;01.12.2022;2017063;40;40,00;0,00;Inaktiv
+Tracey;Knöbel-French;21.10.2022;2017011;40;40,00;1,00;Aktiv
+Valerie;Bahr;21.10.2022;2017020;40;40,00;1,00;Aktiv
+Valerie;Bahr;14.06.2023;2016057;;40,00;0,00;Inaktiv
+Valerie;Bahr;14.12.2022;2016057;;40,00;0,00;Auszeit
+Vanessa;Mertens;21.10.2022;2017061;40;40,00;1,00;Aktiv
+Verena;Höhn;01.04.2025;2017647;;40,00;1,00;Aktiv
+Verena;Höhn;11.02.2025;;;;0,00;Onboarding
+Victoria;Blessing;01.03.2025;2017526;25;25,00;0,63;Aktiv
+Victoria;Blessing;01.11.2024;2017526;25;25,00;0,00;Auszeit
+Victoria;Blessing;21.10.2022;2017526;25;25,00;0,63;Aktiv
+Victoria;Blessing;01.03.2025;2016021;;25,00;0,00;Inaktiv
+Victoria;Blessing;05.11.2024;2016021;;25,00;0,63;Aktiv
+Victoria;Blessing;01.11.2024;2016021;;25,00;0,00;Inaktiv
+Vipul;Sarnot;01.04.2024;2016107;;40,00;1,00;Aktiv
+Vipul;Sarnot;01.06.2023;2016107;;40,00;0,00;Auszeit
+Vipul;Sarnot;20.09.2022;2016107;;40,00;1,00;Aktiv
+Vipul;Sarnot;27.05.2025;2017081;;40,00;0,00;Auszeit
+Vipul;Sarnot;04.04.2025;2017081;;40,00;0,00;Inaktiv
+Vipul;Sarnot;05.04.2024;2017081;;40,00;0,00;Auszeit
+Vipul;Sarnot;03.04.2024;2017081;;40,00;0,00;Inaktiv
+Vipul;Sarnot;01.04.2024;2017081;;40,00;0,00;Auszeit
+Vipul;Sarnot;01.06.2023;2017081;;40,00;1,00;Aktiv
+Vipul;Sarnot;04.11.2022;2017081;;40,00;0,00;Auszeit
+Yvonne;Würtz;03.04.2024;2017631;40;40,00;0,00;Inaktiv
+Yvonne;Würtz;01.04.2024;2017631;40;40,00;0,00;Auszeit
+Yvonne;Würtz;04.03.2024;;;;0,00;Onboarding
+Yvonne;Würtz;03.04.2024;2016135;40;40,00;1,00;Aktiv
+Yvonne;Würtz;01.04.2024;2016135;40;40,00;0,00;Onboarding
+Yvonne;Würtz;04.03.2024;;;;0,00;Onboarding
+Zentrale;Personalwesen;30.10.2024;;;40,00;1,00;Aktiv
