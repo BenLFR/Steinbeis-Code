@@ -65,6 +65,11 @@ resolve_dir <- function(env, default) {
   candidate <- Sys.getenv(env, unset = NA_character_)
   if (!is.na(candidate) && nzchar(candidate)) {
     return(normalizePath(candidate, winslash = "/", mustWork = FALSE))
+repo_root <- normalizePath(Sys.getenv("STEINBEIS_REPO_ROOT", unset = "."))
+resolve_dir <- function(env, default) {
+  candidate <- Sys.getenv(env, unset = NA_character_)
+  if (!is.na(candidate) && nzchar(candidate)) {
+    return(candidate)
   }
   file.path(repo_root, default)
 }

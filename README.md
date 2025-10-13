@@ -16,3 +16,9 @@ Run `scripts/report_robin_costs.R` to list everyone who recorded time on project
 Outputs are written to `data/outputs/` by default (override with `STEINBEIS_OUTPUT_DIR`).
 
 See `docs/data_sources.md` for a detailed inventory of which Personio and DATEV files are currently tracked and which are still missing. The Personio contractual-hours export (`Wochenarbeitszeit.csv`) is already committed and currently lives at the repository root; consider relocating it to a `data/personio/` directory alongside future HR exports.
+This repository now organizes the project assets into two primary directories:
+
+- `data/personalkosten/` – Source payroll CSV exports grouped by organization and month.
+- `scripts/` – R scripts for computing hourly rates across multiple script revisions (`compute_stundensatz_local_V*.R`).
+
+Add future datasets or scripts to their respective folders to keep the repository structure consistent.
