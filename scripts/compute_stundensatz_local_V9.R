@@ -1,4 +1,8 @@
-# compute_stundensatz_local.R – rev. 31-Jul-2025 (HEU fix + programme via lpc_id) + DEDUP FIX + dynamic period
+# compute_stundensatz_local.R – rev. 15-Dec-2025
+# V9 + PARENTAL LEAVE DEDUCTION (Elternzeit)
+# - HEU fix + programme via lpc_id
+# - DEDUP FIX + dynamic period
+# - Parental leave days deducted from HEU max declarable day-equivalents
 # --------------------------------------------------------------------
 library(tidyverse)
 library(lubridate)
@@ -537,11 +541,60 @@ grid <- tidyr::crossing(fte_periods_du, month = rp_months) %>%
          coverage_30  = days_overlap / 30) %>%
   filter(coverage_30 > 0)
 
-# 12.c Cap HEU par personne, arrondi au 0,5
+# 12.b.1 Load and process parental leave (Elternzeit) data ---------------------
+# Parental leave days must be deducted from max declarable day-equivalents (HEU rule)
+parental_leave_file <- file.path(repo_root, "elternurlaub24-251027.csv")
+
+if (file.exists(parental_leave_file)) {
+  message("✓ Loading parental leave data from: ", parental_leave_file)
+
+  parental_leave_raw <- read_delim(parental_leave_file,
+                                   delim = ";",
+                                   locale = locale(decimal_mark = ",", grouping_mark = "."),
+                                   show_col_types = FALSE) %>%
+    clean_names()
+
+  # Parse personnel numbers and convert to entity_code + pers_nr_short
+  parental_leave_parsed <- parental_leave_raw %>%
+    mutate(
+      von_date = dmy(von),
+      bis_date = dmy(bis),
+      dauer_std = as.numeric(str_replace(dauer_std, ",", "."))
+    ) %>%
+    filter(von_date <= rp_end, bis_date >= rp_start) %>%  # only RP period
+    separate_rows(personalnummer_n, sep = ",") %>%
+    mutate(
+      personalnummer_n = str_trim(personalnummer_n),
+      entity_code = str_sub(personalnummer_n, 1, 4),
+      pers_nr_short = as.integer(str_remove(str_sub(personalnummer_n, 5), "^0+"))
+    ) %>%
+    filter(!is.na(entity_code), !is.na(pers_nr_short))
+
+  # Link to du_id and sum day-equivalents (1 day = 8 hours)
+  parental_leave_days <- parental_leave_parsed %>%
+    left_join(users_key %>% select(du_id, entity_code, pers_nr_short),
+              by = c("entity_code", "pers_nr_short")) %>%
+    filter(!is.na(du_id)) %>%
+    group_by(du_id) %>%
+    summarise(parental_leave_days = sum(dauer_std / 8, na.rm = TRUE),
+              .groups = "drop")
+
+  message("✓ Parental leave processed: ", nrow(parental_leave_days), " person(s) with leave during RP")
+} else {
+  message("⚠ Parental leave file not found: ", parental_leave_file, " - proceeding without deduction")
+  parental_leave_days <- tibble(du_id = integer(), parental_leave_days = numeric())
+}
+
+# 12.c Cap HEU par personne, arrondi au 0,5 (AVEC déduction Elternzeit)
 heu_cap <- grid %>%
   group_by(du_id) %>%
-  summarise(day_equiv_max = round_half(sum((215/12) * fte * coverage_30, na.rm = TRUE)),
-            .groups = "drop")
+  summarise(day_equiv_base = sum((215/12) * fte * coverage_30, na.rm = TRUE),
+            .groups = "drop") %>%
+  left_join(parental_leave_days, by = "du_id") %>%
+  mutate(
+    parental_leave_days = coalesce(parental_leave_days, 0),
+    day_equiv_max = round_half(day_equiv_base - parental_leave_days)
+  )
 
 # 12.d Daily rate OFFICIEL = coûts RÉELS (DATEV) sur la période / cap
 perso_costs_RP <- payroll_linked %>%
@@ -739,6 +792,15 @@ write_csv(master_final, file.path(dir_db, "master_personnes_enriched.csv"), na =
 write_csv(cost_by_pr,   file.path(dir_db, "cost_by_pr_with_programme.csv"), na = "")
 write_csv(heu_base,     file.path(dir_db, "heu_daily_rate_by_person.csv"),   na = "")
 write_csv(heu_control,  file.path(dir_db, "heu_daily_rate_control.csv"),     na = "")
+
+# Export parental leave tracking (if data was loaded)
+if (exists("parental_leave_days") && nrow(parental_leave_days) > 0) {
+  parental_leave_export <- parental_leave_days %>%
+    left_join(d_user %>% select(du_id, du_login, du_name, du_surname), by = "du_id") %>%
+    arrange(desc(parental_leave_days))
+  write_csv(parental_leave_export, file.path(dir_db, "parental_leave_deductions.csv"), na = "")
+  message("✓ Parental leave export: ", file.path(dir_db, "parental_leave_deductions.csv"))
+}
 
 # --- 13. Exemple export « photo + totaux » (WP 4034, projet 645) ------------
 mensuel_seuls <- cost_by_pr |>
