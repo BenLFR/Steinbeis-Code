@@ -1,0 +1,10 @@
+dcc_id,dcc_name,dcc_number,dcc_color,dcc_acronym
+1,Stuttgart,1216,75cdff ,ST
+2,Karlsruhe,1217,ffccdd ,KA
+5,x:Karlsruhe STW,517,,KSTW
+6,x:Stuttgart STC,1124,,SSTC
+7,x:Karlsruhe STC,1125,,KSTC
+4,x:Stuttgart STW,516,,S
+9,SEZ in SIG,2016,00ffff ,SEZ
+8,Steinbeis 2i,2017,e0d021 ,2i
+10,SIG/EUB,2136,007c7d ,EUB

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript:*)",
+      "Bash(export STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\")",
+      "Bash(export STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data\")",
+      "Bash(export STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben\")",
+      "Bash(export STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\")",
+      "Bash(export STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\")",
+      "Bash(STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\" STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data\" STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\" STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\" Rscript:*)",
+      "Bash(awk:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

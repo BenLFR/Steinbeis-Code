@@ -1,0 +1,122 @@
+du_id,du_login,du_name,du_surname,entity_code,pers_nr_short,surname_user,given_user,du_inactive
+4,ha,Angela,Heni,2016,61,heni,angela,FALSE
+4,ha,Angela,Heni,2017,13,heni,angela,FALSE
+8,bf,Birgit,Föll,2016,58,föll,birgit,FALSE
+8,bf,Birgit,Föll,2017,4,föll,birgit,FALSE
+11,tf,Tracey,French,2016,60,french,tracey,FALSE
+11,tf,Tracey,French,2017,11,french,tracey,FALSE
+12,vb,Valerie,Bahr,2016,57,bahr,valerie,FALSE
+12,vb,Valerie,Bahr,2017,20,bahr,valerie,FALSE
+22,pp,Petra,Püchner,2016,47,püchner,petra,FALSE
+22,pp,Petra,Püchner,2017,9,püchner,petra,FALSE
+22,pp,Petra,Püchner,2136,1,püchner,petra,FALSE
+24,cc,Charlotte,Schlicke,2016,13,schlicke,charlotte,FALSE
+24,cc,Charlotte,Schlicke,2017,6,schlicke,charlotte,FALSE
+27,rg,Robert,Gohla,2016,15,gohla,robert,FALSE
+27,rg,Robert,Gohla,2017,502,gohla,robert,FALSE
+30,mc,Anette,Mack,2016,62,mack,anette,FALSE
+30,mc,Anette,Mack,2017,2,mack,anette,FALSE
+32,om,Olga,Marschalek,2016,26,marschalek,olga,FALSE
+32,om,Olga,Marschalek,2017,7,marschalek,olga,FALSE
+35,sh,Sabine,Hafner-Zimmermann,2016,30,hafner-zimmermann,sabine,FALSE
+35,sh,Sabine,Hafner-Zimmermann,2017,520,hafner-zimmermann,sabine,FALSE
+37,hf,Heike,Fischer,2016,25,fischer,heike,FALSE
+37,hf,Heike,Fischer,2017,5,fischer,heike,FALSE
+53,as01,Anthony,Salingre,2016,9,salingre,anthony,FALSE
+53,as01,Anthony,Salingre,2017,505,salingre,anthony,FALSE
+54,sd02,Sandrine,Doretto,2016,50,doretto,sandrine,FALSE
+54,sd02,Sandrine,Doretto,2017,506,doretto,sandrine,FALSE
+72,mr02,Meike,Reimann,2016,54,reimann,meike,FALSE
+72,mr02,Meike,Reimann,2017,508,reimann,meike,FALSE
+90,Sarah.Mortimer,Sarah,Mortimer,2016,16,mortimer,sarah,FALSE
+90,Sarah.Mortimer,Sarah,Mortimer,2017,516,mortimer,sarah,FALSE
+97,ik01,Isabell,Sachs,2016,24,sachs,isabell,FALSE
+97,ik01,Isabell,Sachs,2017,25,sachs,isabell,FALSE
+98,rh01,Regina,Hüttner,2016,88,hüttner,regina,FALSE
+98,rh01,Regina,Hüttner,2017,26,hüttner,regina,FALSE
+112,mp02,Maëva,Pratlong,2016,53,pratlong,maëva,FALSE
+112,mp02,Maëva,Pratlong,2017,523,pratlong,maëva,FALSE
+113,sb01,Steve,Bageritz,2016,14,bageritz,steve,FALSE
+113,sb01,Steve,Bageritz,2017,522,bageritz,steve,FALSE
+124,mr04,Marie-Eve,Reinert,2016,85,reinert,marie-eve,FALSE
+124,mr04,Marie-Eve,Reinert,2017,529,reinert,marie-eve,FALSE
+126,vb01,Victoria,Blessing,2016,21,blessing,victoria,FALSE
+126,vb01,Victoria,Blessing,2017,526,blessing,victoria,FALSE
+132,mc01,Miljana,Cosic,2016,22,cosic,miljana,FALSE
+132,mc01,Miljana,Cosic,2017,534,cosic,miljana,FALSE
+134,fb02,Fernando,Barrientos,2016,38,barrientos,fernando,FALSE
+134,fb02,Fernando,Barrientos,2017,37,barrientos,fernando,FALSE
+145,jb03,Jennifer,Bilbao,2016,27,bilbao,jennifer,FALSE
+145,jb03,Jennifer,Bilbao,2017,38,bilbao,jennifer,FALSE
+149,br02,Bettina,Remmele,2016,42,remmele,bettina,FALSE
+149,br02,Bettina,Remmele,2017,41,remmele,bettina,FALSE
+152,gk01,Gabriele,Kaiser,2016,40,kaiser,gabriele,FALSE
+152,gk01,Gabriele,Kaiser,2017,44,kaiser,gabriele,FALSE
+164,Clementine.Roth,Clémentine,Roth,2016,43,roth,clémentine,FALSE
+164,Clementine.Roth,Clémentine,Roth,2017,546,roth,clémentine,FALSE
+169,ad02,Ariadne,Dimakou Bertels,2016,73,dimakou bertels,ariadne,FALSE
+169,ad02,Ariadne,Dimakou Bertels,2017,48,dimakou bertels,ariadne,FALSE
+179,ek01,Eva,Kopf,2016,66,kopf,eva,FALSE
+179,ek01,Eva,Kopf,2017,552,kopf,eva,FALSE
+182,ac01,Alejandra,Campos,2016,55,campos,alejandra,FALSE
+182,ac01,Alejandra,Campos,2017,52,campos,alejandra,FALSE
+183,el01,Edina,Löhr,2016,64,löhr,edina,FALSE
+183,el01,Edina,Löhr,2017,557,löhr,edina,FALSE
+184,iz01,Ivo,Zeller,2016,68,zeller,ivo,FALSE
+184,iz01,Ivo,Zeller,2017,556,zeller,ivo,FALSE
+185,ss01,Stefano,Sbarbati,2016,56,sbarbati,stefano,FALSE
+185,ss01,Stefano,Sbarbati,2017,53,sbarbati,stefano,FALSE
+187,es02,Emily Maja,Schäfer,2016,136,schäfer,emily maja,FALSE
+187,es02,Emily Maja,Schäfer,2017,57,schäfer,emily maja,FALSE
+191,jf01,Jacqueline,Fritz,2016,65,fritz,jacqueline,FALSE
+191,jf01,Jacqueline,Fritz,2017,561,fritz,jacqueline,FALSE
+193,ph01,Paul,Haering,2016,74,haering,paul,FALSE
+193,ph01,Paul,Haering,2017,560,haering,paul,FALSE
+198,sh04,Sabine,Haeßler,2016,93,haeßler,sabine,FALSE
+198,sh04,Sabine,Haeßler,2017,60,haeßler,sabine,FALSE
+206,Fredy.Rios-silva,Fredy,Ríos Silva,2016,71,ríos silva,fredy,FALSE
+206,Fredy.Rios-silva,Fredy,Ríos Silva,2017,570,ríos silva,fredy,FALSE
+213,Sophie.vonStralendor,Sophie,von Stralendorff,2016,98,von stralendorff,sophie,FALSE
+213,Sophie.vonStralendor,Sophie,von Stralendorff,2017,574,von stralendorff,sophie,FALSE
+220,Melani.Gralow,Melanie,Gralow,2016,81,gralow,melanie,FALSE
+220,Melani.Gralow,Melanie,Gralow,2017,580,gralow,melanie,FALSE
+224,Isabel.Kaiser,Isabel,Kaiser,2016,89,kaiser,isabel,FALSE
+224,Isabel.Kaiser,Isabel,Kaiser,2017,64,kaiser,isabel,FALSE
+225,Patrik.Schumacher,Patrik,Schumacher,2016,82,schumacher,patrik,FALSE
+225,Patrik.Schumacher,Patrik,Schumacher,2017,584,schumacher,patrik,FALSE
+227,Siora.Keller,Siora,Keller,2016,105,keller,siora,FALSE
+227,Siora.Keller,Siora,Keller,2017,65,keller,siora,FALSE
+228,Elke.Weidenfelder,Elke,Weidenfelder,2016,84,weidenfelder,elke,FALSE
+228,Elke.Weidenfelder,Elke,Weidenfelder,2017,66,weidenfelder,elke,FALSE
+230,pia.burkhardt,Pia,Burkhardt,2016,121,burkhardt,pia,FALSE
+230,pia.burkhardt,Pia,Burkhardt,2017,68,burkhardt,pia,FALSE
+278,Stela.Djurovic,Stela,Djurovic,2016,90,djurovic,stela,FALSE
+278,Stela.Djurovic,Stela,Djurovic,2017,72,djurovic,stela,FALSE
+279,Javier.Casado,Javier,Casado,2016,92,casado,javier,FALSE
+279,Javier.Casado,Javier,Casado,2017,73,casado,javier,FALSE
+280,Karoline.Haack,Karoline,Haack,2016,94,haack,karoline,FALSE
+280,Karoline.Haack,Karoline,Haack,2017,586,haack,karoline,FALSE
+284,Regine.Wehner,Regine,Wehner,2016,95,wehner,regine,FALSE
+284,Regine.Wehner,Regine,Wehner,2017,74,wehner,regine,FALSE
+289,Lucia.Hoerner,Lucia,Hörner,2016,97,hörner,lucia,FALSE
+289,Lucia.Hoerner,Lucia,Hörner,2017,88,hörner,lucia,FALSE
+297,Canesia.Amarysti,Canesia D'Andrea,Amarysti,2016,101,amarysti,canesia d'andrea,FALSE
+297,Canesia.Amarysti,Canesia D'Andrea,Amarysti,2017,80,amarysti,canesia d'andrea,FALSE
+305,Angelina.Buchter,Angelina,Buchter,2016,108,buchter,angelina,FALSE
+305,Angelina.Buchter,Angelina,Buchter,2017,595,buchter,angelina,FALSE
+314,Alena.Bubeck,Alena,Bubeck,2016,111,bubeck,alena,FALSE
+314,Alena.Bubeck,Alena,Bubeck,2017,597,bubeck,alena,FALSE
+315,Marta.Rubio,Marta,Rubio,2016,110,rubio,marta,FALSE
+315,Marta.Rubio,Marta,Rubio,2017,599,rubio,marta,FALSE
+317,Clara.Duffner,Clara,Duffner,2016,114,duffner,clara,FALSE
+317,Clara.Duffner,Clara,Duffner,2017,601,duffner,clara,FALSE
+321,Martina.Deufel,Martina,Deufel,2016,113,deufel,martina,FALSE
+321,Martina.Deufel,Martina,Deufel,2017,603,deufel,martina,FALSE
+322,Jan.Ertmann,Jan,Ertmann,2016,117,ertmann,jan,FALSE
+322,Jan.Ertmann,Jan,Ertmann,2017,604,ertmann,jan,FALSE
+323,Katharina.Boehm,Katharina,Böhm,2016,112,böhm,katharina,FALSE
+323,Katharina.Boehm,Katharina,Böhm,2017,605,böhm,katharina,FALSE
+326,Frederick.vonNetzer,Frederick,von Netzer,2016,116,von netzer,frederick,FALSE
+326,Frederick.vonNetzer,Frederick,von Netzer,2017,609,von netzer,frederick,FALSE
+343,Cordula.Baer,Cordula,Bär,2016,134,bär,cordula,FALSE
+343,Cordula.Baer,Cordula,Bär,2017,626,bär,cordula,FALSE

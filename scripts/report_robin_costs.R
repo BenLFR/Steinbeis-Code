@@ -26,18 +26,10 @@ suppressPackageStartupMessages({
 })
 
 # ---- Configuration ----------------------------------------------------------
-repo_root <- normalizePath(Sys.getenv("STEINBEIS_REPO_ROOT", unset = "."))
-resolve_dir <- function(env, default) {
-  candidate <- Sys.getenv(env, unset = NA_character_)
-  if (!is.na(candidate) && nzchar(candidate)) {
-    return(candidate)
-  }
-  file.path(repo_root, default)
-}
-
-dir_datev   <- resolve_dir("STEINBEIS_DATEV_DIR", "data/personalkosten")
-dir_db      <- resolve_dir("STEINBEIS_DB_DIR",    "data/database")
-dir_outputs <- resolve_dir("STEINBEIS_OUTPUT_DIR", "data/outputs")
+# Direct paths (simplified for this installation)
+dir_datev   <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
+dir_db      <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
+dir_outputs <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
 
 required_dirs <- c(dir_datev, dir_db)
 missing_dirs <- required_dirs[!dir.exists(required_dirs)]
@@ -50,18 +42,26 @@ if (!dir.exists(dir_outputs)) {
   dir.create(dir_outputs, recursive = TRUE, showWarnings = FALSE)
 }
 
-period_start <- as.Date("2024-03-01")
+period_start <- as.Date("2024-03-01")  # Changed to match Stella's reporting period
 period_end   <- as.Date("2025-08-31")
 target_project_keyword <- Sys.getenv("STEINBEIS_PROJECT_KEYWORD", unset = "ROBIN")
-target_entities <- strsplit(Sys.getenv("STEINBEIS_ENTITY_CODES", unset = "2016"),
+target_entities <- strsplit(Sys.getenv("STEINBEIS_ENTITY_CODES", unset = "2016,2017,2136"),
                             "[,;]", perl = TRUE)[[1]] |>
   trimws() |>
   discard(~ .x == "")
-if (length(target_entities) == 0) target_entities <- "2016"
+if (length(target_entities) == 0) target_entities <- c("2016", "2017", "2136")
 
 # ---- Helper functions -------------------------------------------------------
 read_db <- function(filename, ...) {
   path <- file.path(dir_db, filename)
+  if (!file.exists(path)) {
+    stop("Missing database export: ", path)
+  }
+  read_csv(path, show_col_types = FALSE, ...)
+}
+
+read_db_ben <- function(filename, ...) {
+  path <- file.path(dir_db, "ben", filename)
   if (!file.exists(path)) {
     stop("Missing database export: ", path)
   }
@@ -89,10 +89,10 @@ normalize_name <- function(x) {
 d_user  <- read_db("d_user.csv",
                    col_types = cols(du_hr_numbers = col_character())) |>
   clean_names()
-d_wt    <- read_db("d_worktime.csv")     |> clean_names()
-n_w2wp  <- read_db("n_worktime2workpackage.csv") |> clean_names()
-d_wp    <- read_db("d_workpackage.csv")  |> clean_names()
-d_pr    <- read_db("d_project.csv")      |> clean_names()
+d_wt    <- read_db_ben("d_worktime.csv")     |> clean_names()
+n_w2wp  <- read_db_ben("n_worktime2workpackage.csv") |> clean_names()
+d_wp    <- read_db_ben("d_workpackage.csv")  |> clean_names()
+d_pr    <- read_db_ben("d_project.csv")      |> clean_names()
 d_cc    <- read_db("d_costcenter.csv")   |> clean_names()
 proj_cat_raw <- read_db("l_project_category (2).csv") |> clean_names()
 
@@ -148,9 +148,9 @@ users_key <- d_user |>
     entity_code   = str_sub(hr_list, 1, 4),
     pers_nr_short = as.integer(str_remove(str_sub(hr_list, 5), "^0+"))
   ) |>
-  select(du_id, entity_code, pers_nr_short,
-         surname_user = str_to_lower(du_surname),
-         given_user   = str_to_lower(du_name)) |>
+  transmute(du_id, entity_code, pers_nr_short,
+            surname_user = str_to_lower(du_surname),
+            given_user   = str_to_lower(du_name)) |>
   distinct()
 
 payroll_unmatched <- payroll |>
@@ -210,22 +210,17 @@ d_wt2 <- d_wt |>
   mutate(
     dwt_date  = as_date(dwt_date),
     month     = floor_date(dwt_date, "month"),
-    dwt_start = as_datetime(dwt_start),
-    dwt_end   = as_datetime(dwt_end),
-    work_secs = case_when(
-      !is.na(dwt_start) & !is.na(dwt_end) ~ as.numeric(dwt_end - dwt_start, "secs") - coalesce(dwt_break, 0),
-      TRUE ~ 0
-    )
+    # CORRECTED: Use dwt_worktime field directly (booked hours from TKS)
+    # instead of deriving from timestamps (which are unreliable)
+    work_secs = coalesce(dwt_worktime, 0)
   )
 
-n_per_dwt <- n_w2wp |>
-  count(dwt_id, name = "n_wp")
-
+# CORRECTED: Use actual per-WP allocation from nww_worktime_seconds
+# instead of equal splitting across WPs
 d2wp_all <- n_w2wp |>
-  select(dwt_id, dwp_id) |>
-  left_join(n_per_dwt, by = "dwt_id") |>
-  left_join(d_wt2 |> select(dwt_id, du_id, month, work_secs), by = "dwt_id") |>
-  mutate(work_secs_alloc = work_secs / pmax(n_wp, 1))
+  select(dwt_id, dwp_id, nww_worktime_seconds) |>
+  left_join(d_wt2 |> select(dwt_id, du_id, month), by = "dwt_id") |>
+  mutate(work_secs_alloc = coalesce(nww_worktime_seconds, 0))
 
 # ---- Project metadata -------------------------------------------------------
 get_first_col <- function(df, candidates, label) {

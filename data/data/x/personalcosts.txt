@@ -1,0 +1,16 @@
+Input:
+ payment data (files from datev, last column is the one you need)
+postgres database (dump)
+fte contract data from Personio
+
+Processing:
+
+Project consists of workpackages
+workpackages consist of wortime units
+workpackages are assigned to a organisation
+wortime units are assigned to an employee
+the contract for employees at this organisation applies
+
+
+Output: Employee costs for project X in period/year Y. (possibly employees involved in percent
+

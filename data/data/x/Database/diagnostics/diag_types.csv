@@ -1,0 +1,15 @@
+col,class,n_na
+du_id,numeric,0
+entity_code,character,388
+month,Date,388
+project_id,integer,0
+project,character,0
+workpackage,integer,388
+wp_title,character,388
+programme,character,0
+is_heu,logical,0
+basis,character,0
+hours,numeric,0
+declared_day_equiv,numeric,1683
+rate,numeric,1689
+reported_cost,numeric,43
