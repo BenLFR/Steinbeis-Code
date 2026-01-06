@@ -1,0 +1,4 @@
+du_id,day_equiv_max,heu_daily_rate,perso_costs_RP,months_employed,wt_factor_avg,months_with_fte,months_with_cost,months_with_work,cost_sum_2024,work_sum_h_2024,entities_seen,heu_hours_2024,hr_entities,any_target_entity_in_HR,any_target_entity_seen,probable_cause
+187,0,,2550.6,4,0,0,4,8,2550.6,284,"2016,2017",142,"2016,2017",TRUE,TRUE,Coûts présents mais FTE=0 sur la RP (vérifier Personio)
+304,0,,1890.83,2,0,0,2,2,1890.83,63.75,2016,63.75,2016,TRUE,TRUE,Coûts présents mais FTE=0 sur la RP (vérifier Personio)
+368,0,,0,0,0,0,0,2,0,191,,382,,FALSE,FALSE,Aucun FTE ni coût payroll 2024 ⇒ daily-rate indéfinissable

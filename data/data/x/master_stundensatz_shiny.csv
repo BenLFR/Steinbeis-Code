@@ -1,0 +1,878 @@
+month,entity_code,pers_nr_short,ag_brutto,du_id,surname,givenname,dwp_id,dwp_title,dpr_id,dpr_title,hours_worked,n_worked_days,stundensatz_worked_h
+2024-01-01T00:00:00Z,2016,123,5863.41,331,akkus,abdullah alparslan,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,14,1255.51,113,bageritz,steve,4199,WP1 MGT,649,CLASCO,8,1,156.94
+2024-01-01T00:00:00Z,2016,14,1255.51,113,bageritz,steve,4200,WP7 TEA,649,CLASCO,10,2,125.55
+2024-01-01T00:00:00Z,2016,14,1255.51,113,bageritz,steve,4201,WP8 CommDissExpl,649,CLASCO,36,5,34.88
+2024-01-01T00:00:00Z,2016,14,1255.51,113,bageritz,steve,4210,WP5 Ecosystem,647,EDIH-AICS,2,1,627.76
+2024-01-01T00:00:00Z,2016,38,2504.55,NA,barrientos,fernando javier,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,27,7437.25,145,bilbao,jennifer,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,111,6023.6,314,bubeck,alena,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,108,0,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,121,4914.320000000001,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,90,5839.68,NA,butorajac djurovic,stela,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,112,5046.95,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,55,7533.29,NA,campos cuellar,astrid alejandra,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,92,1652.82,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,126,6155.7,336,czech,andreas,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,113,6292.160000000001,321,deufel,martina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,73,0,169,dimakou bertels,ariadne,4149,WM-KMU 2024,677,WM KMU UnterstÃ¼tzung 2023-2024,3,1,0
+2024-01-01T00:00:00Z,2016,73,0,169,dimakou bertels,ariadne,4264,BD Umsetzung,693,TENDER: FWC Hydrogen 2023,21.5,16,0
+2024-01-01T00:00:00Z,2016,73,0,169,dimakou bertels,ariadne,4482,OIK 2024 Vorbereitung 2024,729,EVENT: OIK 2024,49,8,0
+2024-01-01T00:00:00Z,2016,73,0,169,dimakou bertels,ariadne,4540,Umsetzung EVENT ForschungsfÃ¶rderung 8.3.24,746,EVENT: EU-ForschungsfÃ¶rderung MWK 08.03.2024,51,8,0
+2024-01-01T00:00:00Z,2016,50,3339.86,54,doretto,sandrine,3970,"WP7 Expl, diss, Comm",625,OPeraTIC,37,5,90.27
+2024-01-01T00:00:00Z,2016,50,3339.86,54,doretto,sandrine,4656,WP7 MGT,721,SEADE,19.75,3,169.11
+2024-01-01T00:00:00Z,2016,102,5920.35,294,dubreuilh,isabelle,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,114,4431.68,NA,duffner,clara maria,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4564,Capacity Building,667,TENDER: SKIIVE,16,3,0
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4650,WP1 Research,721,SEADE,68.5,17,0
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4651,WP2 Mapping,721,SEADE,10.5,6,0
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4655,"WP6 Diss, comm, expl",721,SEADE,5,3,0
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4656,WP7 MGT,721,SEADE,55,17,0
+2024-01-01T00:00:00Z,2016,117,0,322,ertmann,jan,4761,WP1,714,STREAM IT,2,2,0
+2024-01-01T00:00:00Z,2016,99,3926.3300000000004,295,escoto de tejada,marta,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,65,5608.52,NA,fritz,jacqueline irena,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,58,2606.02,NA,föll,birgit,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,81,6035,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,94,1164.1799999999998,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,74,7312.71,193,haering,paul,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,93,0,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,127,5568.3,337,hafner,maren,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,30,1082.05,35,hafner-zimmermann,sabine,4210,WP5 Ecosystem,647,EDIH-AICS,8,1,135.26
+2024-01-01T00:00:00Z,2016,30,1082.05,35,hafner-zimmermann,sabine,4541,EU-KONFORM: MRN RIS Umsetzung,747,EU-KONFORM: MRN Antrag RIS,56,8,19.32
+2024-01-01T00:00:00Z,2016,30,1082.05,35,hafner-zimmermann,sabine,4601,WP1 Scanning,709,MASTT2040,24,3,45.09
+2024-01-01T00:00:00Z,2016,122,4478.85,327,hanß,lisa marie,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,97,6040.5,NA,hörner,lucia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,88,0,NA,hüttner,regina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,40,7288,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,89,4678.85,224,kaiser,isabel,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,105,4971.1,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,66,5407.360000000001,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,106,663.9599999999999,304,loew,lena-sophie,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,64,0,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,62,4496.57,30,mack,anette,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,16,0,90,mortimer,sarah,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,119,4586.6,293,nunes vidal,igor,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,100,4646.95,296,pein,sabrina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,53,6035,NA,pratlong,maeva,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,124,4963.05,334,radanovic,natalia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,54,6715.46,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,85,5590.88,124,reinert,marie-eve,3884,"WP6 Dissemination, exploitation and communication",616,MOSTH2,6.5,1,860.14
+2024-01-01T00:00:00Z,2016,85,5590.88,124,reinert,marie-eve,3885,WP7 Project Management,616,MOSTH2,37.5,5,149.09
+2024-01-01T00:00:00Z,2016,42,4172.75,NA,remmele-hertfelder,bettina,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,71,5826.26,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,110,2957.15,NA,rubio martinez,marta,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,3983,WP6 Dissemination and Exploitation,621,CANMILK,4,2,1557.1
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4078,WP1 Management,660,SHIFT-HUB,3,2,2076.13
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4187,"WP1 Collection, preparation, and translation of practical knowledge",648,GOFORESTS,2,1,3114.2
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4329,"WP4 Dissemination, exploitation & communication",682,FIBSUN,1,1,6228.4
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4330,WP5 Coordination,682,FIBSUN,2,1,3114.2
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4534,WP10 Management,723,TOXBOX,20,4,311.42
+2024-01-01T00:00:00Z,2016,9,6228.4,53,salingre,anthony,4535,WP9 Dissemination and Exploitation,723,TOXBOX,2,1,3114.2
+2024-01-01T00:00:00Z,2016,56,0,185,sbarbati,stefano,4149,WM-KMU 2024,677,WM KMU UnterstÃ¼tzung 2023-2024,42,5,0
+2024-01-01T00:00:00Z,2016,56,0,185,sbarbati,stefano,4314,Vanguard KI Pilot 2024,629,Vanguard KI Pilot 2022-2023,9,1,0
+2024-01-01T00:00:00Z,2016,56,0,185,sbarbati,stefano,4780,WP2 Support to Innovative companies WE - WC 2024,637,EEN2EIC,65,8,0
+2024-01-01T00:00:00Z,2016,56,0,185,sbarbati,stefano,4782,WP4 Widening Countries Capacity Building 2024,637,EEN2EIC,32.5,4,0
+2024-01-01T00:00:00Z,2016,13,8120.54,NA,schlicke,anna charlotte,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,82,4498.08,225,schumacher,patrik,4366,WP2 Value added services (2024),572,Enterprise Europe Network 2022 - 2024,33.6,9,133.87
+2024-01-01T00:00:00Z,2016,116,4872.1500000000005,326,von netzer,frederick,4169,WP1 Requirements,682,FIBSUN,4,4,1218.04
+2024-01-01T00:00:00Z,2016,116,4872.1500000000005,326,von netzer,frederick,4327,WP2 Industrial process development,682,FIBSUN,4,4,1218.04
+2024-01-01T00:00:00Z,2016,116,4872.1500000000005,326,von netzer,frederick,4328,WP3 Economic viability & environmental performance of proposed value chains,682,FIBSUN,26,14,187.39
+2024-01-01T00:00:00Z,2016,116,4872.1500000000005,326,von netzer,frederick,4329,"WP4 Dissemination, exploitation & communication",682,FIBSUN,2,2,2436.08
+2024-01-01T00:00:00Z,2016,98,3579.98,213,von stralendorff,sophie,3884,"WP6 Dissemination, exploitation and communication",616,MOSTH2,18.566666666666666,3,192.82
+2024-01-01T00:00:00Z,2016,98,3579.98,213,von stralendorff,sophie,3983,WP6 Dissemination and Exploitation,621,CANMILK,9,4,397.78
+2024-01-01T00:00:00Z,2016,98,3579.98,213,von stralendorff,sophie,4535,WP9 Dissemination and Exploitation,723,TOXBOX,11,2,325.45
+2024-01-01T00:00:00Z,2016,95,6440.660000000001,284,wehner,regine,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,125,2681.86,341,weindl,lukas,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2016,68,1296.6499999999999,184,zeller,ivo,4203,WP5 ComDissExpl,653,MARS,52,7,24.94
+2024-01-01T00:00:00Z,2016,68,1296.6499999999999,184,zeller,ivo,4624,"WP7 Engagement, Impact and Sustainability",726,INVERSE,40,5,32.42
+2024-01-01T00:00:00Z,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,80,5069.4,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,522,4702.07,113,bageritz,steve,4379,"WP1 Consortium Coordination, Innovation Management",657,AI REDGIO 5.0 (mit MwSt.),12,2,391.84
+2024-01-01T00:00:00Z,2017,522,4702.07,113,bageritz,steve,4381,WP3 (E)DIHs Network for AI-at-the-edge Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),2,1,2351.03
+2024-01-01T00:00:00Z,2017,20,10756.54,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,37,-9405.65,NA,barrientos,fernando javier,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,517,4828,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,86,5265.68,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,526,4220.01,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,595,4599.9,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,73,5056.33,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,513,5431.5,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,534,7067.14,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,613,4465.9,332,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,48,4842,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,547,8500,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,506,3479.29,54,doretto,sandrine,3585,WP11 Management & coordination,557,METABUILDING LABS (mit MwSt),50,6,69.59
+2024-01-01T00:00:00Z,2017,506,3479.29,54,doretto,sandrine,3972,"WP7 Expl, diss, Comm",624,EQATOR (inkl. MwSt.),6.75,1,515.45
+2024-01-01T00:00:00Z,2017,604,6718.41,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,608,5431.05,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,15,5283.09,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,5,9036.849999999999,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,502,10650.32,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,586,3492.58,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3973,WP1 Definition of industrial use cases and FLEX4FACTReference System Architecture,617,Flex4Fact (mit MwSt),26.25,5,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3974,WP2 Renewable Energy and excess stream module developmen,617,Flex4Fact (mit MwSt),8,2,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3975,WP3 Industrial Process Digital Twin development,617,Flex4Fact (mit MwSt),4,1,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3976,WP4 Module development for energy-efficient and flexible planning and control processe,617,Flex4Fact (mit MwSt),5.5,2,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3977,WP5 Design and deployment of theindustrial cluster flexibility platform(ICFP),617,Flex4Fact (mit MwSt),1.75,1,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3978,"WP6 System integration, Use Cases validation, TEA and LCA/Sustainability assessment",617,Flex4Fact (mit MwSt),21.25,3,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),15.25,4,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,3980,WP8 Project Management,617,Flex4Fact (mit MwSt),4,1,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),28.5,4,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,4306,WP2 Identification of value chain requirements and barriers and creation of local COP,695,POSEIDON (mit MwSt),45.25,7,0
+2024-01-01T00:00:00Z,2017,560,0,193,haering,paul,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),16.25,2,0
+2024-01-01T00:00:00Z,2017,60,6706.08,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,520,4486.1500000000005,35,hafner-zimmermann,sabine,4213,WP4 Open Calls,631,EARASHI (inkl. MwSt.),14,2,320.44
+2024-01-01T00:00:00Z,2017,520,4486.1500000000005,35,hafner-zimmermann,sabine,4214,WP5 AEs & User Experience,631,EARASHI (inkl. MwSt.),8,1,560.77
+2024-01-01T00:00:00Z,2017,1,4303.45,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,13,4609.35,4,heni,angela,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,503,23556.47,40,herrmann,eduardo manuel,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,569,5621.85,203,hochberg,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,11,10260.34,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,552,0,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,83,5084.1,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,501,15090.449999999999,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,7,6295.08,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,61,5397.84,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,624,250.19,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,14,4009.48,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,508,1649.48,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4562,WP6 CDE,727,COREU (mit MwSt),10,2,176.08
+2024-01-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),47,8,37.46
+2024-01-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4572,WP7 ComDissExp 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),31.75,4,55.46
+2024-01-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4573,WP1 Management 2024,728,HYGHER (mit MwSt),21.25,6,82.86
+2024-01-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4574,WP7 ComDissExp 2024,728,HYGHER (mit MwSt),22,5,80.04
+2024-01-01T00:00:00Z,2017,594,6496.21,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,570,1436.57,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,546,4158.41,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3404,"WP9 Exploitation, dissemination",530,ISLANDER (mit MwSt),3,2,675.31
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),18,4,112.55
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),4,2,506.48
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4109,WP8 Management,652,H2GLASS (mit MwSt),8,4,253.24
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),6,3,337.66
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),2,1,1012.96
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4347,WP1 Project Management,698,CAPTUS (mit MwSt),1,1,2025.93
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),8,4,253.24
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4394,WP1 Management 2024,680,LUCRA (mit MwSt),2,1,1012.96
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4396,"WP8 Comm, Diss and SE 2024",680,LUCRA (mit MwSt),4,2,506.48
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),4,2,506.48
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),6,3,337.66
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),8,4,253.24
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4560,WP1 Management,727,COREU (mit MwSt),10,5,202.59
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4562,WP6 CDE,727,COREU (mit MwSt),10,3,202.59
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),3,2,675.31
+2024-01-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4573,WP1 Management 2024,728,HYGHER (mit MwSt),5,3,405.19
+2024-01-01T00:00:00Z,2017,606,4767.6500000000005,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,617,3086.7799999999997,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,81,5190.1,298,sarnot,vipul,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,53,6551.76,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,596,6023.6,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,602,5928.51,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,69,5039.660000000001,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3587,WP1 Project Management,558,AEDIB|NET (mit MwSt),8,2,140.31
+2024-01-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3588,WP4 Creating 3 African DIHs,558,AEDIB|NET (mit MwSt),4,1,280.63
+2024-01-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3590,WP6 Dissemination and sustainability,558,AEDIB|NET (mit MwSt),8,2,140.31
+2024-01-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,4008,WP5 DissExpl,626,REEsilience (mit MwSt.),96.4,20,11.64
+2024-01-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,4353,WP7 CommDissExpl,688,ADMIRAL (mit MwSt.),18,5,62.36
+2024-01-01T00:00:00Z,2017,40,6300.49,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,82,5853.95,301,seim,alice,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,615,0,333,strunkeviciute,laura,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),13.75,10,118.11
+2024-01-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),48.75,18,33.31
+2024-01-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),32.5,16,49.97
+2024-01-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),8.25,10,196.85
+2024-01-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),4.75,6,341.9
+2024-01-01T00:00:00Z,2017,574,1163.46,213,von stralendorff,sophie,3967,WP8 Comm/Diss,603,SOPHIA (inkl. MwSt),26,7,44.75
+2024-01-01T00:00:00Z,2017,574,1163.46,213,von stralendorff,sophie,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),89.68333333333334,17,12.97
+2024-01-01T00:00:00Z,2017,66,6052.5,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+2024-01-01T00:00:00Z,2017,556,4866.63,184,zeller,ivo,4008,WP5 DissExpl,626,REEsilience (mit MwSt.),23,3,211.59
+2024-01-01T00:00:00Z,2017,607,4836.2,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,80,5069.4,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,522,4220.03,113,bageritz,steve,4379,"WP1 Consortium Coordination, Innovation Management",657,AI REDGIO 5.0 (mit MwSt.),8,2,527.5
+2024-02-01T00:00:00Z,2017,522,4220.03,113,bageritz,steve,4381,WP3 (E)DIHs Network for AI-at-the-edge Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),19,3,222.11
+2024-02-01T00:00:00Z,2017,522,4220.03,113,bageritz,steve,4383,WP7 Socio-economic Impact of EDGE AI Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),4,1,1055.01
+2024-02-01T00:00:00Z,2017,20,10756.54,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,37,0,NA,barrientos,fernando javier,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,517,4828,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,86,5265.68,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,622,4345.2,340,bitter,kristina,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,526,4220.01,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,595,4599.9,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,626,1828.45,NA,bönsch,cordula,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,73,5024.429999999999,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,513,5431.5,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,534,6927.14,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,613,4465.9,332,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,48,4842,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,547,7946.7,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,506,3479.29,54,doretto,sandrine,3595,"WP6 Dissemination & Communication 17,5 PM",532,FUSILLI (mit MwSt.),7.75,1,448.94
+2024-02-01T00:00:00Z,2017,506,3479.29,54,doretto,sandrine,3972,"WP7 Expl, diss, Comm",624,EQATOR (inkl. MwSt.),52,6,66.91
+2024-02-01T00:00:00Z,2017,506,3479.29,54,doretto,sandrine,4010,WP7 Mgt,626,REEsilience (mit MwSt.),15.5,2,224.47
+2024-02-01T00:00:00Z,2017,604,6718.41,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,608,5431.05,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,15,5283.09,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,625,4948.7,342,findling,jacqueline,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,5,9036.849999999999,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,502,10650.32,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,586,3492.58,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3973,WP1 Definition of industrial use cases and FLEX4FACTReference System Architecture,617,Flex4Fact (mit MwSt),4,1,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3974,WP2 Renewable Energy and excess stream module developmen,617,Flex4Fact (mit MwSt),6,2,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3975,WP3 Industrial Process Digital Twin development,617,Flex4Fact (mit MwSt),2,1,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3976,WP4 Module development for energy-efficient and flexible planning and control processe,617,Flex4Fact (mit MwSt),4,1,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3977,WP5 Design and deployment of theindustrial cluster flexibility platform(ICFP),617,Flex4Fact (mit MwSt),1,1,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3978,"WP6 System integration, Use Cases validation, TEA and LCA/Sustainability assessment",617,Flex4Fact (mit MwSt),32,5,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),13,2,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,3980,WP8 Project Management,617,Flex4Fact (mit MwSt),8,2,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),39.75,6,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,4306,WP2 Identification of value chain requirements and barriers and creation of local COP,695,POSEIDON (mit MwSt),46.25,7,0
+2024-02-01T00:00:00Z,2017,560,0,193,haering,paul,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),4,1,0
+2024-02-01T00:00:00Z,2017,60,6706.08,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,520,4486.1500000000005,35,hafner-zimmermann,sabine,4213,WP4 Open Calls,631,EARASHI (inkl. MwSt.),19.5,4,230.06
+2024-02-01T00:00:00Z,2017,520,4486.1500000000005,35,hafner-zimmermann,sabine,4214,WP5 AEs & User Experience,631,EARASHI (inkl. MwSt.),4.5,1,996.92
+2024-02-01T00:00:00Z,2017,1,4303.45,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,13,4609.35,4,heni,angela,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,503,97479.4,40,herrmann,eduardo manuel,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,612,609.43,319,ivic,fiona,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,11,10260.34,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,83,5084.1,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,501,15090.449999999999,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,7,6295.08,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,61,5397.84,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,624,0,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,14,3609.48,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,508,1649.48,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),27.25,4,64.62
+2024-02-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4572,WP7 ComDissExp 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),3.5,1,503.1
+2024-02-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4573,WP1 Management 2024,728,HYGHER (mit MwSt),21.5,3,81.9
+2024-02-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4574,WP7 ComDissExp 2024,728,HYGHER (mit MwSt),7.75,1,227.21
+2024-02-01T00:00:00Z,2017,594,6496.21,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,570,1325.91,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,546,4478.41,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3404,"WP9 Exploitation, dissemination",530,ISLANDER (mit MwSt),6,3,337.66
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),21,8,96.47
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),6,3,337.66
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4109,WP8 Management,652,H2GLASS (mit MwSt),8,4,253.24
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),3,1,675.31
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),6,3,337.66
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4347,WP1 Project Management,698,CAPTUS (mit MwSt),4,2,506.48
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),12.5,5,162.07
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4394,WP1 Management 2024,680,LUCRA (mit MwSt),2,1,1012.96
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4396,"WP8 Comm, Diss and SE 2024",680,LUCRA (mit MwSt),8,3,253.24
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),7,3,289.42
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),2,1,1012.96
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),3,2,675.31
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4562,WP6 CDE,727,COREU (mit MwSt),9.5,4,213.26
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),4,2,506.48
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4573,WP1 Management 2024,728,HYGHER (mit MwSt),7,3,289.42
+2024-02-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),5,3,405.19
+2024-02-01T00:00:00Z,2017,606,4767.6500000000005,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,617,3086.7799999999997,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,81,5190.1,298,sarnot,vipul,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,53,6711.76,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,596,6023.6,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,602,5928.51,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,69,5039.660000000001,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3587,WP1 Project Management,558,AEDIB|NET (mit MwSt),8,2,140.31
+2024-02-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3588,WP4 Creating 3 African DIHs,558,AEDIB|NET (mit MwSt),12,3,93.54
+2024-02-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,3590,WP6 Dissemination and sustainability,558,AEDIB|NET (mit MwSt),16,4,70.16
+2024-02-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,4008,WP5 DissExpl,626,REEsilience (mit MwSt.),14.4,4,77.95
+2024-02-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,4353,WP7 CommDissExpl,688,ADMIRAL (mit MwSt.),4,1,280.63
+2024-02-01T00:00:00Z,2017,40,6300.49,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,82,5853.95,301,seim,alice,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,615,1231.6799999999998,333,strunkeviciute,laura,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),15.75,9,103.11
+2024-02-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),60.25,21,26.96
+2024-02-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),29.5,17,55.05
+2024-02-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),15.25,17,106.49
+2024-02-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),5.25,5,309.34
+2024-02-01T00:00:00Z,2017,574,1163.46,213,von stralendorff,sophie,3967,WP8 Comm/Diss,603,SOPHIA (inkl. MwSt),76.25,13,15.26
+2024-02-01T00:00:00Z,2017,574,1163.46,213,von stralendorff,sophie,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),46.75,8,24.89
+2024-02-01T00:00:00Z,2017,66,6052.5,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2017,556,4866.63,184,zeller,ivo,4008,WP5 DissExpl,626,REEsilience (mit MwSt.),22,3,221.21
+2024-02-01T00:00:00Z,2017,607,4836.2,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2136,3,6235.7,167,große-puppendahl,sebastian,4414,EUB 2024,715,EUB: 2024 - 2025,137.5,21,45.35
+2024-02-01T00:00:00Z,2136,4,4254.820000000001,189,keim,daniela,4414,EUB 2024,715,EUB: 2024 - 2025,128,16,33.24
+2024-02-01T00:00:00Z,2136,1,14383.859999999999,NA,püchner,petra,NA,NA,NA,NA,NA,NA,NA
+2024-02-01T00:00:00Z,2136,NA,24874.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,80,5069.4,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,522,4220.03,113,bageritz,steve,4381,WP3 (E)DIHs Network for AI-at-the-edge Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),26,3,162.31
+2024-05-01T00:00:00Z,2017,522,4220.03,113,bageritz,steve,4383,WP7 Socio-economic Impact of EDGE AI Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),2,1,2110.01
+2024-05-01T00:00:00Z,2017,20,10756.54,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,517,4828,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,86,5265.68,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,622,4345.2,340,bitter,kristina,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,526,4220.01,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,595,3679.92,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,68,4914.320000000001,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,605,5046.95,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,73,1742.72,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,513,5431.5,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,534,6927.14,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,613,4707.3,332,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,48,4842,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,547,7946.7,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,506,3792.9700000000003,54,doretto,sandrine,3595,"WP6 Dissemination & Communication 17,5 PM",532,FUSILLI (mit MwSt.),38.25,5,99.16
+2024-05-01T00:00:00Z,2017,506,3792.9700000000003,54,doretto,sandrine,4599,WP8 Expl,725,HARMONY (mit MwSt),7.75,2,489.42
+2024-05-01T00:00:00Z,2017,604,6885.06,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,608,5431.05,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,633,688.01,350,fernandez,emilio,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,15,5283.09,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,5,9036.849999999999,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,502,10650.32,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,580,6035,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,586,3492.58,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3973,WP1 Definition of industrial use cases and FLEX4FACTReference System Architecture,617,Flex4Fact (mit MwSt),4,1,422.46
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3974,WP2 Renewable Energy and excess stream module developmen,617,Flex4Fact (mit MwSt),4,1,422.46
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3975,WP3 Industrial Process Digital Twin development,617,Flex4Fact (mit MwSt),11.75,2,143.82
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3976,WP4 Module development for energy-efficient and flexible planning and control processe,617,Flex4Fact (mit MwSt),8,2,211.23
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3977,WP5 Design and deployment of theindustrial cluster flexibility platform(ICFP),617,Flex4Fact (mit MwSt),8,2,211.23
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3978,"WP6 System integration, Use Cases validation, TEA and LCA/Sustainability assessment",617,Flex4Fact (mit MwSt),12.25,3,137.95
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),8,2,211.23
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,3980,WP8 Project Management,617,Flex4Fact (mit MwSt),4,1,422.46
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),8,2,211.23
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,4306,WP2 Identification of value chain requirements and barriers and creation of local COP,695,POSEIDON (mit MwSt),16,3,105.62
+2024-05-01T00:00:00Z,2017,560,1689.85,193,haering,paul,4562,WP6 CDE,727,COREU (mit MwSt),30,5,56.33
+2024-05-01T00:00:00Z,2017,60,6706.08,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,520,4470.110000000001,35,hafner-zimmermann,sabine,4214,WP5 AEs & User Experience,631,EARASHI (inkl. MwSt.),8,1,558.76
+2024-05-01T00:00:00Z,2017,520,4470.110000000001,35,hafner-zimmermann,sabine,4215,WP6 Comm & Diss,631,EARASHI (inkl. MwSt.),7,1,638.59
+2024-05-01T00:00:00Z,2017,1,4303.45,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,612,0,319,ivic,fiona,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,44,7288,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,65,4971.1,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,11,10180.34,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,552,0,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,83,5084.1,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,501,15090.449999999999,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,7,6295.08,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,61,5457.84,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,624,0,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,14,3609.48,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,508,1649.48,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4108,WP7 Communication and Exploitation,652,H2GLASS (mit MwSt),48.5,6,36.31
+2024-05-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4332,WP6 Technology scale up,652,H2GLASS (mit MwSt),4.5,1,391.3
+2024-05-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4562,WP6 CDE,727,COREU (mit MwSt),23.5,3,74.93
+2024-05-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4573,WP1 Management 2024,728,HYGHER (mit MwSt),8.5,1,207.16
+2024-05-01T00:00:00Z,2017,529,1760.85,124,reinert,marie-eve,4574,WP7 ComDissExp 2024,728,HYGHER (mit MwSt),23,3,76.56
+2024-05-01T00:00:00Z,2017,594,6496.21,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,570,1325.91,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,546,4258.41,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3404,"WP9 Exploitation, dissemination",530,ISLANDER (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),21,10,96.47
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),6,3,337.66
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4109,WP8 Management,652,H2GLASS (mit MwSt),7,3,289.42
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),11,5,184.18
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),8,4,253.24
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4395,WP7 Exploitation 2024,680,LUCRA (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4396,"WP8 Comm, Diss and SE 2024",680,LUCRA (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),7,4,289.42
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4560,WP1 Management,727,COREU (mit MwSt),5,2,405.19
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4562,WP6 CDE,727,COREU (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),6,3,337.66
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4573,WP1 Management 2024,728,HYGHER (mit MwSt),4,2,506.48
+2024-05-01T00:00:00Z,2017,505,2025.93,53,salingre,anthony,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),3,2,675.31
+2024-05-01T00:00:00Z,2017,606,5009.05,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,617,3268.3500000000004,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,53,5342.52,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,596,6023.6,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,602,6230.99,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,69,5039.660000000001,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,584,1122.51,225,schumacher,patrik,4353,WP7 CommDissExpl,688,ADMIRAL (mit MwSt.),115.2,18,9.74
+2024-05-01T00:00:00Z,2017,40,6300.49,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,82,5853.95,301,seim,alice,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,621,5190.1,338,sinai,rebecca helen,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),7.5,8,216.54
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),10.5,9,154.67
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),17,17,95.53
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),48,16,33.83
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),2,2,812.02
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),20.75,12,78.27
+2024-05-01T00:00:00Z,2017,609,1624.04,326,von netzer,frederick,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),2.25,3,721.8
+2024-05-01T00:00:00Z,2017,574,3490.4100000000003,213,von stralendorff,sophie,3967,WP8 Comm/Diss,603,SOPHIA (inkl. MwSt),9.5,4,367.41
+2024-05-01T00:00:00Z,2017,574,3490.4100000000003,213,von stralendorff,sophie,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),28.5,6,122.47
+2024-05-01T00:00:00Z,2017,66,6052.5,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,556,6163.28,184,zeller,ivo,NA,NA,NA,NA,NA,NA,NA
+2024-05-01T00:00:00Z,2017,607,5259.37,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,80,5310.8,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,522,4776.38,113,bageritz,steve,4379,"WP1 Consortium Coordination, Innovation Management",657,AI REDGIO 5.0 (mit MwSt.),11,3,434.22
+2024-09-01T00:00:00Z,2017,522,4776.38,113,bageritz,steve,4383,WP7 Socio-economic Impact of EDGE AI Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),20,3,238.82
+2024-09-01T00:00:00Z,2017,20,11356.54,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,517,5310.8,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,38,7793.9,145,bilbao,jennifer,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,86,5265.68,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,622,4526.25,340,bitter,kristina,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,526,4379.94,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,595,3679.92,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,68,5334.01,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,605,5228.67,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,52,7735.79,NA,campos cuellar,astrid alejandra,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,73,1805.29,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,513,5660.83,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,534,7311,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,613,4707.3,332,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,48,5205.1500000000005,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,547,8066.98,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4599,WP8 Expl,725,HARMONY (mit MwSt),4.5,1,1024.62
+2024-09-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4600,WP9 Management,725,HARMONY (mit MwSt),17,2,271.22
+2024-09-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4657,WP7 Management 24-25,614,AeroSolfd (mit MwSt.),54,7,85.38
+2024-09-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4705,WP7 Diss Comm,758,PROTEUS (mit MwSt),8,1,576.35
+2024-09-01T00:00:00Z,2017,604,6885.06,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,590,4059.22,295,escoto de tejada,marta,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,608,5732.78,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,633,596.53,350,fernandez,emilio,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,15,5428.46,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,5,9597.210000000001,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,502,11081.220000000001,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,580,6240.1900000000005,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,586,3855.44,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),11,2,495
+2024-09-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4306,WP2 Identification of value chain requirements and barriers and creation of local COP,695,POSEIDON (mit MwSt),8,2,680.63
+2024-09-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),13,2,418.85
+2024-09-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4562,WP6 CDE,727,COREU (mit MwSt),8,1,680.63
+2024-09-01T00:00:00Z,2017,60,7009.73,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,520,4638.89,35,hafner-zimmermann,sabine,4214,WP5 AEs & User Experience,631,EARASHI (inkl. MwSt.),7,1,662.7
+2024-09-01T00:00:00Z,2017,520,4638.89,35,hafner-zimmermann,sabine,4215,WP6 Comm & Diss,631,EARASHI (inkl. MwSt.),16,2,289.93
+2024-09-01T00:00:00Z,2017,1,4466.41,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,44,3984.18,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,64,5102.53,224,kaiser,isabel,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,65,5515.820000000001,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,11,10780.34,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,552,6329.56,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,501,15690.449999999999,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,557,3930.3300000000004,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,7,6536.75,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,61,5837.21,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,624,0,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,78,4644.78,NA,pein,sabrina,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,508,1801.51,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4332,WP6 Technology scale up,652,H2GLASS (mit MwSt),5,1,382.54
+2024-09-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),16.5,3,115.92
+2024-09-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4572,WP7 ComDissExp 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),18,3,106.26
+2024-09-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4573,WP1 Management 2024,728,HYGHER (mit MwSt),48.5,8,39.44
+2024-09-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4574,WP7 ComDissExp 2024,728,HYGHER (mit MwSt),38,7,50.33
+2024-09-01T00:00:00Z,2017,594,6496.21,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,570,1425.9,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,546,4645,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3404,"WP9 Exploitation, dissemination",530,ISLANDER (mit MwSt),13,6,170.83
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),16,6,138.8
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),5,2,444.17
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4109,WP8 Management,652,H2GLASS (mit MwSt),11,5,201.89
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),3,1,740.28
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),7,3,317.26
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),17,8,130.64
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4394,WP1 Management 2024,680,LUCRA (mit MwSt),3,2,740.28
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4395,WP7 Exploitation 2024,680,LUCRA (mit MwSt),2,1,1110.42
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4396,"WP8 Comm, Diss and SE 2024",680,LUCRA (mit MwSt),7,4,317.26
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),2,1,1110.42
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),2,1,1110.42
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),6,3,370.14
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4560,WP1 Management,727,COREU (mit MwSt),4,2,555.21
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4562,WP6 CDE,727,COREU (mit MwSt),6,3,370.14
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),4,2,555.21
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4784,WP7 Management,760,BioFibreLoop (inkl. MwSt),13,5,170.83
+2024-09-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4785,WP6 Dissemination and Exploitation,760,BioFibreLoop (inkl. MwSt),5,2,444.17
+2024-09-01T00:00:00Z,2017,606,5009.05,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,617,3268.3500000000004,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,53,5583.92,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,627,3813.08,344,schenk,robin,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,596,6023.6,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,602,6261.89,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,69,5341.79,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,584,5922.33,225,schumacher,patrik,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,40,6597.75,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,82,0,301,seim,alice,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,621,5431.5,338,sinai,rebecca helen,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),33,15,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),32,15,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),7,13,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),18,8,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4556,WP4 Assessment of regulatory and economic instruments,722,NENUPHAR (mit MwSt),32,14,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),14,6,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),18,8,0
+2024-09-01T00:00:00Z,2017,609,0,326,von netzer,frederick,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),6,3,0
+2024-09-01T00:00:00Z,2017,574,3850.5,213,von stralendorff,sophie,3967,WP8 Comm/Diss,603,SOPHIA (inkl. MwSt),7,1,550.07
+2024-09-01T00:00:00Z,2017,574,3850.5,213,von stralendorff,sophie,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),30.5,4,126.25
+2024-09-01T00:00:00Z,2017,556,1274.8,184,zeller,ivo,3973,WP1 Definition of industrial use cases and FLEX4FACTReference System Architecture,617,Flex4Fact (mit MwSt),32,4,39.84
+2024-09-01T00:00:00Z,2017,556,1274.8,184,zeller,ivo,3978,"WP6 System integration, Use Cases validation, TEA and LCA/Sustainability assessment",617,Flex4Fact (mit MwSt),72,9,17.71
+2024-09-01T00:00:00Z,2017,556,1274.8,184,zeller,ivo,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),32,4,39.84
+2024-09-01T00:00:00Z,2017,607,5259.37,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,143,5612.55,359,adam,chiara,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,123,6100.92,331,akkus,abdullah alparslan,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4199,WP1 MGT,649,CLASCO,4,1,318.52
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4200,WP7 TEA,649,CLASCO,12,2,106.17
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4201,WP8 CommDissExpl,649,CLASCO,8,1,159.26
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4210,WP5 Ecosystem,647,EDIH-AICS,8,1,159.26
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4623,WP2 Human-Robot Interface Design and Requirements Specification,726,INVERSE,29,4,43.93
+2024-10-01T00:00:00Z,2016,14,1274.1,113,bageritz,steve,4624,"WP7 Engagement, Impact and Sustainability",726,INVERSE,63,9,20.22
+2024-10-01T00:00:00Z,2016,38,4289.429999999999,NA,barrientos,fernando javier,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,111,6325.35,314,bubeck,alena,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,90,5658.660000000001,NA,butorajac djurovic,stela,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,134,5129.75,NA,bönsch,cordula,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,92,0,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,128,6385.110000000001,339,chopard,adelaide,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,126,6385.110000000001,336,czech,andreas,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,137,5069.4,NA,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,113,6459.04,321,deufel,martina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,50,4428.88,54,doretto,sandrine,3970,"WP7 Expl, diss, Comm",625,OPeraTIC,3.5,1,1265.39
+2024-10-01T00:00:00Z,2016,50,4428.88,54,doretto,sandrine,4655,"WP6 Diss, comm, expl",721,SEADE,12.5,2,354.31
+2024-10-01T00:00:00Z,2016,50,4428.88,54,doretto,sandrine,4656,WP7 MGT,721,SEADE,32,5,138.4
+2024-10-01T00:00:00Z,2016,102,6181.04,294,dubreuilh,isabelle,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,114,4730.81,NA,duffner,clara maria,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,130,5129.75,342,findling,jacqueline,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,65,6035,NA,fritz,jacqueline irena,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,58,2757.56,NA,föll,birgit,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,94,1285.1399999999999,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,74,1815,193,haering,paul,4774,WP1 Umsetzung,796,TENDER: FWC Hydrogen FP2,102,13,17.79
+2024-10-01T00:00:00Z,2016,127,5749.88,337,hafner,maren,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,30,1120.01,35,hafner-zimmermann,sabine,4208,WP3 Skills,647,EDIH-AICS,30.5,4,36.72
+2024-10-01T00:00:00Z,2016,30,1120.01,35,hafner-zimmermann,sabine,4210,WP5 Ecosystem,647,EDIH-AICS,9,2,124.45
+2024-10-01T00:00:00Z,2016,30,1120.01,35,hafner-zimmermann,sabine,4211,WP6 Diss,647,EDIH-AICS,13,2,86.15
+2024-10-01T00:00:00Z,2016,30,1120.01,35,hafner-zimmermann,sabine,4602,WP2 Envisioning,709,MASTT2040,39.5,7,28.35
+2024-10-01T00:00:00Z,2016,30,1120.01,35,hafner-zimmermann,sabine,4606,WP6 Management,709,MASTT2040,8,1,140
+2024-10-01T00:00:00Z,2016,122,5084.1,327,hanß,lisa marie,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,97,0,NA,hörner,lucia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,88,0,NA,hüttner,regina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,129,4580.9,345,korobovich,ekaterina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,104,5326.2,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,64,0,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,62,4677.620000000001,30,mack,anette,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,132,5943.7,346,merker,laura,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,16,3349.22,90,mortimer,sarah,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,8,3760.3500000000004,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,53,0,NA,pratlong,maeva,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,124,5447.25,334,radanovic,natalia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,54,7285.57,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,85,5849.5,124,reinert,marie-eve,4734,H2Valley Umsetzung Phase 1 2024,780,EU-KONFORM: H2Valley Phase 1 Projektanbahnung 2024,36,15,162.49
+2024-10-01T00:00:00Z,2016,85,5849.5,124,reinert,marie-eve,4774,WP1 Umsetzung,796,TENDER: FWC Hydrogen FP2,8,1,731.19
+2024-10-01T00:00:00Z,2016,42,0,NA,remmele-hertfelder,bettina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,138,6773.96,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,71,5783.58,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,3983,WP6 Dissemination and Exploitation,621,CANMILK,2,1,3412.23
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4078,WP1 Management,660,SHIFT-HUB,6,3,1137.41
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4187,"WP1 Collection, preparation, and translation of practical knowledge",648,GOFORESTS,8,4,853.06
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4330,WP5 Coordination,682,FIBSUN,4.5,3,1516.55
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4534,WP10 Management,723,TOXBOX,1,1,6824.47
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4535,WP9 Dissemination and Exploitation,723,TOXBOX,3.5,2,1949.85
+2024-10-01T00:00:00Z,2016,9,6824.469999999999,53,salingre,anthony,4633,WP Planung 2024,761,pHYBi,11.5,6,593.43
+2024-10-01T00:00:00Z,2016,131,4707.3,347,sanders,luise,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,140,3595.18,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,107,5310.8,298,sarnot,vipul,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,13,8398.66,NA,schlicke,anna charlotte,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,133,4383.22,348,schmaltz,laura,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,116,6718.41,326,von netzer,frederick,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,98,1393.1,213,von stralendorff,sophie,3884,"WP6 Dissemination, exploitation and communication",616,MOSTH2,54,8,25.8
+2024-10-01T00:00:00Z,2016,98,1393.1,213,von stralendorff,sophie,3885,WP7 Project Management,616,MOSTH2,3.25,1,428.65
+2024-10-01T00:00:00Z,2016,98,1393.1,213,von stralendorff,sophie,4535,WP9 Dissemination and Exploitation,723,TOXBOX,74.75,13,18.64
+2024-10-01T00:00:00Z,2016,95,7773.860000000001,284,wehner,regine,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,84,6347.79,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,125,5437.8,341,weindl,lukas,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,135,4957.31,349,würtz,yvonne,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2016,68,4685.72,184,zeller,ivo,4203,WP5 ComDissExpl,653,MARS,30,4,156.19
+2024-10-01T00:00:00Z,2016,142,3944.52,325,zillober,mirjam,4165,WP8 CommDissExp,650,ECODALLI,6,2,657.42
+2024-10-01T00:00:00Z,2016,142,3944.52,325,zillober,mirjam,4627,WP4 Connecting ecosystems and capitalisation 2024,646,POSITIVE,6,2,657.42
+2024-10-01T00:00:00Z,2016,142,3944.52,325,zillober,mirjam,4628,"WP5 Communicatio, Dissemination & Exploitation 2024",646,POSITIVE,24,6,164.35
+2024-10-01T00:00:00Z,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,80,5310.8,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,522,4776.38,113,bageritz,steve,4379,"WP1 Consortium Coordination, Innovation Management",657,AI REDGIO 5.0 (mit MwSt.),16,2,298.52
+2024-10-01T00:00:00Z,2017,522,4776.38,113,bageritz,steve,4381,WP3 (E)DIHs Network for AI-at-the-edge Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),3,1,1592.13
+2024-10-01T00:00:00Z,2017,522,4776.38,113,bageritz,steve,4383,WP7 Socio-economic Impact of EDGE AI Industry 5.0,657,AI REDGIO 5.0 (mit MwSt.),12,2,398.03
+2024-10-01T00:00:00Z,2017,20,11356.54,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,517,5419.75,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,38,7793.9,145,bilbao,jennifer,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,86,5447.25,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,622,4526.25,340,bitter,kristina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,526,4379.94,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,595,3994.65,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,68,5334.01,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,605,5228.67,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,52,7735.79,NA,campos cuellar,astrid alejandra,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,73,0,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,513,5660.83,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,638,4720.95,362,cimesa,tania,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,534,7311,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,613,0,332,delpachithra arachchige,dhanesh chathuranga,4723,WP12 CDE Phase 2,704,MULTICLIMACT (mit MwSt),176,22,0
+2024-10-01T00:00:00Z,2017,48,5205.1500000000005,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,547,8066.98,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,3595,"WP6 Dissemination & Communication 17,5 PM",532,FUSILLI (mit MwSt.),12,3,384.23
+2024-10-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),20,3,230.54
+2024-10-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4063,WP6 Communication 24-25,614,AeroSolfd (mit MwSt.),13.5,3,341.54
+2024-10-01T00:00:00Z,2017,506,4610.7699999999995,54,doretto,sandrine,4600,WP9 Management,725,HARMONY (mit MwSt),2.5,1,1844.31
+2024-10-01T00:00:00Z,2017,636,5491.85,361,duelli,glykeria,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,604,6885.06,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,590,4075.69,295,escoto de tejada,marta,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,608,5732.78,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,633,591.59,350,fernandez,emilio,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,15,5428.46,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,5,9597.210000000001,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,502,11239.79,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,580,6240.1900000000005,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,586,3855.44,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),5,2,1089
+2024-10-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4306,WP2 Identification of value chain requirements and barriers and creation of local COP,695,POSEIDON (mit MwSt),7,2,777.86
+2024-10-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),4,1,1361.25
+2024-10-01T00:00:00Z,2017,560,5445.01,193,haering,paul,4562,WP6 CDE,727,COREU (mit MwSt),18,3,302.5
+2024-10-01T00:00:00Z,2017,60,7009.73,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,520,4716.2,35,hafner-zimmermann,sabine,4214,WP5 AEs & User Experience,631,EARASHI (inkl. MwSt.),6,1,786.03
+2024-10-01T00:00:00Z,2017,520,4716.2,35,hafner-zimmermann,sabine,4215,WP6 Comm & Diss,631,EARASHI (inkl. MwSt.),8,1,589.52
+2024-10-01T00:00:00Z,2017,520,4716.2,35,hafner-zimmermann,sabine,4216,WP7 Management,631,EARASHI (inkl. MwSt.),11,2,428.75
+2024-10-01T00:00:00Z,2017,640,3621,351,harzer,liesa,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,1,4466.41,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,88,5717.75,NA,hörner,lucia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,44,3984.18,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,64,5102.53,224,kaiser,isabel,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,65,5515.820000000001,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,11,10780.34,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,552,6444.01,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,501,15690.449999999999,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,557,4616.120000000001,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,7,6536.75,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,61,5837.21,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,624,846.7800000000001,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,78,4644.78,NA,pein,sabrina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,523,6829.51,NA,pratlong,maeva,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,635,4586.6,360,qian,ina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,508,1801.51,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4108,WP7 Communication and Exploitation,652,H2GLASS (mit MwSt),2,1,956.36
+2024-10-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4332,WP6 Technology scale up,652,H2GLASS (mit MwSt),4.5,1,425.05
+2024-10-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4573,WP1 Management 2024,728,HYGHER (mit MwSt),98,15,19.52
+2024-10-01T00:00:00Z,2017,529,1912.71,124,reinert,marie-eve,4574,WP7 ComDissExp 2024,728,HYGHER (mit MwSt),27.5,4,69.55
+2024-10-01T00:00:00Z,2017,642,0,367,riedmüller,katharina,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,594,0,306,rios rodriguez,daniela,3972,"WP7 Expl, diss, Comm",624,EQATOR (inkl. MwSt.),49,6,0
+2024-10-01T00:00:00Z,2017,594,0,306,rios rodriguez,daniela,4061,WP5 Diss/ Expl 24-25,614,AeroSolfd (mit MwSt.),79,9,0
+2024-10-01T00:00:00Z,2017,570,1425.9,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,546,4662.54,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3404,"WP9 Exploitation, dissemination",530,ISLANDER (mit MwSt),5,2,444.17
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3405,WP10 Management,530,ISLANDER (mit MwSt),8,3,277.6
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),14,6,158.63
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,3965,WP7 ESIA and business models,603,SOPHIA (inkl. MwSt),13,5,170.83
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4109,WP8 Management,652,H2GLASS (mit MwSt),7,3,317.26
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4305,"WP1 Project coordination, management and Governance",695,POSEIDON (mit MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4311,"WP7 Communication, dissemination and exploitation",695,POSEIDON (mit MwSt),6,3,370.14
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4347,WP1 Project Management,698,CAPTUS (mit MwSt),7,3,317.26
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),12,3,185.07
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4394,WP1 Management 2024,680,LUCRA (mit MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4395,WP7 Exploitation 2024,680,LUCRA (mit MwSt),1,1,2220.83
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4396,"WP8 Comm, Diss and SE 2024",680,LUCRA (mit MwSt),3.5,2,634.52
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4554,WP2 Governance models,722,NENUPHAR (mit MwSt),7.5,3,296.11
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4558,WP7 Exploitation,722,NENUPHAR (mit MwSt),3,2,740.28
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4559,WP1 Management 2024,571,FlashPhos (mit MwSt),2.5,2,888.33
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4560,WP1 Management,727,COREU (mit MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4562,WP6 CDE,727,COREU (mit MwSt),4,2,555.21
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4571,WP1 Management 2024 - DEMO,562,COSMHYC DEMO (mit MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4576,WP9 Exploitation 2024,571,FlashPhos (mit MwSt),4,2,555.21
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4784,WP7 Management,760,BioFibreLoop (inkl. MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,505,2220.8300000000004,53,salingre,anthony,4785,WP6 Dissemination and Exploitation,760,BioFibreLoop (inkl. MwSt),2,1,1110.42
+2024-10-01T00:00:00Z,2017,606,4411.860000000001,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,617,0,335,sarenkapa,tea,3882,WP5 Exploitation,615,EcoReFibre (inkl. MwSt.),35,17,0
+2024-10-01T00:00:00Z,2017,617,0,335,sarenkapa,tea,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),41,17,0
+2024-10-01T00:00:00Z,2017,617,0,335,sarenkapa,tea,4349,WP8 Comm/Diss,698,CAPTUS (mit MwSt),34,17,0
+2024-10-01T00:00:00Z,2017,53,5583.92,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,627,3949.25,344,schenk,robin,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,596,6023.6,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,602,6261.89,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,69,5341.79,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,584,5922.33,225,schumacher,patrik,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,40,6597.75,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,621,5431.5,338,sinai,rebecca helen,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+2024-10-01T00:00:00Z,2017,574,3850.5,213,von stralendorff,sophie,3968,WP9 Project Management,603,SOPHIA (inkl. MwSt),44,6,87.51
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3974,WP2 Renewable Energy and excess stream module developmen,617,Flex4Fact (mit MwSt),23,3,50.06
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3975,WP3 Industrial Process Digital Twin development,617,Flex4Fact (mit MwSt),24,3,47.98
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3976,WP4 Module development for energy-efficient and flexible planning and control processe,617,Flex4Fact (mit MwSt),24,3,47.98
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3977,WP5 Design and deployment of theindustrial cluster flexibility platform(ICFP),617,Flex4Fact (mit MwSt),23,3,50.06
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3978,"WP6 System integration, Use Cases validation, TEA and LCA/Sustainability assessment",617,Flex4Fact (mit MwSt),8,1,143.93
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3979,"WP7 Community uptake and sustainability, dissemination, exploitation and standardization",617,Flex4Fact (mit MwSt),3,2,383.8
+2024-10-01T00:00:00Z,2017,556,1151.41,184,zeller,ivo,3980,WP8 Project Management,617,Flex4Fact (mit MwSt),15,2,76.76
+2024-10-01T00:00:00Z,2017,607,1314.85,325,zillober,mirjam,4698,"WP2 CoP, User Needs, Baseline Assessment 2024",690,DaWetRest (mit MwSt),39,8,33.71
+2024-10-01T00:00:00Z,2017,607,1314.85,325,zillober,mirjam,4701,"WP6 ScaleUp, Replication, Exploitation",690,DaWetRest (mit MwSt),27.75,5,47.38
+2024-10-01T00:00:00Z,2017,607,1314.85,325,zillober,mirjam,4702,"WP7 Communication, Dissemination & Engagement",690,DaWetRest (mit MwSt),41.25,9,31.88
+NA,2016,143,11730.19,359,adam,chiara,NA,NA,NA,NA,NA,NA,NA
+NA,2016,123,62974.2,331,akkus,abdullah alparslan,NA,NA,NA,NA,NA,NA,NA
+NA,2016,101,10880.59,297,amarysti,canesia d'andrea,NA,NA,NA,NA,NA,NA,NA
+NA,2016,14,13530.55,113,bageritz,steve,NA,NA,NA,NA,NA,NA,NA
+NA,2016,38,33373.4,NA,barrientos,fernando javier,NA,NA,NA,NA,NA,NA,NA
+NA,2016,27,41824.91,145,bilbao,jennifer,NA,NA,NA,NA,NA,NA,NA
+NA,2016,21,8992.130000000001,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+NA,2016,111,65005.840000000004,314,bubeck,alena,NA,NA,NA,NA,NA,NA,NA
+NA,2016,121,16406.22,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+NA,2016,90,58511.4,NA,butorajac djurovic,stela,NA,NA,NA,NA,NA,NA,NA
+NA,2016,112,10991.4,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,134,39111.65,NA,bönsch,cordula,NA,NA,NA,NA,NA,NA,NA
+NA,2016,55,41326.67,NA,campos cuellar,astrid alejandra,NA,NA,NA,NA,NA,NA,NA
+NA,2016,92,38050.53,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+NA,2016,128,65982.31,339,chopard,adelaide,NA,NA,NA,NA,NA,NA,NA
+NA,2016,126,63987.450000000004,336,czech,andreas,NA,NA,NA,NA,NA,NA,NA
+NA,2016,139,6539.9800000000005,368,deckers,anke,NA,NA,NA,NA,NA,NA,NA
+NA,2016,137,10635.689999999999,NA,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+NA,2016,113,55561.240000000005,321,deufel,martina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,50,42013.11,54,doretto,sandrine,NA,NA,NA,NA,NA,NA,NA
+NA,2016,102,64187.990000000005,294,dubreuilh,isabelle,NA,NA,NA,NA,NA,NA,NA
+NA,2016,114,43502.11,NA,duffner,clara maria,NA,NA,NA,NA,NA,NA,NA
+NA,2016,99,25566.280000000002,295,escoto de tejada,marta,NA,NA,NA,NA,NA,NA,NA
+NA,2016,130,46974.65,342,findling,jacqueline,NA,NA,NA,NA,NA,NA,NA
+NA,2016,65,62778.9,NA,fritz,jacqueline irena,NA,NA,NA,NA,NA,NA,NA
+NA,2016,58,31491.69,NA,föll,birgit,NA,NA,NA,NA,NA,NA,NA
+NA,2016,81,6667.01,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+NA,2016,94,13277.019999999999,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+NA,2016,74,47075.81,193,haering,paul,NA,NA,NA,NA,NA,NA,NA
+NA,2016,127,58152.1,337,hafner,maren,NA,NA,NA,NA,NA,NA,NA
+NA,2016,30,12046.73,35,hafner-zimmermann,sabine,NA,NA,NA,NA,NA,NA,NA
+NA,2016,122,49783.74,327,hanß,lisa marie,NA,NA,NA,NA,NA,NA,NA
+NA,2016,97,49348.43,NA,hörner,lucia,NA,NA,NA,NA,NA,NA,NA
+NA,2016,88,0,NA,hüttner,regina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,40,8077.66,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+NA,2016,89,26192.99,224,kaiser,isabel,NA,NA,NA,NA,NA,NA,NA
+NA,2016,105,5461.9800000000005,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+NA,2016,66,33059.25,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+NA,2016,129,32802.810000000005,345,korobovich,ekaterina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,104,27023.600000000002,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+NA,2016,106,1226.87,304,loew,lena-sophie,NA,NA,NA,NA,NA,NA,NA
+NA,2016,64,5899.92,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,62,49302.68,30,mack,anette,NA,NA,NA,NA,NA,NA,NA
+NA,2016,132,43510.23,346,merker,laura,NA,NA,NA,NA,NA,NA,NA
+NA,2016,16,9249.44,90,mortimer,sarah,NA,NA,NA,NA,NA,NA,NA
+NA,2016,119,9173.2,293,nunes vidal,igor,NA,NA,NA,NA,NA,NA,NA
+NA,2016,100,1157.5,296,pein,ati,NA,NA,NA,NA,NA,NA,NA
+NA,2016,100,23634.75,296,pein,sabrina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,8,15734.29,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+NA,2016,53,55553.990000000005,NA,pratlong,maeva,NA,NA,NA,NA,NA,NA,NA
+NA,2016,47,14840,NA,püchner,petra,NA,NA,NA,NA,NA,NA,NA
+NA,2016,124,54611.93,334,radanovic,natalia,NA,NA,NA,NA,NA,NA,NA
+NA,2016,54,75873.66,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+NA,2016,85,61724.03,124,reinert,marie-eve,NA,NA,NA,NA,NA,NA,NA
+NA,2016,42,25790.1,NA,remmele-hertfelder,bettina,NA,NA,NA,NA,NA,NA,NA
+NA,2016,138,14147.23,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+NA,2016,71,60304.65,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+NA,2016,110,16616.62,NA,rubio martinez,marta,NA,NA,NA,NA,NA,NA,NA
+NA,2016,9,70977.31,53,salingre,anthony,NA,NA,NA,NA,NA,NA,NA
+NA,2016,131,37086.46,347,sanders,luise,NA,NA,NA,NA,NA,NA,NA
+NA,2016,140,7483.83,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+NA,2016,107,44032.490000000005,298,sarnot,vipul,NA,NA,NA,NA,NA,NA,NA
+NA,2016,56,80,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+NA,2016,13,89095.96,NA,schlicke,anna charlotte,NA,NA,NA,NA,NA,NA,NA
+NA,2016,133,35524.8,348,schmaltz,laura,NA,NA,NA,NA,NA,NA,NA
+NA,2016,82,25150.510000000002,225,schumacher,patrik,NA,NA,NA,NA,NA,NA,NA
+NA,2016,136,2550.6,NA,schäfer,emily maja,NA,NA,NA,NA,NA,NA,NA
+NA,2016,141,10944.029999999999,NA,sinai,rebecca helen,NA,NA,NA,NA,NA,NA,NA
+NA,2016,116,57853.780000000006,326,von netzer,frederick,NA,NA,NA,NA,NA,NA,NA
+NA,2016,98,16760.97,213,von stralendorff,sophie,NA,NA,NA,NA,NA,NA,NA
+NA,2016,95,78775.09,284,wehner,regine,NA,NA,NA,NA,NA,NA,NA
+NA,2016,84,40222.76,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+NA,2016,125,55200.44,341,weindl,lukas,NA,NA,NA,NA,NA,NA,NA
+NA,2016,135,38967.97,349,würtz,yvonne,NA,NA,NA,NA,NA,NA,NA
+NA,2016,68,34519.23,184,zeller,ivo,NA,NA,NA,NA,NA,NA,NA
+NA,2016,144,13086.34,363,zett,goranka,NA,NA,NA,NA,NA,NA,NA
+NA,2016,142,8210.15,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+NA,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2017,80,28519.44,NA,amarysti,canesia,NA,NA,NA,NA,NA,NA,NA
+NA,2017,522,35196.9,113,bageritz,steve,NA,NA,NA,NA,NA,NA,NA
+NA,2017,20,91745.78,12,bahr,valerie,NA,NA,NA,NA,NA,NA,NA
+NA,2017,517,40097.29,110,berlin,mercedes,NA,NA,NA,NA,NA,NA,NA
+NA,2017,38,33089,145,bilbao,jennifer,NA,NA,NA,NA,NA,NA,NA
+NA,2017,86,40477.8,307,bischler,frederik,NA,NA,NA,NA,NA,NA,NA
+NA,2017,622,32626.72,340,bitter,kristina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,NA,NA,157,blakemore,faith,NA,NA,NA,NA,NA,NA,NA
+NA,2017,526,24748.24,126,blessing,victoria,NA,NA,NA,NA,NA,NA,NA
+NA,2017,595,30118.08,NA,buchter,angelina-erika,NA,NA,NA,NA,NA,NA,NA
+NA,2017,68,28270.230000000003,230,burkhardt,pia,NA,NA,NA,NA,NA,NA,NA
+NA,2017,605,32901.44,NA,böhm,katharina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,626,1912.04,NA,bönsch,cordula,NA,NA,NA,NA,NA,NA,NA
+NA,2017,52,32665.11,NA,campos cuellar,astrid alejandra,NA,NA,NA,NA,NA,NA,NA
+NA,2017,73,9248.23,NA,casado hebrard,francisco javier,NA,NA,NA,NA,NA,NA,NA
+NA,2017,513,43680.21,83,chiran,daniela,NA,NA,NA,NA,NA,NA,NA
+NA,2017,638,9875.560000000001,362,cimesa,tania,NA,NA,NA,NA,NA,NA,NA
+NA,2017,534,56198.32,132,cosic,miljana,NA,NA,NA,NA,NA,NA,NA
+NA,2017,641,2180.0099999999998,368,deckers,anke,NA,NA,NA,NA,NA,NA,NA
+NA,2017,613,25547.72,332,delpachithra arachchige,dhanesh chathuranga,NA,NA,NA,NA,NA,NA,NA
+NA,2017,48,39009.48,169,dimakou bertels,ariadne,NA,NA,NA,NA,NA,NA,NA
+NA,2017,547,61209.96,166,doll,timo,NA,NA,NA,NA,NA,NA,NA
+NA,2017,506,32385.42,54,doretto,sandrine,NA,NA,NA,NA,NA,NA,NA
+NA,2017,636,10945.310000000001,361,duelli,glykeria,NA,NA,NA,NA,NA,NA,NA
+NA,2017,604,51372.990000000005,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+NA,2017,NA,NA,322,ertmann,jan,NA,NA,NA,NA,NA,NA,NA
+NA,2017,590,13028.83,295,escoto de tejada,marta,NA,NA,NA,NA,NA,NA,NA
+NA,2017,608,42352.51,324,fath,leonie,NA,NA,NA,NA,NA,NA,NA
+NA,2017,633,2976.08,350,fernandez,emilio,NA,NA,NA,NA,NA,NA,NA
+NA,2017,15,42210.96,18,fezer,alexandra,NA,NA,NA,NA,NA,NA,NA
+NA,2017,625,-364.49999999999994,342,findling,jacqueline,NA,NA,NA,NA,NA,NA,NA
+NA,2017,5,79591.51999999999,37,fischer,heike,NA,NA,NA,NA,NA,NA,NA
+NA,2017,502,90981.18,27,gohla,robert,NA,NA,NA,NA,NA,NA,NA
+NA,2017,580,47322.47,220,gralow,melanie,NA,NA,NA,NA,NA,NA,NA
+NA,2017,586,28990.74,NA,haack,karoline johanna,NA,NA,NA,NA,NA,NA,NA
+NA,2017,560,21337.39,193,haering,paul,NA,NA,NA,NA,NA,NA,NA
+NA,2017,60,53344.18,NA,haeßler,sabine,NA,NA,NA,NA,NA,NA,NA
+NA,2017,520,36342.22,35,hafner-zimmermann,sabine,NA,NA,NA,NA,NA,NA,NA
+NA,2017,640,7566.7,351,harzer,liesa,NA,NA,NA,NA,NA,NA,NA
+NA,2017,1,34346.07,10,heckmann,katrin,NA,NA,NA,NA,NA,NA,NA
+NA,2017,13,10766.44,4,heni,angela,NA,NA,NA,NA,NA,NA,NA
+NA,2017,569,0,203,hochberg,katrin,NA,NA,NA,NA,NA,NA,NA
+NA,2017,88,12070.54,NA,hörner,lucia,NA,NA,NA,NA,NA,NA,NA
+NA,2017,612,1218.86,319,ivic,fiona,NA,NA,NA,NA,NA,NA,NA
+NA,2017,44,26879.04,152,kaiser,gabriele,NA,NA,NA,NA,NA,NA,NA
+NA,2017,64,21165.91,224,kaiser,isabel,NA,NA,NA,NA,NA,NA,NA
+NA,2017,65,40232.020000000004,227,keller,siora,NA,NA,NA,NA,NA,NA,NA
+NA,2017,11,87632.38,NA,knöbel-french,tracey,NA,NA,NA,NA,NA,NA,NA
+NA,2017,552,26933.6,NA,kopf,eva juliane,NA,NA,NA,NA,NA,NA,NA
+NA,2017,83,16990.79,300,kovacic,sofija,NA,NA,NA,NA,NA,NA,NA
+NA,2017,501,131013.15,21,loeffler,jonathan,NA,NA,NA,NA,NA,NA,NA
+NA,2017,557,16996.16,NA,löhr,edina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,7,50340.58,32,marschalek,olga,NA,NA,NA,NA,NA,NA,NA
+NA,2017,61,43933.049999999996,204,mertens,vanessa,NA,NA,NA,NA,NA,NA,NA
+NA,2017,624,866.03,302,olems,alexander,NA,NA,NA,NA,NA,NA,NA
+NA,2017,78,10236.619999999999,296,pein,ati,NA,NA,NA,NA,NA,NA,NA
+NA,2017,78,9231.380000000001,NA,pein,sabrina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,639,12354.18,364,pierro,annalisa,NA,NA,NA,NA,NA,NA,NA
+NA,2017,14,17081.22,15,polonski,ksenia,NA,NA,NA,NA,NA,NA,NA
+NA,2017,523,14539.54,NA,pratlong,maeva,NA,NA,NA,NA,NA,NA,NA
+NA,2017,635,9594.11,360,qian,ina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,508,13632.92,NA,reimann-zawadzki,meike,NA,NA,NA,NA,NA,NA,NA
+NA,2017,529,14768,124,reinert,marie-eve,NA,NA,NA,NA,NA,NA,NA
+NA,2017,642,1334.32,367,riedmüller,katharina,NA,NA,NA,NA,NA,NA,NA
+NA,2017,594,35479.81,306,rios rodriguez,daniela,NA,NA,NA,NA,NA,NA,NA
+NA,2017,570,10784.34,NA,rios silva,fredy,NA,NA,NA,NA,NA,NA,NA
+NA,2017,546,35564.73,NA,roth,clementine,NA,NA,NA,NA,NA,NA,NA
+NA,2017,25,0,97,sachs,isabell,NA,NA,NA,NA,NA,NA,NA
+NA,2017,505,16816.43,53,salingre,anthony,NA,NA,NA,NA,NA,NA,NA
+NA,2017,606,33790.590000000004,316,sanga,chrispin boniface,NA,NA,NA,NA,NA,NA,NA
+NA,2017,617,17548.370000000003,335,sarenkapa,tea,NA,NA,NA,NA,NA,NA,NA
+NA,2017,81,6074.64,298,sarnot,vipul,NA,NA,NA,NA,NA,NA,NA
+NA,2017,53,42961.28,185,sbarbati,stefano,NA,NA,NA,NA,NA,NA,NA
+NA,2017,627,8326.98,344,schenk,robin,NA,NA,NA,NA,NA,NA,NA
+NA,2017,596,46404,311,schleicher,lena,NA,NA,NA,NA,NA,NA,NA
+NA,2017,602,46696.03,318,schlichenmaier,nadja,NA,NA,NA,NA,NA,NA,NA
+NA,2017,69,40365.37,231,schmalen,luisa,NA,NA,NA,NA,NA,NA,NA
+NA,2017,584,29367.37,225,schumacher,patrik,NA,NA,NA,NA,NA,NA,NA
+NA,2017,40,50482.98,147,schäfer,hanna,NA,NA,NA,NA,NA,NA,NA
+NA,2017,82,29669.75,301,seim,alice,NA,NA,NA,NA,NA,NA,NA
+NA,2017,621,20145.47,338,sinai,rebecca helen,NA,NA,NA,NA,NA,NA,NA
+NA,2017,615,615.8399999999999,333,strunkeviciute,laura,NA,NA,NA,NA,NA,NA,NA
+NA,2017,NA,NA,308,tzar,giorgia,NA,NA,NA,NA,NA,NA,NA
+NA,2017,609,8970.38,326,von netzer,frederick,NA,NA,NA,NA,NA,NA,NA
+NA,2017,574,28497.340000000004,213,von stralendorff,sophie,NA,NA,NA,NA,NA,NA,NA
+NA,2017,66,14505.980000000001,228,weidenfelder,elke,NA,NA,NA,NA,NA,NA,NA
+NA,2017,556,21786.84,184,zeller,ivo,NA,NA,NA,NA,NA,NA,NA
+NA,2017,607,30359.8,325,zillober,mirjam,NA,NA,NA,NA,NA,NA,NA
+NA,2136,3,41932.350000000006,167,große-puppendahl,sebastian,NA,NA,NA,NA,NA,NA,NA
+NA,2136,4,51343.170000000006,189,keim,daniela,NA,NA,NA,NA,NA,NA,NA
+NA,2136,1,159622.46,NA,püchner,petra,NA,NA,NA,NA,NA,NA,NA
+NA,2136,5,31818.09,344,schenk,robin,NA,NA,NA,NA,NA,NA,NA
+NA,2136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
