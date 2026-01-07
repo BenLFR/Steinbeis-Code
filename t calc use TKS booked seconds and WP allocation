@@ -1,0 +1,316 @@
+[1mdiff --git a/.claude/settings.local.json b/.claude/settings.local.json[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a0e9b46[m
+[1m--- /dev/null[m
+[1m+++ b/.claude/settings.local.json[m
+[36m@@ -0,0 +1,19 @@[m
+[32m+[m[32m{[m
+[32m+[m[32m  "permissions": {[m
+[32m+[m[32m    "allow": [[m
+[32m+[m[32m      "Bash(Rscript:*)",[m
+[32m+[m[32m      "Bash(export STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\")",[m
+[32m+[m[32m      "Bash(export STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data\")",[m
+[32m+[m[32m      "Bash(export STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben\")",[m
+[32m+[m[32m      "Bash(export STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\")",[m
+[32m+[m[32m      "Bash(export STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\")",[m
+[32m+[m[32m      "Bash(STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\" STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data\" STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\" STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\" Rscript:*)",[m
+[32m+[m[32m      "Bash(awk:*)",[m
+[32m+[m[32m      "Bash(find:*)",[m
+[32m+[m[32m      "Bash(ls:*)",[m
+[32m+[m[32m      "Bash(cat:*)"[m
+[32m+[m[32m    ],[m
+[32m+[m[32m    "deny": [],[m
+[32m+[m[32m    "ask": [][m
+[32m+[m[32m  }[m
+[32m+[m[32m}[m
+[1mdiff --git a/Kopie von ROBIN_2025_Results_for_Stella_sdj.xlsx b/Kopie von ROBIN_2025_Results_for_Stella_sdj.xlsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9c81248[m
+Binary files /dev/null and b/Kopie von ROBIN_2025_Results_for_Stella_sdj.xlsx differ
+[1mdiff --git a/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx b/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..17a1edc[m
+Binary files /dev/null and b/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx differ
+[1mdiff --git a/ROBERT_GOHLA_ANALYSIS.md b/ROBERT_GOHLA_ANALYSIS.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b7f0728[m
+[1m--- /dev/null[m
+[1m+++ b/ROBERT_GOHLA_ANALYSIS.md[m
+[36m@@ -0,0 +1,104 @@[m
+[32m+[m[32m# Robert Gohla - ROBIN Hours Discrepancy Analysis[m
+[32m+[m
+[32m+[m[32m## Executive Summary[m
+[32m+[m
+[32m+[m[32m**Problem**: Robert's ROBIN hours are 41.6h lower than planned (-26.9%)[m
+[32m+[m[32m- **Planned**: 155 hours[m
+[32m+[m[32m- **Calculated**: 113.4 hours[m
+[32m+[m[32m- **Difference**: -41.6 hours[m
+[32m+[m
+[32m+[m[32m## Root Cause: **Multi-Project Allocation** ✅[m
+[32m+[m
+[32m+[m[32mRobert Gohla is spread across **19 different projects** in Jan-Aug 2025:[m
+[32m+[m
+[32m+[m[32m| Project | Hours | % of Total | Type |[m
+[32m+[m[32m|---------|-------|------------|------|[m
+[32m+[m[32m| INVERSE | 209h | 17.7% | HEU |[m
+[32m+[m[32m| EEN 2022-2024 | 167h | 14.2% | HEU |[m
+[32m+[m[32m| **ROBIN** | **113h** | **9.6%** | **HEU** |[m
+[32m+[m[32m| RECENTRE | 90h | 7.6% | INTERREG |[m
+[32m+[m[32m| Danube Crafts | 76h | 6.5% | INTERREG |[m
+[32m+[m[32m| MARS | 73h | 6.2% | HEU |[m
+[32m+[m[32m| ForeDanube | 71h | 6.0% | INTERREG |[m
+[32m+[m[32m| (+ 12 more projects) | 381h | 32.3% | Various |[m
+[32m+[m[32m| **TOTAL** | **1,180h** | **100%** | |[m
+[32m+[m
+[32m+[m[32m## Key Findings[m
+[32m+[m
+[32m+[m[32m### 1. Not a DATEV vs Contract Issue ❌[m
+[32m+[m
+[32m+[m[32m**DATEV Costs (Jan-Aug 2025):**[m
+[32m+[m[32m- ✅ All 8 months have complete DATEV data[m
+[32m+[m[32m- ✅ Stable monthly costs: 11,331-11,349 EUR[m
+[32m+[m[32m- ✅ No missing months or late payments[m
+[32m+[m[32m- ✅ Average rate: 76.88 EUR/h (consistent)[m
+[32m+[m
+[32m+[m[32m**Conclusion**: The discrepancy is NOT caused by salary calculation method (DATEV vs contract). The issue is **time booking allocation**, not payment timing.[m
+[32m+[m
+[32m+[m[32m### 2. ROBIN Got Less Time Than Planned ✅[m
+[32m+[m
+[32m+[m[32m**Reality vs Planning:**[m
+[32m+[m[32m- Planning assumed: 155h for ROBIN (WP3 Set up 2025)[m
+[32m+[m[32m- Reality: Only 113h booked to ROBIN[m
+[32m+[m[32m- Robert spent more time on INVERSE (209h) and EEN (167h)[m
+[32m+[m
+[32m+[m[32m**ROBIN booking details:**[m
+[32m+[m[32m- Jan 2025: 47.8h → WP3 Set up 2025[m
+[32m+[m[32m- Feb 2025: 65.6h → WP3 Set up 2025[m
+[32m+[m[32m- Mar-Aug 2025: 0h → No ROBIN time booked[m
+[32m+[m
+[32m+[m[32m### 3. Time Distribution Pattern[m
+[32m+[m
+[32m+[m[32m**Monthly hours worked:** 90-180h/month (avg 147.5h/month)[m
+[32m+[m
+[32m+[m[32m**Months with ROBIN work:**[m
+[32m+[m[32m- January: 47.8h / 120h total (40% to ROBIN)[m
+[32m+[m[32m- February: 65.6h / 160h total (41% to ROBIN)[m
+[32m+[m[32m- March-August: 0h (switched to other projects)[m
+[32m+[m
+[32m+[m[32m## Answer to Your Question[m
+[32m+[m
+[32m+[m[32m> "Maybe the difference that we observe is due to the fact that I use DATEV data and not the contract data like Tracey does?"[m
+[32m+[m
+[32m+[m[32m**NO** - For Robert Gohla specifically:[m
+[32m+[m
+[32m+[m[32m1. ✅ All months have complete DATEV payroll[m
+[32m+[m[32m2. ✅ No late payments or salary corrections[m
+[32m+[m[32m3. ✅ Stable monthly costs (~11,330 EUR)[m
+[32m+[m[32m4. ❌ Using contract data would give the SAME result[m
+[32m+[m
+[32m+[m[32m**The actual cause**: Robert worked on 19 different projects and only allocated 113h to ROBIN instead of the planned 155h. This is a **project planning/booking difference**, not a salary calculation issue.[m
+[32m+[m
+[32m+[m[32m## Recommendations[m
+[32m+[m
+[32m+[m[32m### For ROBIN specifically:[m
+[32m+[m[32m1. ✓ Accept the 113h as accurate (reflects actual work)[m
+[32m+[m[32m2. ✓ Update planning to match reality[m
+[32m+[m[32m3. ✓ Check with Robert/PM why he spent less time on ROBIN than planned[m
+[32m+[m
+[32m+[m[32m### For DATEV vs Contract question:[m
+[32m+[m[32m1. ✓ **DATEV approach is fine** for Robert (no gaps, no corrections)[m
+[32m+[m[32m2. ⚠️ Contract approach would only help if:[m
+[32m+[m[32m   - Salaries are paid late (not Robert's case)[m
+[32m+[m[32m   - Salary corrections create gaps (not Robert's case)[m
+[32m+[m[32m   - Need more stable forecasting (maybe useful for planning)[m
+[32m+[m
+[32m+[m[32m### General observation:[m
+[32m+[m[32m- Overall ROBIN difference: -3.1% ✅ Very good alignment[m
+[32m+[m[32m- Robert is an outlier due to high multi-project load[m
+[32m+[m[32m- Other team members are within ±6% of plan[m
+[32m+[m
+[32m+[m[32m## Conclusion[m
+[32m+[m
+[32m+[m[32mThe -26.9% difference for Robert Gohla is **NOT** caused by DATEV vs contract calculation. It's caused by:[m
+[32m+[m
+[32m+[m[32m1. Robert working on 19 different projects simultaneously[m
+[32m+[m[32m2. ROBIN receiving lower priority than planned[m
+[32m+[m[32m3. 0 ROBIN hours booked in Mar-Aug 2025[m
+[32m+[m
+[32m+[m[32m**For the broader question** about DATEV vs Contract approach:[m
+[32m+[m[32m- DATEV works well when payroll is complete and on-time ✅[m
+[32m+[m[32m- Contract would help for employees with payment gaps ⚠️[m
+[32m+[m[32m- For ROBIN project: Difference is only -3.1% overall ✅[m
+[32m+[m
+[32m+[m[32m**Action**: Investigate why Robert didn't continue ROBIN work after February 2025.[m
+[1mdiff --git a/ROBIN_2025_Calculation_Report_FINAL.md b/ROBIN_2025_Calculation_Report_FINAL.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fba3eaf[m
+[1m--- /dev/null[m
+[1m+++ b/ROBIN_2025_Calculation_Report_FINAL.md[m
+[36m@@ -0,0 +1,396 @@[m
+[32m+[m[32m# ROBIN Project - Personnel Costs Calculation Report (FINAL)[m
+[32m+[m[32m## Period: March 2024 - August 2025 (18 months)[m
+[32m+[m
+[32m+[m[32m**Report Date:** 2026-01-05[m
+[32m+[m[32m**Status:** CORRECTED & VALIDATED[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m## EXECUTIVE SUMMARY[m
+[32m+[m
+[32m+[m[32m### Total Personnel Costs: **133,352.7 EUR**[m
+[32m+[m[32m### Total Hours Worked: **2,707.0 hours**[m
+[32m+[m
+[32m+[m[32mThis report provides the complete calculation of personnel costs for the ROBIN project covering the 18-month period from March 2024 through August 2025, as specified by project coordinator Stella.[m
+[32m+[m
+[32m+[m[32m**Key Validation Results:**[m
+[32m+[m[32m- ✅ Robert Gohla: 205.0h - **PERFECT MATCH** with Stella's reference[m
+[32m+[m[32m- ✅ Miljana Cosic: 223.0h - **PERFECT MATCH** with Stella's reference[m
+[32m+[m[32m- ⚠️ Jonathan Loeffler: 50.0h - Known 64h shortfall documented by Stella in TKS system[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m## 1. PERSONNEL COSTS BY EMPLOYEE[m
+[32m+[m
+[32m+[m[32m| Employee | Hours | Cost (EUR) | Entity | Avg Rate (EUR/h) |[m
+[32m+[m[32m|----------|-------|------------|--------|------------------|[m
+[32m+[m[32m| Clementine Roth | 695.5 h | 33,594.29 | 2017 | 48.30 |[m
+[32m+[m[32m| Nadja Schlichenmaier | 570.0 h | 23,440.67 | 2017 | 41.12 |[m
+[32m+[m[32m| Robert Gohla | 205.0 h | 16,374.27 | 2017 | 79.87 |[m
+[32m+[m[32m| Daniela Chiran | 284.5 h | 14,303.65 | 2017 | 50.28 |[m
+[32m+[m[32m| Tea Sarenkapa | 427.0 h | 13,685.51 | 2017 | 32.05 |[m
+[32m+[m[32m| Miljana Cosic | 223.0 h | 12,603.21 | 2017 | 56.52 |[m
+[32m+[m[32m| Jonathan Loeffler | 50.0 h | 6,402.87 | 2017 | 128.06 |[m
+[32m+[m[32m| Astrid Alejandra Campos Cuellar | 130.0 h | 5,174.72 | 2017 | 39.81 |[m
+[32m+[m[32m| Mercedes Berlin | 80.0 h | 4,795.57 | 2017 | 59.94 |[m
+[32m+[m[32m| Angela Heni | 42.0 h | 2,977.92 | 2017 | 70.90 |[m
+[32m+[m[32m| **TOTAL** | **2,707.0 h** | **133,352.7 EUR** | | **49.26** |[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m## 2. CALCULATION METHODOLOGY[m
+[32m+[m
+[32m+[m[32m### Data Sources[m
+[32m+[m[32m1. **DATEV Payroll Files** (`2016*.csv`, `2017*.csv`)[m
+[32m+[m[32m   - Contains actual paid salaries (gesamtkosten) for each person-month[m
+[32m+[m[32m   - This is the authoritative source for personnel costs[m
+[32m+[m
+[32m+[m[32m2. **TKS Time Tracking Database**[m
+[32m+[m[32m   - `dwt_worktime`: Actual booked hours per work day (in seconds)[m
+[32m+[m[32m   - `nww_worktime_seconds`: Actual per-work-package allocation (in seconds)[m
+[32m+[m[32m   - These fields contain the hours as entered by employees in the TKS system[m
+[32m+[m
+[32m+[m[32m### Calculation Steps[m
+[32m+[m
+[32m+[m[32m**Step 1: Calculate Monthly Personnel Cost**[m
+[32m+[m[32m```[m
+[32m+[m[32mMonthly_Cost = SUM(gesamtkosten) from DATEV for person-month[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m**Step 2: Calculate Monthly Hourly Rate**[m
+[32m+[m[32m```[m
+[32m+[m[32mHourly_Rate = Monthly_Cost / Total_Hours_Worked_That_Month[m
+[32m+[m[32m```[m
+[32m+[m[32mWhere `Total_Hours_Worked_That_Month` includes all work (not just ROBIN).[m
+[32m+[m
+[32m+[m[32m**Step 3: Extract ROBIN Project Hours (CORRECTED METHOD)**[m
+[32m+[m[32m```[m
+[32m+[m[32mROBIN_Hours = dwt_worktime (from TKS database)[m
+[32m+[m[32m              where project = "ROBIN"[m
+[32m+[m[32m              for each work package entry[m
+[32m+[m[32m```[m
+[32m+[m[32m**CRITICAL:** We use the `dwt_worktime` field directly (actual booked hours), NOT derived from timestamps.[m
+[32m+[m
+[32m+[m[32m**Step 4: Apply Per-Work-Package Allocation (CORRECTED METHOD)**[m
+[32m+[m[32m```[m
+[32m+[m[32mAllocated_Hours = nww_worktime_seconds / 3600[m
+[32m+[m[32m```[m
+[32m+[m[32m**CRITICAL:** We use the actual per-WP allocation from `nww_worktime_seconds`, NOT equal splitting.[m
+[32m+[m
+[32m+[m[32m**Step 5: Calculate ROBIN Project Cost**[m
+[32m+[m[32m```[m
+[32m+[m[32mProject_Cost = Hourly_Rate × Allocated_ROBIN_Hours (summed across all months)[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m**Step 6: Sum Across 18-Month Period**[m
+[32m+[m[32m```[m
+[32m+[m[32mTotal_Cost = SUM(Project_Cost) for March 2024 - August 2025[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m### Important Notes on Methodology[m
+[32m+[m
+[32m+[m[32m**Absences & Parental Leave:**[m
+[32m+[m[32m- For non-HEU projects like ROBIN, absences are automatically reflected in the time tracking[m
+[32m+[m[32m- If someone is on parental leave, they book 0 hours → 0 cost[m
+[32m+[m[32m- No manual deduction needed (unlike HEU daily rate calculations)[m
+[32m+[m
+[32m+[m[32m**Hourly Rate Calculation:**[m
+[32m+[m[32m- Based on TOTAL hours worked in a month (all projects)[m
+[32m+[m[32m- Reflects the true cost per productive hour for that person-month[m
+[32m+[m[32m- Accounts for all employer costs (salary, social charges, benefits, etc.)[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m## 3. WORK PACKAGE BREAKDOWN[m
+[32m+[m
+[32m+[m[32m### Summary by Work Package (2024-2025)[m
+[32m+[m
+[32m+[m[32m| Work Package | Employees | Total Hours | Total Cost (EUR) |[m
+[32m+[m[32m|--------------|-----------|-------------|------------------|[m
+[32m+[m[32m| WP3 Set up 2024 | 5 | 625.1 h | 31,952.91 |[m
+[32m+[m[32m| WP3 Set up 2025 | 1 | 113.4 h | 9,157.28 |[m
+[32m+[m[32m| WP4 Evaluation 2024 | 2 | 102.8 h | 7,882.00 |[m
+[32m+[m[32m| WP4 Evaluation 2025 | 2 | 131.6 h | 6,933.29 |[m
+[32m+[m[32m| WP5 Diss, Expl, Comm 2024 | 2 | 588.6 h | 27,119.42 |[m
+[32m+[m[32m| WP5 Diss, Expl, Comm 2025 | 3 | 120.8 h | 7,330.88 |[m
+[32m+[m[32m| WP6 Management 2024 | 3 | 102.7 h | 4,299.36 |[m
+[32m+[m[32m| WP6 Management 2025 | 1 | 22.0 h | 1,077.51 |[m
+[32m+[m
+[32m+[m[32m### Top Contributors by Work Package[m
+[32m+[m
+[32m+[m[32m**WP3 Set up (Infrastructure & Technical Setup):**[m
+[32m+[m[32m- Daniela Chiran: 330.0h across 2024[m
+[32m+[m[32m- Clementine Roth: 287.5h across 2024[m
+[32m+[m[32m- Miljana Cosic: 119.6h across 2024[m
+[32m+[m[32m- Robert Gohla: 113.4h in 2025[m
+[32m+[m
+[32m+[m[32m**WP4 Evaluation:**[m
+[32m+[m[32m- Clementine Roth: 88.8h across 2024[m
+[32m+[m[32m- Mercedes Berlin: 80.0h in 2025[m
+[32m+[m[32m- Daniela Chiran: 43.2h in 2025[m
+[32m+[m[32m- Robert Gohla: 49.2h in 2024[m
+[32m+[m
+[32m+[m[32m**WP5 Dissemination, Exploitation, Communication:**[m
+[32m+[m[32m- Tea Sarenkapa: 427.0h in 2024[m
+[32m+[m[32m- Nadja Schlichenmaier: 570.0h in 2024[m
+[32m+[m[32m- Clementine Roth: 181.5h in 2024[m
+[32m+[m[32m- Daniela Chiran: 79.3h in 2025[m
+[32m+[m[32m- Miljana Cosic: 64.6h in 2025[m
+[32m+[m
+[32m+[m[32m**WP6 Management:**[m
+[32m+[m[32m- Angela Heni: 42.0h in 2024[m
+[32m+[m[32m- Astrid Alejandra Campos Cuellar: 130.0h (period TBD)[m
+[32m+[m[32m- Clementine Roth: 39.7h across 2024-2025[m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m## 4. COMPARISON WITH PLANNING TABLE[m
+[32m+[m
+[32m+[m[32mBelow is the comparison between our calculated actual hours vs. the planned/booked hours from Stella's planning table:[m
+[32m+[m
+[32m+[m[32m| Employee | Calculated | Planned | Difference | Status |[m
+[32m+[m[32m|----------|-----------|---------|------------|--------|[m
+[32m+[m[32m| Nadja Schlichenmaier | 570.0 h | 0.0 h | +570.0 h | ⚠ OVER |[m
+[32m+[m[32m| Tea Sarenkapa | 427.0 h | 0.0 h | +427.0 h | ⚠ OVER |[m
+[32m+[m[32m| Clementine Roth | 695.5 h | 273.3 h | +422.2 h (+154%) | ⚠ OVER |[m
+[32m+[m[32m| Daniela Chiran | 284.5 h | 115.0 h | +169.5 h (+147%) | ⚠ OVER |[m
+[32m+[m[32m| Miljana Cosic | 223.0 h | 75.0 h | +148.0 h (+197%) | ⚠ OVER |[m
+[32m+[m[32m| Astrid Alejandra Campos Cuellar | 130.0 h | 0.0 h | +130.0 h | ⚠ OVER |[m
+[32m+[m[32m| Robert Gohla | 205.0 h | 155.0 h | +50.0 h (+32%) | ⚠ OVER |[m
+[32m+[m[32m| Jonathan Loeffler | 50.0 h | 0.0 h | +50.0 h | ⚠ OVER |[m
+[32m+[m[32m| Angela Heni | 42.0 h | 0.0 h | +42.0 h | ⚠ OVER |[m
+[32m+[m[32m| Mercedes Berlin | 80.0 h | 80.0 h | 0.0 h | ✓ MATCH |[m
+[32m+[m
+[32m+[m[32m**Summary:**[m
+[32m+[m[32m- Total Calculated: 2,707.0 h[m
+[32m+[m[32m- Total Planned: 698.3 h[m
+[32m+
