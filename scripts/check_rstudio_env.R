@@ -8,8 +8,8 @@ cat("═════════════════════════
 # 1. Working Directory
 cat("1. Working Directory:\n")
 cat("   Current:", getwd(), "\n")
-cat("   Expected: C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\n")
-cat("   Match:", getwd() == "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code", "\n\n")
+cat("   Expected: C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code\n")
+cat("   Match:", getwd() == "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code", "\n\n")
 
 # 2. Environment Variables
 cat("2. Environment Variables:\n")
@@ -47,16 +47,16 @@ for (lib in libs) {
 }
 
 cat("\n5. Recommended Fix:\n")
-if (getwd() != "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code") {
-  cat("   Run this first: setwd('C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code')\n")
+if (getwd() != "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code") {
+  cat("   Run this first: setwd('C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code')\n")
 }
 
 if (Sys.getenv("STEINBEIS_DB_DIR") == "") {
   cat("   Environment variables not set. Add to your ~/.Renviron file:\n")
-  cat("   STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\"\n")
-  cat("   STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data\"\n")
-  cat("   STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben\"\n")
-  cat("   STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database\"\n")
+  cat("   STEINBEIS_REPO_ROOT=\"C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code\"\n")
+  cat("   STEINBEIS_DATEV_DIR=\"C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data\"\n")
+  cat("   STEINBEIS_DB_DIR=\"C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben\"\n")
+  cat("   STEINBEIS_OUTPUT_DIR=\"C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database\"\n")
   cat("\n   Then restart RStudio.\n")
 }
 

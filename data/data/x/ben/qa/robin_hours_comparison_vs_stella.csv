@@ -1,0 +1,11 @@
+employee,hours_calculated,hours_stella,diff_hours,abs_diff,pct_diff,status
+Jonathan Loeffler,50,114,-64,64,-56.14035087719298,❌ FAIL
+Clémentine Roth,695.5,695.5,0,0,0,✅ MATCH
+Nadja Schlichenmaier,570,570,0,0,0,✅ MATCH
+Tea Sarenkapa,427,427,0,0,0,✅ MATCH
+Daniela Chiran,284.5,284.5,0,0,0,✅ MATCH
+Miljana Cosic,223,223,0,0,0,✅ MATCH
+Robert Gohla,205,205,0,0,0,✅ MATCH
+Alejandra Campos,130,130,0,0,0,✅ MATCH
+Mercedes Berlin,80,80,0,0,0,✅ MATCH
+Angela Heni,42,42,0,0,0,✅ MATCH

@@ -24,7 +24,7 @@ cat("═════════════════════════
 
 # --- Parse arguments ---------------------------------------------------
 args <- commandArgs(trailingOnly = TRUE)
-stella_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx"
+stella_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx"
 
 if (length(args) > 0) {
   for (arg in args) {
@@ -38,7 +38,7 @@ cat("Configuration:\n")
 cat("  Stella reference file:", stella_file, "\n\n")
 
 # --- Load calculated hours ---------------------------------------------
-qa_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa"
+qa_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa"
 calc_file <- file.path(qa_dir, "robin_hours_tks_like.csv")
 
 if (!file.exists(calc_file)) {

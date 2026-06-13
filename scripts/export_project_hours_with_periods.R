@@ -2,11 +2,11 @@
 # Export project hours with period breakdown (like Stella's Excel)
 #
 # Usage:
-#   project_name <- "ROBIN"
-#   start_date <- "2024-01-01"
-#   end_date <- "2024-12-31"
-#   period_split <- "semester"  # Options: "semester", "quarter", "month", or custom dates
-#   source("scripts/export_project_hours_with_periods.R")
+   project_name <- "ROBIN"
+   start_date <- "2024-01-01"
+   end_date <- "2024-12-31"
+   period_split <- "semester"  # Options: "semester", "quarter", "month", or custom dates
+   source("scripts/export_project_hours_with_periods.R")
 
 suppressPackageStartupMessages({
   library(tidyverse)
@@ -39,8 +39,8 @@ cat("Period:", format(start_date, "%Y-%m-%d"), "to", format(end_date, "%Y-%m-%d"
 cat("Split by:", period_split, "\n\n")
 
 # Paths
-db_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
-output_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa"
+db_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
+output_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa"
 
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)

@@ -1,0 +1,20 @@
+du_id,employee,dwp_id,wp_title,period,min_date,max_date,n_entries,hours
+30,Anette Mack,3967,WP8 Comm/Diss,2024-S1 (Jan-Jun),2024-01-11,2024-06-12,4,19
+30,Anette Mack,3967,WP8 Comm/Diss,2024-S2 (Jul-Dec),2024-07-01,2024-12-12,15,59
+53,Anthony Salingre,3965,WP7 ESIA and business models,2024-S1 (Jan-Jun),2024-01-03,2024-06-24,20,40
+53,Anthony Salingre,3965,WP7 ESIA and business models,2024-S2 (Jul-Dec),2024-07-09,2024-12-20,18,38
+326,Frederick Von Netzer,3965,WP7 ESIA and business models,2024-S1 (Jan-Jun),2024-01-11,2024-06-27,54,71
+326,Frederick Von Netzer,3965,WP7 ESIA and business models,2024-S2 (Jul-Dec),2024-07-02,2024-12-17,74,169
+326,Frederick Von Netzer,3968,WP9 Project Management,2024-S1 (Jan-Jun),2024-01-08,2024-06-28,96,221
+326,Frederick Von Netzer,3968,WP9 Project Management,2024-S2 (Jul-Dec),2024-07-08,2024-12-17,76,271
+363,Goranka Zett,3968,WP9 Project Management,2024-S2 (Jul-Dec),2024-10-16,2024-12-30,36,52
+289,Lucia Hörner,3965,WP7 ESIA and business models,2024-S1 (Jan-Jun),2024-03-07,2024-06-20,45,314.75
+289,Lucia Hörner,3965,WP7 ESIA and business models,2024-S2 (Jul-Dec),2024-07-15,2024-09-04,27,177.25
+321,Martina Deufel,3968,WP9 Project Management,2024-S1 (Jan-Jun),2024-01-02,2024-06-27,24,52
+321,Martina Deufel,3968,WP9 Project Management,2024-S2 (Jul-Dec),2024-07-02,2024-09-17,8,23
+54,Sandrine Doretto,3965,WP7 ESIA and business models,2024-S1 (Jan-Jun),2024-03-21,2024-04-30,7,59
+54,Sandrine Doretto,3965,WP7 ESIA and business models,2024-S2 (Jul-Dec),2024-10-01,2024-10-11,3,20
+213,Sophie Von Stralendorff,3967,WP8 Comm/Diss,2024-S1 (Jan-Jun),2024-01-08,2024-06-24,41,168.5
+213,Sophie Von Stralendorff,3967,WP8 Comm/Diss,2024-S2 (Jul-Dec),2024-07-03,2024-12-16,10,54.25
+213,Sophie Von Stralendorff,3968,WP9 Project Management,2024-S1 (Jan-Jun),2024-01-08,2024-06-19,43,221.43333333333334
+213,Sophie Von Stralendorff,3968,WP9 Project Management,2024-S2 (Jul-Dec),2024-07-01,2024-12-17,27,151

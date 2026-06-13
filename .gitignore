@@ -1,0 +1,14 @@
+# R session junk
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj.user
+
+# Node / viz-app
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db

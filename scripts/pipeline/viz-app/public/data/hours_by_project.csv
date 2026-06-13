@@ -1,0 +1,6 @@
+project_id,project,programme,is_heu,n_employees,total_hours,total_cost
+101,Project Alpha,Innovation,TRUE,5,1200,60000
+102,Project Beta,Research,FALSE,3,800,32000
+103,Project Gamma,Innovation,TRUE,8,2100,105000
+104,Internal Ops,Operations,FALSE,2,400,16000
+105,Future Tech,Research,TRUE,4,950,47500

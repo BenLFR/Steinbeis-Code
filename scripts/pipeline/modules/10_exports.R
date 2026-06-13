@@ -21,6 +21,38 @@ write_csv(reporting_costs, file.path(dir_db, "reporting_costs_HEU_daily_vs_nonHE
 
 message("✓ HEU/non-HEU reports exported")
 
+# --- Export résumé heures par projet × personne (facile à consulter) ---------
+hours_by_project_person <- cost_by_pr %>%
+  filter(month >= rp_month_floor, month <= rp_month_ceiling) %>%
+  group_by(project_id, project, programme, is_heu, du_id, pers_surname, pers_given) %>%
+  summarise(
+    total_hours = sum(hours, na.rm = TRUE),
+    total_cost = sum(cost, na.rm = TRUE),
+    n_months = n_distinct(month),
+    .groups = "drop"
+  ) %>%
+  mutate(employee = paste(pers_given, pers_surname)) %>%
+  select(project, programme, is_heu, employee, pers_surname, pers_given, du_id,
+         total_hours, total_cost, n_months) %>%
+  arrange(project, desc(total_hours))
+
+write_csv(hours_by_project_person, file.path(dir_db, "hours_by_project_person.csv"), na = "")
+message("✓ Hours by project/person summary exported: hours_by_project_person.csv")
+
+# --- Export résumé heures par projet (totaux uniquement) ---------------------
+hours_by_project <- hours_by_project_person %>%
+  group_by(project_id = NA, project, programme, is_heu) %>%
+  summarise(
+    n_employees = n_distinct(du_id),
+    total_hours = sum(total_hours, na.rm = TRUE),
+    total_cost = sum(total_cost, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_hours))
+
+write_csv(hours_by_project, file.path(dir_db, "hours_by_project.csv"), na = "")
+message("✓ Hours by project summary exported: hours_by_project.csv")
+
 # --- Export parental leave tracking (if data was loaded) ------------------
 if (exists("parental_leave_days") && nrow(parental_leave_days) > 0) {
   parental_leave_export <- parental_leave_days %>%

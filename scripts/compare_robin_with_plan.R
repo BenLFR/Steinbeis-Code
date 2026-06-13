@@ -16,7 +16,7 @@ cat("═════════════════════════
 # ---- Read our calculated ROBIN data -----------------------------------------
 cat("Loading our calculated ROBIN data...\n")
 robin_calculated <- read_csv(
-  "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/robin_project_costs_2024-03_to_2025-08.csv",
+  "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/robin_project_costs_2024-03_to_2025-08.csv",
   show_col_types = FALSE
 )
 
@@ -149,7 +149,7 @@ wp_summary <- plan_data %>%
 print(wp_summary, n = Inf)
 
 # ---- Export comparison ------------------------------------------------------
-output_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/robin_comparison_vs_plan.csv"
+output_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/robin_comparison_vs_plan.csv"
 write_csv(comparison, output_file)
 
 cat(sprintf("\n\n✓ Comparison exported to:\n  %s\n", output_file))

@@ -3,11 +3,11 @@
 # --------------------------------------------------------------------
 
 # --- Chemins des répertoires de données ------------------------------
-repo_root <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code"
-dir_db    <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
-dir_db_ben <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
-dir_datev <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
-dir_fte   <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/fte-liste"
+repo_root <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code"
+dir_db    <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
+dir_db_ben <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
+dir_datev <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"
+dir_fte   <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/fte-liste"
 
 # --- Database variant (old vs ben) -----------------------------------
 db_variant <- "ben"  # "ben" | "old"
@@ -23,6 +23,12 @@ manual_end   <- as.Date("2025-08-31")
 
 # --- Paramètres de traitement ----------------------------------------
 target_entities <- c("2016","2017","2136")
+
+# --- Project-specific entity scope (override for HEU daily rate) -----
+# Example: ROBIN uses entity 2017 (S2i) for payroll + cap calculations
+project_entity_scope <- list(
+  ROBIN = c("2017")
+)
 
 # TEMPORARY BYPASS (to continue the pipeline while HR investigates)
 # TODO(HR): Verify why these users have HEU hours but no payroll/FTE in the RP.

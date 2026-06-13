@@ -41,8 +41,8 @@ cat("Project:", project_name, "\n")
 cat("Period:", format(start_date, "%Y-%m-%d"), "to", format(end_date, "%Y-%m-%d"), "\n\n")
 
 # Paths
-db_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
-output_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa"
+db_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
+output_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa"
 
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)

@@ -1,0 +1,29 @@
+du_id,employee,dwp_id,wp_title,period,min_date,max_date,n_entries,hours
+182,Alejandra Campos,4567,WP3 Set up 2024,2024-S2 (Jul-Dec),2024-07-01,2024-07-12,10,80
+182,Alejandra Campos,4568,WP4 Evaluation 2024,2024-S2 (Jul-Dec),2024-07-12,2024-07-22,7,50
+4,Angela Heni,4570,WP6 Management 2024,2024-S1 (Jan-Jun),2024-01-09,2024-04-05,21,72
+164,Clémentine Roth,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-01-10,2024-06-27,55,170
+164,Clémentine Roth,4567,WP3 Set up 2024,2024-S2 (Jul-Dec),2024-07-01,2024-12-18,36,98
+164,Clémentine Roth,4568,WP4 Evaluation 2024,2024-S1 (Jan-Jun),2024-01-16,2024-06-24,27,44
+164,Clémentine Roth,4568,WP4 Evaluation 2024,2024-S2 (Jul-Dec),2024-07-02,2024-12-18,15,26
+164,Clémentine Roth,4569,"WP5 Diss, Expl, Comm 2024",2024-S1 (Jan-Jun),2024-01-08,2024-06-27,40,71
+164,Clémentine Roth,4569,"WP5 Diss, Expl, Comm 2024",2024-S2 (Jul-Dec),2024-07-04,2024-12-11,31,50
+164,Clémentine Roth,4570,WP6 Management 2024,2024-S1 (Jan-Jun),2024-01-30,2024-04-22,5,5
+164,Clémentine Roth,4570,WP6 Management 2024,2024-S2 (Jul-Dec),2024-10-08,2024-10-08,1,4
+83,Daniela Chiran,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-01-08,2024-04-30,71,345
+21,Jonathan Loeffler,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-03-07,2024-06-18,6,16.5
+21,Jonathan Loeffler,4567,WP3 Set up 2024,2024-S2 (Jul-Dec),2024-07-02,2024-12-18,17,33.5
+132,Miljana Cosic,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-03-01,2024-04-30,27,148
+318,Nadja Schlichenmaier,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-01-08,2024-06-24,54,351.25
+318,Nadja Schlichenmaier,4567,WP3 Set up 2024,2024-S2 (Jul-Dec),2024-07-01,2024-12-10,9,38.75
+318,Nadja Schlichenmaier,4568,WP4 Evaluation 2024,2024-S1 (Jan-Jun),2024-01-23,2024-06-25,27,153.5
+318,Nadja Schlichenmaier,4568,WP4 Evaluation 2024,2024-S2 (Jul-Dec),2024-07-16,2024-12-17,7,31.5
+318,Nadja Schlichenmaier,4569,"WP5 Diss, Expl, Comm 2024",2024-S1 (Jan-Jun),2024-01-29,2024-06-26,15,97.25
+318,Nadja Schlichenmaier,4569,"WP5 Diss, Expl, Comm 2024",2024-S2 (Jul-Dec),2024-08-05,2024-11-18,5,12.75
+27,Robert Gohla,4568,WP4 Evaluation 2024,2024-S2 (Jul-Dec),2024-07-01,2024-10-01,26,50
+335,Tea Sarenkapa,4567,WP3 Set up 2024,2024-S1 (Jan-Jun),2024-03-08,2024-06-19,53,100
+335,Tea Sarenkapa,4567,WP3 Set up 2024,2024-S2 (Jul-Dec),2024-09-25,2024-09-30,4,7
+335,Tea Sarenkapa,4568,WP4 Evaluation 2024,2024-S1 (Jan-Jun),2024-03-01,2024-06-28,56,125.5
+335,Tea Sarenkapa,4568,WP4 Evaluation 2024,2024-S2 (Jul-Dec),2024-07-01,2024-09-25,46,94.5
+335,Tea Sarenkapa,4569,"WP5 Diss, Expl, Comm 2024",2024-S1 (Jan-Jun),2024-03-01,2024-06-28,44,77.5
+335,Tea Sarenkapa,4569,"WP5 Diss, Expl, Comm 2024",2024-S2 (Jul-Dec),2024-07-01,2024-09-18,14,22.5

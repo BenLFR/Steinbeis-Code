@@ -88,6 +88,17 @@ fte_raw <- read_delim(fte_file_csv, delim=";", locale = locale(decimal_mark=",",
   ) |>
   filter(status == "Aktiv")
 
+# Deduplicate Personio FTE events (same person + effective date)
+fte_raw <- fte_raw |>
+  group_by(entity_code, pers_nr_short, wirksamkeitsdatum) |>
+  summarise(
+    personalnummer = first(personalnummer),
+    wochenstunden = if_else(all(is.na(wochenstunden)), NA_real_, max(wochenstunden, na.rm = TRUE)),
+    fte = if_else(all(is.na(fte)), NA_real_, max(fte, na.rm = TRUE)),
+    status = first(status),
+    .groups = "drop"
+  )
+
 fte_month <- fte_raw |>
   mutate(month = floor_date(wirksamkeitsdatum, "month")) |>
   group_by(entity_code, pers_nr_short) |>

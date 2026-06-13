@@ -8,9 +8,9 @@ library(stringr)
 library(readxl)
 
 # ── 0.  Dossiers racine ──────────────────────────────────────
-dir_db    <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
-dir_datev <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
-dir_fte   <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/fte-liste"
+dir_db    <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
+dir_datev <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"
+dir_fte   <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/fte-liste"
 
 # ── 1.  Fonctions utilitaires ───────────────────────────────
 read_db  <- \(n) read_csv(file.path(dir_db, n), show_col_types = FALSE)
