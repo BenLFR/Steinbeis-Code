@@ -20,10 +20,10 @@ suppressPackageStartupMessages({
 PROJECT_NAME <- "SEADE"  # Change to ROBIN, SEADE, etc.
 
 # Your calculated hours file (CSV exported by export_project_hours.R)
-calculated_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa/seade_hours_summary_20240101_20241231.csv"
+calculated_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa/seade_hours_summary_20240101_20241231.csv"
 
 # Stella's reference file (Excel)
-reference_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/SEADE_Reference_from_Stella.xlsx"
+reference_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/SEADE_Reference_from_Stella.xlsx"
 reference_sheet <- "Sheet1"  # Adjust sheet name
 
 # Excel column mapping (adjust to match Stella's Excel structure)

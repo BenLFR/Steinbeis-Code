@@ -33,10 +33,10 @@ rp_end <- as.Date("2025-08-31")
 rp_months <- seq(floor_date(rp_start, "month"), floor_date(rp_end, "month"), by = "month")
 
 # Paths (matching pipeline config)
-repo_root <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code"
-dir_datev <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
-dir_fte <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/fte-liste"
-dir_db <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
+repo_root <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code"
+dir_datev <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"
+dir_fte <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/fte-liste"
+dir_db <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
 output_dir <- file.path(dir_db, "qa")
 
 # ROBIN hours file

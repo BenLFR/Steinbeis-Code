@@ -7,7 +7,7 @@ cat("  PIPELINE RUNNER FOR RSTUDIO\n")
 cat("═══════════════════════════════════════════════════════════════════\n\n")
 
 # 1. Set working directory to repo root
-repo_root <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code"
+repo_root <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code"
 if (getwd() != repo_root) {
   cat("Setting working directory to:", repo_root, "\n")
   setwd(repo_root)
@@ -17,10 +17,10 @@ if (getwd() != repo_root) {
 
 # 2. Set environment variables (if not already set)
 env_vars <- list(
-  STEINBEIS_REPO_ROOT = "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code",
-  STEINBEIS_DATEV_DIR = "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data",
-  STEINBEIS_DB_DIR = "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben",
-  STEINBEIS_OUTPUT_DIR = "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
+  STEINBEIS_REPO_ROOT = "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code",
+  STEINBEIS_DATEV_DIR = "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data",
+  STEINBEIS_DB_DIR = "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben",
+  STEINBEIS_OUTPUT_DIR = "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
 )
 
 cat("\nSetting environment variables:\n")

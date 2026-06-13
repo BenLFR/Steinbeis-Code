@@ -11,10 +11,10 @@ cat("Location:", renviron_path, "\n")
 
 # Environment variables to add
 env_vars <- c(
-  'STEINBEIS_REPO_ROOT="C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code"',
-  'STEINBEIS_DATEV_DIR="C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"',
-  'STEINBEIS_DB_DIR="C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"',
-  'STEINBEIS_OUTPUT_DIR="C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"'
+  'STEINBEIS_REPO_ROOT="C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code"',
+  'STEINBEIS_DATEV_DIR="C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"',
+  'STEINBEIS_DB_DIR="C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"',
+  'STEINBEIS_OUTPUT_DIR="C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"'
 )
 
 # Read existing .Renviron if it exists
@@ -63,7 +63,7 @@ if (length(vars_to_add) > 0) {
     cat("═══════════════════════════════════════════════════════════════════\n\n")
     cat("After restarting:\n")
     cat("  1. Run: Sys.getenv('STEINBEIS_REPO_ROOT')\n")
-    cat("  2. Should see: C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code\n")
+    cat("  2. Should see: C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code\n")
     cat("  3. Then run: source('scripts/pipeline/run_pipeline.R')\n\n")
   } else {
     cat("\n❌ Cancelled - no changes made\n")

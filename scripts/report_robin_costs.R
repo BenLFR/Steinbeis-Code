@@ -27,9 +27,9 @@ suppressPackageStartupMessages({
 
 # ---- Configuration ----------------------------------------------------------
 # Direct paths (simplified for this installation)
-dir_datev   <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
-dir_db      <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
-dir_outputs <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
+dir_datev   <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"
+dir_db      <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
+dir_outputs <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
 
 required_dirs <- c(dir_datev, dir_db)
 missing_dirs <- required_dirs[!dir.exists(required_dirs)]

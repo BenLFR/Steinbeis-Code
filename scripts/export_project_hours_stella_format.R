@@ -30,7 +30,7 @@ cat("Project:", project_name, "\n")
 cat("Period:", format(start_date, "%d.%m.%Y"), "to", format(end_date, "%d.%m.%Y"), "\n\n")
 
 # Paths
-db_dir <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
+db_dir <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
 output_dir <- file.path(db_dir, "qa")
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 

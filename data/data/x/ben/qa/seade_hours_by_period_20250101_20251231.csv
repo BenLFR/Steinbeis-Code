@@ -1,0 +1,27 @@
+du_id,employee,dwp_id,wp_title,period,min_date,max_date,n_entries,hours
+316,Chrispin Sanga,4652,WP3 Platform,2025-S1 (Jan-Jun),2025-03-03,2025-03-25,3,24
+316,Chrispin Sanga,4653,WP4 Services,2025-S1 (Jan-Jun),2025-02-14,2025-06-10,3,25.166666666666664
+316,Chrispin Sanga,4653,WP4 Services,2025-S2 (Jul-Dec),2025-09-29,2025-10-02,3,24
+316,Chrispin Sanga,4654,WP5 Impact,2025-S1 (Jan-Jun),2025-02-10,2025-06-25,11,94.33333333333333
+316,Chrispin Sanga,4654,WP5 Impact,2025-S2 (Jul-Dec),2025-07-08,2025-10-15,5,40
+316,Chrispin Sanga,4655,"WP6 Diss, comm, expl",2025-S1 (Jan-Jun),2025-02-07,2025-06-27,18,149
+316,Chrispin Sanga,4655,"WP6 Diss, comm, expl",2025-S2 (Jul-Dec),2025-07-10,2025-10-01,8,66
+316,Chrispin Sanga,4656,WP7 MGT,2025-S1 (Jan-Jun),2025-02-12,2025-06-30,15,127.5
+316,Chrispin Sanga,4656,WP7 MGT,2025-S2 (Jul-Dec),2025-07-22,2025-08-29,10,86.21666666666667
+179,Eva Kopf,4652,WP3 Platform,2025-S1 (Jan-Jun),2025-01-20,2025-03-06,3,24
+179,Eva Kopf,4653,WP4 Services,2025-S1 (Jan-Jun),2025-01-14,2025-06-03,7,59.75
+179,Eva Kopf,4653,WP4 Services,2025-S2 (Jul-Dec),2025-08-06,2025-08-06,1,4.25
+179,Eva Kopf,4654,WP5 Impact,2025-S1 (Jan-Jun),2025-02-12,2025-05-16,7,59.25
+179,Eva Kopf,4654,WP5 Impact,2025-S2 (Jul-Dec),2025-09-16,2025-09-16,1,4.75
+179,Eva Kopf,4655,"WP6 Diss, comm, expl",2025-S1 (Jan-Jun),2025-01-08,2025-06-30,30,254.5
+179,Eva Kopf,4655,"WP6 Diss, comm, expl",2025-S2 (Jul-Dec),2025-07-03,2025-08-06,5,35.5
+179,Eva Kopf,4656,WP7 MGT,2025-S1 (Jan-Jun),2025-01-09,2025-06-26,25,215.75
+179,Eva Kopf,4656,WP7 MGT,2025-S2 (Jul-Dec),2025-07-01,2025-09-15,25,212.25
+360,Ina Qian,4655,"WP6 Diss, comm, expl",2025-S1 (Jan-Jun),2025-01-07,2025-06-30,115,303
+360,Ina Qian,4655,"WP6 Diss, comm, expl",2025-S2 (Jul-Dec),2025-07-01,2025-10-20,58,116
+360,Ina Qian,4656,WP7 MGT,2025-S1 (Jan-Jun),2025-01-07,2025-06-30,107,133
+360,Ina Qian,4656,WP7 MGT,2025-S2 (Jul-Dec),2025-07-01,2025-10-20,58,62.5
+322,Jan Ertmann,4655,"WP6 Diss, comm, expl",2025-S1 (Jan-Jun),2025-01-02,2025-02-28,27,186
+289,Lucia Hörner,4655,"WP6 Diss, comm, expl",2025-S1 (Jan-Jun),2025-03-25,2025-04-30,20,143.5
+54,Sandrine Doretto,4656,WP7 MGT,2025-S1 (Jan-Jun),2025-02-06,2025-06-30,18,127
+54,Sandrine Doretto,4656,WP7 MGT,2025-S2 (Jul-Dec),2025-09-01,2025-09-29,7,46.75

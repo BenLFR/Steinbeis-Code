@@ -12,7 +12,7 @@ suppressPackageStartupMessages({
 })
 
 # --- CONFIG ------------------------------------------------------
-dir_db <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben"
+dir_db <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben"
 
 # Période demandée par Stella
 rp_start <- as.Date("2024-03-01")

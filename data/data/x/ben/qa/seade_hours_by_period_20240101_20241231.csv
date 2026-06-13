@@ -1,0 +1,38 @@
+du_id,employee,dwp_id,wp_title,period,min_date,max_date,n_entries,hours
+316,Chrispin Sanga,4650,WP1 Research,2024-S1 (Jan-Jun),2024-01-08,2024-02-12,25,200
+316,Chrispin Sanga,4651,WP2 Mapping,2024-S1 (Jan-Jun),2024-02-28,2024-04-17,8,61
+316,Chrispin Sanga,4651,WP2 Mapping,2024-S2 (Jul-Dec),2024-07-08,2024-08-30,9,67
+316,Chrispin Sanga,4653,WP4 Services,2024-S1 (Jan-Jun),2024-02-29,2024-03-21,4,30
+316,Chrispin Sanga,4653,WP4 Services,2024-S2 (Jul-Dec),2024-08-06,2024-11-29,5,34
+316,Chrispin Sanga,4654,WP5 Impact,2024-S2 (Jul-Dec),2024-07-15,2024-11-29,9,64
+316,Chrispin Sanga,4655,"WP6 Diss, comm, expl",2024-S1 (Jan-Jun),2024-02-13,2024-04-26,32,234
+316,Chrispin Sanga,4655,"WP6 Diss, comm, expl",2024-S2 (Jul-Dec),2024-07-25,2024-09-12,15,106
+316,Chrispin Sanga,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-02-20,2024-06-24,18,139
+316,Chrispin Sanga,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-07-01,2024-11-29,12,85
+179,Eva Kopf,4655,"WP6 Diss, comm, expl",2024-S2 (Jul-Dec),2024-07-01,2024-12-17,54,441.25
+322,Jan Ertmann,4650,WP1 Research,2024-S1 (Jan-Jun),2024-01-03,2024-06-28,64,226
+322,Jan Ertmann,4650,WP1 Research,2024-S2 (Jul-Dec),2024-07-24,2024-09-10,4,3
+322,Jan Ertmann,4651,WP2 Mapping,2024-S1 (Jan-Jun),2024-01-12,2024-06-28,54,135.75
+322,Jan Ertmann,4651,WP2 Mapping,2024-S2 (Jul-Dec),2024-07-15,2024-10-08,15,23.25
+322,Jan Ertmann,4652,WP3 Platform,2024-S1 (Jan-Jun),2024-06-21,2024-06-21,1,1
+322,Jan Ertmann,4652,WP3 Platform,2024-S2 (Jul-Dec),2024-07-29,2024-12-06,22,28.5
+322,Jan Ertmann,4653,WP4 Services,2024-S1 (Jan-Jun),2024-02-06,2024-06-26,17,26.5
+322,Jan Ertmann,4653,WP4 Services,2024-S2 (Jul-Dec),2024-07-01,2024-12-04,34,53.5
+322,Jan Ertmann,4654,WP5 Impact,2024-S1 (Jan-Jun),2024-02-22,2024-06-27,18,43
+322,Jan Ertmann,4654,WP5 Impact,2024-S2 (Jul-Dec),2024-07-15,2024-12-05,29,36
+322,Jan Ertmann,4655,"WP6 Diss, comm, expl",2024-S1 (Jan-Jun),2024-01-26,2024-06-26,25,54
+322,Jan Ertmann,4655,"WP6 Diss, comm, expl",2024-S2 (Jul-Dec),2024-07-23,2024-12-19,52,98
+322,Jan Ertmann,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-01-08,2024-06-28,88,234.75
+322,Jan Ertmann,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-07-01,2024-12-30,95,320
+21,Jonathan Loeffler,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-01-09,2024-06-03,12,25
+21,Jonathan Loeffler,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-07-03,2024-12-17,13,27
+54,Sandrine Doretto,4655,"WP6 Diss, comm, expl",2024-S1 (Jan-Jun),2024-02-07,2024-06-25,6,39
+54,Sandrine Doretto,4655,"WP6 Diss, comm, expl",2024-S2 (Jul-Dec),2024-07-30,2024-11-06,4,29
+54,Sandrine Doretto,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-01-22,2024-06-20,19,146.75
+54,Sandrine Doretto,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-07-31,2024-11-05,8,53.25
+166,Timo Doll,4655,"WP6 Diss, comm, expl",2024-S1 (Jan-Jun),2024-01-29,2024-06-20,5,39
+166,Timo Doll,4655,"WP6 Diss, comm, expl",2024-S2 (Jul-Dec),2024-07-10,2024-08-15,3,21
+11,Tracey French,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-01-02,2024-06-21,12,36.75
+11,Tracey French,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-11-06,2024-12-18,8,23.25
+12,Valerie Bahr,4656,WP7 MGT,2024-S1 (Jan-Jun),2024-01-11,2024-06-25,14,84.75
+12,Valerie Bahr,4656,WP7 MGT,2024-S2 (Jul-Dec),2024-07-24,2024-12-05,11,51.25

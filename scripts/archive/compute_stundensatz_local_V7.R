@@ -9,9 +9,9 @@ library(stringdist)
 library(fuzzyjoin)
 
 # --- 0. Paths -------------------------------------------------
-dir_db    <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database"
-dir_datev <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/datev-data"
-dir_fte   <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/fte-liste"
+dir_db    <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database"
+dir_datev <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/datev-data"
+dir_fte   <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/fte-liste"
 
 # --- 1. Utils -------------------------------------------------
 read_db  <- \(f) read_csv(file.path(dir_db, f), show_col_types = FALSE)

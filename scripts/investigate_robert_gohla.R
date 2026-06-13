@@ -24,7 +24,7 @@ cat("┌────────────────────────
 cat("│ 1. ROBERT'S TIME ENTRIES (All Projects, Jan-Aug 2025)                  │\n")
 cat("└─────────────────────────────────────────────────────────────────────────┘\n\n")
 
-master <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/master_personnes_enriched.csv",
+master <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/master_personnes_enriched.csv",
                    show_col_types = FALSE)
 
 robert_months <- master %>%
@@ -51,7 +51,7 @@ cat("\n\n┌──────────────────────�
 cat("│ 2. ROBIN PROJECT ALLOCATIONS (by month and work package)               │\n")
 cat("└─────────────────────────────────────────────────────────────────────────┘\n\n")
 
-cost_by_pr <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/cost_by_pr_with_programme.csv",
+cost_by_pr <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/cost_by_pr_with_programme.csv",
                        show_col_types = FALSE)
 
 robert_robin <- cost_by_pr %>%
@@ -101,11 +101,11 @@ cat("│ 4. MULTI-WORK PACKAGE ANALYSIS                                         
 cat("└─────────────────────────────────────────────────────────────────────────┘\n\n")
 
 # Load raw worktime to work package data
-d_wt2 <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/d_worktime.csv",
+d_wt2 <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/d_worktime.csv",
                   show_col_types = FALSE)
-n_wt2wp <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/n_worktime2workpackage.csv",
+n_wt2wp <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/n_worktime2workpackage.csv",
                     show_col_types = FALSE)
-d_wp <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/d_workpackage.csv",
+d_wp <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/d_workpackage.csv",
                  show_col_types = FALSE)
 
 # Get Robert's raw time entries

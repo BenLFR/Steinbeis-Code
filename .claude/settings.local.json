@@ -11,7 +11,22 @@
       "Bash(awk:*)",
       "Bash(find:*)",
       "Bash(ls:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(python3:*)",
+      "Bash(grep:*)",
+      "Bash(node --version)",
+      "Bash(npm --version)",
+      "Bash(npm show @anthropic-ai/claude-code version 2>/dev/null)",
+      "Bash(npm uninstall -g @anthropic-ai/claude-code && npm cache clean --force && npm install -g @anthropic-ai/claude-code@latest 2>&1)",
+      "Bash(claude --version 2>&1)",
+      "Bash(git fetch *)",
+      "Bash(git rev-list *)",
+      "Bash(git diff *)",
+      "Bash(xargs -0 du -h)",
+      "Bash(xargs -0 du -m)"
     ],
     "deny": [],
     "ask": []

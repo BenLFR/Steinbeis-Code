@@ -27,9 +27,9 @@ DAYS_PER_MONTH_HEU <- 215/12  # ~17.917 days/month
 HOURS_PER_DAY <- 8
 
 # Paths
-robin_hours_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa/robin_hours_by_period_20240301_20250831.csv"
-stella_ref_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/Steinbeis-Code/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx"
-output_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ben/qa/robin_heu_calculation_results.xlsx"
+robin_hours_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa/robin_hours_by_period_20240301_20250831.csv"
+stella_ref_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/Steinbeis-Code/PK-Abrechnung-HEU-ROBIN_P2_v2.xlsx"
+output_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ben/qa/robin_heu_calculation_results.xlsx"
 
 cat("Period:", format(period_start, "%d.%m.%Y"), "to", format(period_end, "%d.%m.%Y"), "\n")
 cat("HEU days/month:", round(DAYS_PER_MONTH_HEU, 3), "\n\n")

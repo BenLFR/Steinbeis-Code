@@ -8,14 +8,14 @@ suppressPackageStartupMessages({
 cat("Creating Excel file for Stella...\n")
 
 # Load data (CORRECTED period: March 2024 - August 2025)
-robin_costs <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/robin_project_costs_2024-03_to_2025-08.csv",
+robin_costs <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/robin_project_costs_2024-03_to_2025-08.csv",
                         show_col_types = FALSE)
 
-comparison <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/robin_comparison_vs_plan.csv",
+comparison <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/robin_comparison_vs_plan.csv",
                       show_col_types = FALSE)
 
 # Load detailed cost breakdown for work package details
-cost_by_pr <- read_csv("C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/cost_by_pr_with_programme.csv",
+cost_by_pr <- read_csv("C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/cost_by_pr_with_programme.csv",
                        show_col_types = FALSE)
 
 # Prepare summary sheet
@@ -121,7 +121,7 @@ methodology <- tibble(
 )
 
 # Create Excel file with multiple sheets
-output_file <- "C:/Users/loeff/OneDrive/Documents/SEZ/2025/data/x/Database/ROBIN_2025_Results_for_Stella.xlsx"
+output_file <- "C:/Users/loeff/OneDrive/Documents/04_Stages/SEZ/SEZ/2025/data/x/Database/ROBIN_2025_Results_for_Stella.xlsx"
 
 sheets <- list(
   "Summary" = summary_with_total,
